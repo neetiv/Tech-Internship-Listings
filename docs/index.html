@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tech Internship Listings</title>
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="header-row">
+    <h1>&gt; tech_internships<span class="cursor">_</span></h1>
+    <button id="theme-toggle" type="button" aria-label="Toggle light/dark theme">
+      <span class="theme-icon">◐</span>
+    </button>
+  </div>
+  <p class="subtitle">Summer 2027 internships, aggregated daily from community trackers, Built In Seattle, and 50+ companies' own career pages.</p>
+  <p class="meta-line" id="last-updated"></p>
+</header>
+
+<main>
+  <div class="controls">
+    <input id="search" type="text" placeholder="search company or role..." autocomplete="off">
+    <select id="company-filter"><option value="">all companies</option></select>
+    <select id="location-filter"><option value="">all locations</option></select>
+    <select id="posted-filter">
+      <option value="">any time</option>
+      <option value="0">posted today</option>
+      <option value="3">last 3 days</option>
+      <option value="7">last 7 days</option>
+      <option value="30">last 30 days</option>
+    </select>
+    <select id="sort-by">
+      <option value="date_desc">newest first</option>
+      <option value="date_asc">oldest first</option>
+      <option value="company">company a-z</option>
+    </select>
+    <span class="count" id="result-count"></span>
+  </div>
+
+  <div class="table-wrap">
+    <table id="jobs-table">
+      <colgroup>
+        <col class="col-company"><col class="col-role"><col class="col-location">
+        <col class="col-posted"><col class="col-apply">
+      </colgroup>
+      <thead>
+        <tr>
+          <th>company</th>
+          <th>role</th>
+          <th>location</th>
+          <th>date posted</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody id="jobs-body"></tbody>
+    </table>
+    <p id="empty-state" class="empty-state" hidden>no matches — try a different search</p>
+  </div>
+</main>
+
+<footer>
+  <h2>aggregated from</h2>
+  <ul class="source-links">
+    <li><a href="https://github.com/SimplifyJobs/Summer2027-Internships" target="_blank" rel="noopener">SimplifyJobs/Summer2027-Internships</a></li>
+    <li><a href="https://github.com/vanshb03/Summer2027-Internships" target="_blank" rel="noopener">vanshb03/Summer2027-Internships</a></li>
+    <li><a href="https://github.com/speedyapply/2027-SWE-College-Jobs" target="_blank" rel="noopener">speedyapply/2027-SWE-College-Jobs</a></li>
+    <li><a href="https://github.com/zapplyjobs/Internships-2027" target="_blank" rel="noopener">zapplyjobs/Internships-2027</a></li>
+    <li><a href="https://www.builtinseattle.com/jobs/internship" target="_blank" rel="noopener">Built In Seattle</a></li>
+  </ul>
+  <p class="footer-note">plus 45+ companies' own career pages directly (via Greenhouse, Ashby, Lever, and Workday) — see the <a href="https://github.com/neetiv/Tech-Internship-Listings/blob/main/scripts/companies.json" target="_blank" rel="noopener">full company list</a>.</p>
+
+  <h2>other sources (not aggregated here)</h2>
+  <p class="footer-note">these either block automated access, have no accessible structured data, or (per the site owner's own request) we chose not to scrape — check them directly.</p>
+  <ul class="source-links">
+    <li><a href="https://www.linkedin.com/jobs/" target="_blank" rel="noopener">LinkedIn Jobs</a></li>
+    <li><a href="https://app.joinrunway.io/explore" target="_blank" rel="noopener">Runway</a></li>
+    <li><a href="https://jobright.ai/" target="_blank" rel="noopener">jobright.ai</a></li>
+    <li><a href="https://www.ycombinator.com/internships" target="_blank" rel="noopener">Y Combinator</a></li>
+    <li><a href="https://www.amazon.jobs/" target="_blank" rel="noopener">Amazon</a></li>
+    <li><a href="https://www.metacareers.com/" target="_blank" rel="noopener">Meta</a></li>
+    <li><a href="https://careers.google.com/" target="_blank" rel="noopener">Google</a></li>
+    <li><a href="https://jobs.apple.com/" target="_blank" rel="noopener">Apple</a></li>
+  </ul>
+  <p class="footer-note">source: <a class="repo-link" href="https://github.com/neetiv/Tech-Internship-Listings" target="_blank" rel="noopener">github.com/neetiv/Tech-Internship-Listings</a> — updated daily.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
