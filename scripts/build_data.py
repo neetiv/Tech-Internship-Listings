@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fetch internship listings from every source, normalize, dedupe, and write:
   - docs/data.json   (full list, consumed by the site)
-  - README.md        (most recent ~50 rows, between marker comments)
+  - README.md        (full list, between marker comments)
 """
 
 import json
@@ -15,7 +15,6 @@ from sources import ashby, builtin, common, eightfold, github_repos, greenhouse,
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_JSON_PATH = os.path.join(REPO_ROOT, "docs", "data.json")
 README_PATH = os.path.join(REPO_ROOT, "README.md")
-README_TABLE_ROWS = 50
 
 # Prefer company-direct on conflict (closest to source of truth), then Built In, then tracker repos.
 ORIGIN_PRIORITY = {"company-direct": 0, "builtin": 1, "tracker": 2}
@@ -95,7 +94,7 @@ def rewrite_readme(entries):
         readme = f.read()
 
     lines = ["| Company | Role | Location | Source | Posted |", "|---|---|---|---|---|"]
-    for e in entries[:README_TABLE_ROWS]:
+    for e in entries:
         location = "; ".join(e["locations"]) or "—"
         lines.append(
             f"| {e['company']} | [{e['title']}]({e['url']}) | {location} | {e['source']} | {e['date_posted'] or '—'} |"
