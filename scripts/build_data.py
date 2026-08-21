@@ -93,11 +93,11 @@ def rewrite_readme(entries):
     with open(README_PATH, encoding="utf-8") as f:
         readme = f.read()
 
-    lines = ["| Company | Role | Location | Source | Posted |", "|---|---|---|---|---|"]
+    lines = ["| Company | Role | Location | Posted |", "|---|---|---|---|"]
     for e in entries:
         location = "; ".join(e["locations"]) or "—"
         lines.append(
-            f"| {e['company']} | [{e['title']}]({e['url']}) | {location} | {e['source']} | {e['date_posted'] or '—'} |"
+            f"| {e['company']} | [{e['title']}]({e['url']}) | {location} | {e['date_posted'] or '—'} |"
         )
     table = "\n".join(lines)
 
