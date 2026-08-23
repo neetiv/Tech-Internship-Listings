@@ -173,10 +173,11 @@ table {
   table-layout: fixed;
 }
 
-col.col-company { width: 16%; }
-col.col-role { width: 37%; }
-col.col-location { width: 18%; }
-col.col-posted { width: 19%; }
+col.col-company { width: 15%; }
+col.col-role { width: 27%; }
+col.col-location { width: 16%; }
+col.col-term { width: 12%; }
+col.col-posted { width: 20%; }
 col.col-apply { width: 10%; }
 
 .truncate {

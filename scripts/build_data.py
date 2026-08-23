@@ -7,6 +7,7 @@
 import json
 import os
 import sys
+from concurrent.futures import ThreadPoolExecutor
 
 sys.path.insert(0, os.path.dirname(__file__))
 
@@ -33,24 +34,32 @@ def fetch_company_direct():
     with open(os.path.join(os.path.dirname(__file__), "companies.json")) as f:
         companies = json.load(f)
 
-    entries = []
-    for cfg in companies:
+    def fetch_one(cfg):
         fetcher = PLATFORM_FETCHERS[cfg["platform"]]
         label = f"{cfg['company']} ({cfg['platform']})"
-        result = common.safe_source(lambda cfg=cfg: fetcher(cfg), label)
+        result = common.safe_source(lambda: fetcher(cfg), label)
         print(f"[info] {label}: {len(result)} internship postings")
-        entries.extend(result)
-        common.polite_delay()
+        return result
+
+    # Each company hits a different host (or at worst shares a huge platform
+    # like Greenhouse across thousands of tenants), so there's no shared
+    # rate-limit risk from running them all at once.
+    entries = []
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        for result in pool.map(fetch_one, companies):
+            entries.extend(result)
     return entries
 
 
 def normalize(entry, origin):
+    title = (entry.get("title") or "").strip()
     return {
         "company": (entry.get("company") or "").strip(),
-        "title": (entry.get("title") or "").strip(),
+        "title": title,
         "url": entry.get("url"),
         "locations": entry.get("locations") or [],
         "date_posted": entry.get("date_posted"),
+        "term": common.extract_term(title),
         "source": entry.get("source", ""),
         "origin": origin,
     }
@@ -71,16 +80,23 @@ def dedupe(entries):
 def recover_truncated_titles(entries):
     """Some tracker repos truncate long titles (ending in '...') in their own
     README tables. Re-fetch just those job pages to recover the real title."""
-    fixed = 0
-    for e in entries:
-        title = e["title"].rstrip()
-        if not (title.endswith("...") or title.endswith("…")) or not e["url"]:
-            continue
+    targets = [
+        e for e in entries
+        if e["url"] and e["title"].rstrip().endswith(("...", "…"))
+    ]
+
+    def recover_one(e):
         full_title = common.recover_full_title(e["url"])
         if full_title:
             e["title"] = full_title
-            fixed += 1
-        common.polite_delay(0.2)
+            e["term"] = common.extract_term(full_title)  # truncation may have cut off the term
+            return 1
+        return 0
+
+    # Every truncated title points at a different company's job page, so
+    # these are spread across many hosts — same reasoning as company-direct.
+    with ThreadPoolExecutor(max_workers=12) as pool:
+        fixed = sum(pool.map(recover_one, targets))
     print(f"[info] recovered {fixed} truncated titles")
 
 
@@ -112,9 +128,19 @@ def rewrite_readme(entries):
 
 
 def main():
-    tracker_entries = [normalize(e, "tracker") for e in github_repos.fetch_all()]
-    builtin_entries = [normalize(e, "builtin") for e in common.safe_source(builtin.fetch_all, "builtin")]
-    direct_entries = [normalize(e, "company-direct") for e in fetch_company_direct()]
+    # These three sources are fully independent of each other, and Built In
+    # Seattle in particular has to stay slow internally (see builtin.py) —
+    # so instead of paying for that ~2min cost on top of everything else,
+    # run all three sources side by side and let the slowest one set the
+    # total time instead of the sum of all three.
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        tracker_future = pool.submit(github_repos.fetch_all)
+        builtin_future = pool.submit(common.safe_source, builtin.fetch_all, "builtin")
+        direct_future = pool.submit(fetch_company_direct)
+
+        tracker_entries = [normalize(e, "tracker") for e in tracker_future.result()]
+        builtin_entries = [normalize(e, "builtin") for e in builtin_future.result()]
+        direct_entries = [normalize(e, "company-direct") for e in direct_future.result()]
 
     all_entries = tracker_entries + builtin_entries + direct_entries
     deduped = dedupe(all_entries)

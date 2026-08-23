@@ -196,6 +196,32 @@ def recover_full_title(url):
     return None
 
 
+_TERM_SEASON_YEAR_RE = re.compile(r"\b(Spring|Summer|Fall|Autumn|Winter)\s+(20\d{2})\b", re.IGNORECASE)
+_TERM_YEAR_SEASON_RE = re.compile(r"\b(20\d{2})\s+(Spring|Summer|Fall|Autumn|Winter)\b", re.IGNORECASE)
+_SEASON_NORMALIZE = {"autumn": "Fall"}
+
+
+def extract_term(title):
+    """Best-effort 'Summer 2027' style term, pulled straight out of the job
+    title text (the only place any of our sources put it — no ATS exposes
+    this as a real structured field). Titles use both word orders
+    ("Summer 2027 Intern" and "... - 2027 Summer"), so check both. Most
+    titles don't mention a term at all; callers should treat None as
+    genuinely unknown, not a bug."""
+    if not title:
+        return None
+    m = _TERM_SEASON_YEAR_RE.search(title)
+    if m:
+        season, year = m.group(1), m.group(2)
+    else:
+        m = _TERM_YEAR_SEASON_RE.search(title)
+        if not m:
+            return None
+        year, season = m.group(1), m.group(2)
+    season = _SEASON_NORMALIZE.get(season.lower(), season.capitalize())
+    return f"{season} {year}"
+
+
 def safe_source(fn, source_name, default=None):
     """Run a fetcher, catching+logging errors so one broken source doesn't kill the build."""
     try:

@@ -72,6 +72,15 @@ def _fetch_job(url):
 
 
 def fetch_all():
+    # Tried running these ~80-100 job-page fetches concurrently (2 and 4
+    # workers both tested) — this host's rate limit is strict enough that
+    # concurrency here just trades wall-clock time for retry/backoff time
+    # instead of actually saving any (83-89 requests ended up 429ing and
+    # retrying either way, sometimes making total time *worse* than plain
+    # sequential). So this stays sequential and safely paced; the actual
+    # speed fix is running this whole source concurrently with the other
+    # sources in build_data.py, instead of trying to make this one faster
+    # internally.
     entries = []
     for url in _listing_job_urls():
         try:

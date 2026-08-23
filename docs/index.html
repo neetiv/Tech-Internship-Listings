@@ -24,6 +24,7 @@
     <input id="search" type="text" placeholder="search company or role..." autocomplete="off">
     <select id="company-filter"><option value="">all companies</option></select>
     <select id="location-filter"><option value="">all locations</option></select>
+    <select id="term-filter"><option value="">all terms</option></select>
     <select id="posted-filter">
       <option value="">any time</option>
       <option value="0">posted today</option>
@@ -43,13 +44,14 @@
     <table id="jobs-table">
       <colgroup>
         <col class="col-company"><col class="col-role"><col class="col-location">
-        <col class="col-posted"><col class="col-apply">
+        <col class="col-term"><col class="col-posted"><col class="col-apply">
       </colgroup>
       <thead>
         <tr>
           <th>company</th>
           <th>role</th>
           <th>location</th>
+          <th>term</th>
           <th>date posted</th>
           <th></th>
         </tr>
