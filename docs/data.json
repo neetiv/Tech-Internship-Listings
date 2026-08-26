@@ -84,18 +84,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Layup Parts",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53",
-    "locations": [
-      "Huntington Beach, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Bosch Group",
     "title": "Internship Vehicle Thermal Systems Engineering",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142173185",
@@ -108,47 +96,35 @@
     "origin": "tracker"
   },
   {
-    "company": "Hermeus",
-    "title": "Hermeus - Propulsion Test Engineering Intern - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Hermeus",
-    "title": "Hermeus - Software Engineering Intern (Command &amp; Control) - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Hermeus",
-    "title": "Hermeus - Flight Software Engineering Intern - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Bosch Group",
     "title": "Powertrain Controls Software Engineering Intern (6-Months, Full-Time)",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000142898574",
     "locations": [
       "Farmington Hills, MI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Layup Parts",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.lever.co/layup/0b42f7ad-ebdc-4b4a-8fe6-47640f6dba53",
+    "locations": [
+      "Huntington Beach, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Gritt Robotics",
+    "title": "ML &amp; Cloud Infrastructure Engineer Intern @ Gritt Robotics Inc",
+    "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
+    "locations": [
+      "South San Francisco"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -173,18 +149,6 @@
     "url": "https://jobs.ashbyhq.com/persona.ai/6078fafd-ba34-4c89-b260-7eb15be3cb9c",
     "locations": [
       "Pensacola, FL or Houst..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Gritt Robotics",
-    "title": "ML &amp; Cloud Infrastructure Engineer Intern @ Gritt Robotics Inc",
-    "url": "https://jobs.ashbyhq.com/gritt/46af6e69-40fc-4e53-940e-a99757137523",
-    "locations": [
-      "South San Francisco"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -264,11 +228,59 @@
     "origin": "tracker"
   },
   {
-    "company": "Base Power",
-    "title": "Software Engineering Intern",
-    "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc",
+    "company": "Hermeus",
+    "title": "Hermeus - Software Engineering Intern (Command &amp; Control) - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67",
     "locations": [
-      "Austin, TX"
+      "Atlanta, GA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Hermeus",
+    "title": "Hermeus - Flight Software Engineering Intern - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Hermeus",
+    "title": "Hermeus - Propulsion Test Engineering Intern - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/31513d2a-8e08-424b-b125-4f972fcfc805",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Circleback",
+    "title": "Software Engineering Intern (Summer 2027) @ Circleback",
+    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f",
+    "locations": [
+      "San Francisco"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Centerfield",
+    "title": "Frontend Engineer Intern (6 month internship) @ Centerfield",
+    "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
+    "locations": [
+      "Los Angeles, California"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -288,26 +300,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Centerfield",
-    "title": "Frontend Engineer Intern (6 month internship) @ Centerfield",
-    "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
+    "company": "Base Power",
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc",
     "locations": [
-      "Los Angeles, California"
+      "Austin, TX"
     ],
     "date_posted": "2026-08-26",
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Circleback",
-    "title": "Software Engineering Intern (Summer 2027) @ Circleback",
-    "url": "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f",
-    "locations": [
-      "San Francisco"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -360,6 +360,66 @@
     "origin": "tracker"
   },
   {
+    "company": "Brunswick",
+    "title": "Mercury Marine: Drives & Propulsion S...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237",
+    "locations": [
+      "Oshkosh, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Software Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+    "locations": [
+      "Tulsa, OK"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Software Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316",
+    "locations": [
+      "Champaign, IL"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "The Hartford",
+    "title": "Tech & Data Program Summer 2027 - Sof...",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
+    "locations": [
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Cybersecurity Intern (Summer 2027)",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Northrop Grumman",
     "title": "2027 Software Test Engineering Intern...",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
@@ -396,11 +456,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Brunswick",
-    "title": "Mercury Marine - Systems/Software Eng...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Systems-Software-Engineering-Co-op_JR-051212",
+    "company": "AbbVie",
+    "title": "2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
     "locations": [
-      "Fond du Lac, WI"
+      "South San Francisco, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -408,11 +468,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Brunswick",
-    "title": "Mercury Marine: Drives & Propulsion S...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Drives---Propulsion-Systems-Engineering-Intern_JR-051237",
+    "company": "AbbVie",
+    "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860456",
     "locations": [
-      "Oshkosh, WI"
+      "South San Francisco, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -420,26 +480,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Brunswick",
-    "title": "Software Engineering Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Software-Engineering-Intern_JR-051321",
+    "company": "AbbVie",
+    "title": "2027 Business Technology Solutions Intern - Cloud Engineering (Undergraduate)",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860211",
     "locations": [
-      "Tulsa, OK"
+      "Irvine, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "The Hartford",
-    "title": "Tech & Data Program Summer 2027 - Sof...",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -485,6 +533,18 @@
     "url": "https://jobs.smartrecruiters.com/NorthwesternMutual/85751624",
     "locations": [
       "Milwaukee, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Motorola Solutions",
+    "title": "Supply Chain Data Analyst Internship ...",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489",
+    "locations": [
+      "Chicago, IL"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -552,9 +612,9 @@
     "origin": "tracker"
   },
   {
-    "company": "Eragon",
-    "title": "Applied AI Intern",
-    "url": "https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e",
+    "company": "Eight Sleep",
+    "title": "AI/ML Research Internship",
+    "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
     "locations": [
       "San Francisco"
     ],
@@ -564,9 +624,9 @@
     "origin": "tracker"
   },
   {
-    "company": "Eight Sleep",
-    "title": "AI/ML Research Internship",
-    "url": "https://jobs.ashbyhq.com/eightsleep/b6c2e6f6-eadd-4d67-93e9-1426be4f2035",
+    "company": "Eragon",
+    "title": "Applied AI Intern",
+    "url": "https://jobs.ashbyhq.com/eragon/0b90ea4a-8684-4ae1-a7cc-c998db6e862e",
     "locations": [
       "San Francisco"
     ],
@@ -612,11 +672,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Crowe",
-    "title": "Business Analyst Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Business-Analyst-Intern_R-71638",
+    "company": "Brunswick",
+    "title": "Mercury Marine: Power BI/Ops Analytic...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236",
     "locations": [
-      "Chicago IL USA"
+      "Fond du Lac, WI"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -636,11 +696,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Brunswick",
-    "title": "Mercury Marine: Power BI/Ops Analytic...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236",
+    "company": "Crowe",
+    "title": "Business Analyst Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Business-Analyst-Intern_R-71638",
     "locations": [
-      "Fond du Lac, WI"
+      "Chicago IL USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Polaris",
+    "title": "Digital & IT - Predictive Data Scienc...",
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
+    "locations": [
+      "Medina, MN"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -708,11 +780,11 @@
     "origin": "tracker"
   },
   {
-    "company": "GlobalFoundries",
-    "title": "Facilities Engineering Intern, Electr...",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Facilities-Engineering-Intern--Electrical-Distribution-Systems--Summer-2027-_JR-2604572",
+    "company": "KION Group",
+    "title": "Controls Engineering Intern/Co-Op",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1",
     "locations": [
-      "Vermont"
+      "Grand Rapids MI United..."
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -840,42 +912,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Hermeus",
-    "title": "Hermeus - Manufacturing Engineering Intern - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Hermeus",
-    "title": "Hermeus - Mechanical Engineering Intern  - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Hermeus",
-    "title": "Hermeus - Test and Operations Engineering Intern - Fall 2026",
-    "url": "https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Persona AI",
     "title": "Electrical Engineering Intern",
     "url": "https://jobs.ashbyhq.com/persona.ai/a68c0823-0b61-4741-9fbc-a1f6d701e4ed",
@@ -936,18 +972,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Field AI",
-    "title": "FieldAI - Mechanical Engineer, Robotics Hardware - Part-Time Internship",
-    "url": "https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
-    "locations": [
-      "Irvine, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Odin Dynamics",
     "title": "Fall Engineering Intern",
     "url": "https://jobs.ashbyhq.com/odin-dynamics/db6fe6ed-3517-423d-a757-3b6edea4b51d",
@@ -996,11 +1020,47 @@
     "origin": "tracker"
   },
   {
-    "company": "Contoro Robotics",
-    "title": "Robotics Test & Validation Intern",
-    "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1",
+    "company": "Hermeus",
+    "title": "Hermeus - Test and Operations Engineering Intern - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/6afd9372-2a91-4935-b7a5-7a1cf4eb960b",
     "locations": [
-      "Austin, TX"
+      "Los Angeles, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Hermeus",
+    "title": "Hermeus - Manufacturing Engineering Intern - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Hermeus",
+    "title": "Hermeus - Mechanical Engineering Intern  - Fall 2026",
+    "url": "https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Field AI",
+    "title": "FieldAI - Mechanical Engineer, Robotics Hardware - Part-Time Internship",
+    "url": "https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
+    "locations": [
+      "Irvine, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1013,6 +1073,18 @@
     "url": "https://jobs.ashbyhq.com/cluely/89809243-a79a-4a8f-a394-8e8b12743108",
     "locations": [
       "San Francisco"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Contoro Robotics",
+    "title": "Robotics Test & Validation Intern",
+    "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1",
+    "locations": [
+      "Austin, TX"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1068,21 +1140,9 @@
     "origin": "tracker"
   },
   {
-    "company": "Kodiak Robotics",
-    "title": "Job Application for Winter 2027 Intern, Electrical Engineering at Kodiak",
-    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009",
-    "locations": [
-      "Mountain View, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Winter 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Brunswick",
-    "title": "Mercury Marine: Materials Engineering...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Intern_JR-051117",
+    "title": "Mercury Marine: Facilities Engineerin...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Facilities-Engineering-Intern_JR-051229",
     "locations": [
       "Fond du Lac, WI"
     ],
@@ -1093,10 +1153,10 @@
   },
   {
     "company": "Brunswick",
-    "title": "Mercury Marine: Software Validation I...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Oshkosh-WI/Mercury-Marine--Software-Validation-Intern_JR-051160",
+    "title": "Computer Graphics Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Computer-Graphics-Engineering-Intern_JR-051325",
     "locations": [
-      "Oshkosh, WI"
+      "Champaign, IL"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1105,10 +1165,10 @@
   },
   {
     "company": "Brunswick",
-    "title": "Electro - Mechanical Engineering Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298",
+    "title": "Engineering Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Tulsa-OK/Engineering-Intern_JR-051312",
     "locations": [
-      "Menomonee Falls, WI"
+      "Tulsa, OK"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1128,11 +1188,47 @@
     "origin": "tracker"
   },
   {
-    "company": "KION Group",
-    "title": "Controls Engineering Intern/Co-Op",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Grand-Rapids-MI-United-States/Controls-Engineering-Intern-Co-Op_JR-0094003-1",
+    "company": "Cadence",
+    "title": "Product Engineering Internship, Elect...",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
     "locations": [
-      "Grand Rapids MI United..."
+      "Burlington, MA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "AeroVironment",
+    "title": "Mechanical Engineering Intern",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Facilities Engineering Intern, Electr...",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Facilities-Engineering-Intern--Electrical-Distribution-Systems--Summer-2027-_JR-2604572",
+    "locations": [
+      "Vermont"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Moog",
+    "title": "Intern, Hardware Engineering",
+    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+    "locations": [
+      "Mineral Wells, TX"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1308,35 +1404,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Epic Games",
-    "title": "Game Design Intern",
-    "url": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
+    "company": "Disney",
+    "title": "Graphic Design & Communications Inter...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440",
     "locations": [
-      "Cary,North Carolina,Un..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Engineering Test Lab Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Engineering-Test-Lab-Intern_JR-051267",
-    "locations": [
-      "Lowell, MI"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine: UX/UI Design Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163",
-    "locations": [
-      "Fond du Lac, WI"
+      "Lake Buena Vista, FL, USA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1356,11 +1428,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Disney",
-    "title": "Graphic Design & Communications Inter...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Graphic-Design---Communications-Intern--Spring-2027_10158440",
+    "company": "Brunswick",
+    "title": "Mercury Marine: UX/UI Design Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--UX-UI-Design-Intern_JR-051163",
     "locations": [
-      "Lake Buena Vista, FL, USA"
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Engineering Test Lab Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Engineering-Test-Lab-Intern_JR-051267",
+    "locations": [
+      "Lowell, MI"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1385,6 +1469,30 @@
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/Design-Build-Intern-Technician---Summer-2027_R-31320-1",
     "locations": [
       "Kansas City, MO"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Copart",
+    "title": "Technology Product Analyst Intern",
+    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
+    "locations": [
+      "Dallas, TX - Headquarters"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Epic Games",
+    "title": "Game Design Intern",
+    "url": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
+    "locations": [
+      "Cary,North Carolina,Un..."
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1465,18 +1573,6 @@
   },
   {
     "company": "Crest Industries",
-    "title": "Accounting Internship",
-    "url": "https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606",
-    "locations": [
-      "Pineville, Louisiana"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Crest Industries",
     "title": "Finance Internship",
     "url": "https://jobs.lever.co/crestoperations/a4e1fa07-80f5-4a7d-989e-b755a7ac7d7e",
     "locations": [
@@ -1493,6 +1589,18 @@
     "url": "https://jobs.lever.co/crestoperations/b155c903-f65d-489b-8ea0-d959af22c481",
     "locations": [
       "Alexandria, Louisiana"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Crest Industries",
+    "title": "Accounting Internship",
+    "url": "https://jobs.lever.co/crestoperations/0c3cb17a-06f9-43aa-a623-c3588544f606",
+    "locations": [
+      "Pineville, Louisiana"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1524,35 +1632,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Johnson & Johnson",
-    "title": "Supply Chain Risk Management Co-Op",
-    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278",
+    "company": "American Fidelity",
+    "title": "IT Operations Intern (OKC Local Only)",
+    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Operations-Intern_JR1009-1",
     "locations": [
-      "Titusville, New Jersey..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "BorgWarner",
-    "title": "Materials Intern",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Materials-Intern_R2026-3389",
-    "locations": [
-      "North Carolina"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine: Accounting Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Accounting-Intern_JR-051054",
-    "locations": [
-      "Fond du Lac, WI"
+      "Oklahoma City, Oklahoma"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1572,11 +1656,71 @@
     "origin": "tracker"
   },
   {
+    "company": "Brunswick",
+    "title": "Mercury Marine: Accounting Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Accounting-Intern_JR-051054",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Uline",
     "title": "Human Resources Recruiting Internship...",
     "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Human-Resources-Recruiting-Internship---Summer-2027_R266132",
     "locations": [
       "Pleasant Prairie, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "PIMCO",
+    "title": "2027 Summer Intern - Alternatives Inv...",
+    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Alternatives-Investment-Operations-Intern_R106782",
+    "locations": [
+      "Newport Beach, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "title": "Supply Chain Risk Management Co-Op",
+    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Titusville-New-Jersey-United-States-of-America/Supply-Chain-Risk-Management-Co-Op_R-095278",
+    "locations": [
+      "Titusville, New Jersey..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Polaris",
+    "title": "HR Internship - Summer 2027",
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526",
+    "locations": [
+      "Medina, MN"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "BorgWarner",
+    "title": "Materials Intern",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Arden---North-Carolina---USA/Materials-Intern_R2026-3389",
+    "locations": [
+      "North Carolina"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1601,6 +1745,30 @@
     "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000127747569",
     "locations": [
       "Norfolk, VA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Philips",
+    "title": "Co-op - Robotics Mechatronics, Surgic...",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+    "locations": [
+      "Cambridge (US), Massac..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Philips",
+    "title": "Co-op - Robotics Mechatronics, Surgic...",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905",
+    "locations": [
+      "Cambridge (US), Massac..."
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1645,10 +1813,10 @@
   },
   {
     "company": "Red Bull",
-    "title": "2026 Internship, Fall - Academy Strength &amp; Conditioning",
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000139167669",
+    "title": "2026 Internship, Fall - Digital Growth &amp; Content",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000139169859",
     "locations": [
-      "Morristown, NJ"
+      "Harrison, NJ"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1657,8 +1825,8 @@
   },
   {
     "company": "Red Bull",
-    "title": "2026 Internship, Fall - Corporate Partnerships",
-    "url": "https://jobs.smartrecruiters.com/RedBull/744000139300800",
+    "title": "2026 Internship, Fall - Box Office",
+    "url": "https://jobs.smartrecruiters.com/RedBull/744000139169529",
     "locations": [
       "Harrison, NJ"
     ],
@@ -1772,6 +1940,30 @@
     ],
     "date_posted": "2026-08-26",
     "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Motorola Solutions",
+    "title": "Center of Excellence Presales -  (Fal...",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Michigan-US-Offsite/Center-of-Excellence-Presales-----Fall-2026-Co-Op-_R67752",
+    "locations": [
+      "Michigan, US Offsite"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Dexcom",
+    "title": "2027 US Summer Internship - Early Int...",
+    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
+    "locations": [
+      "San Diego, California"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -1896,42 +2088,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Layup Parts",
-    "title": "Manufacturing Engineer Intern",
-    "url": "https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583",
-    "locations": [
-      "Huntington Beach, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Life.Church (YouVersion)",
-    "title": "Life.Church Campus Internship",
-    "url": "https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b",
-    "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Machina Labs",
-    "title": "Technical Project Manager, Intern",
-    "url": "https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415",
-    "locations": [
-      "Chatsworth, CA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Machina Labs",
     "title": "Robotic Process Engineer, Intern",
     "url": "https://jobs.lever.co/MachinaLabs/40bf906a-0078-444d-a4a6-95719c8634ed",
@@ -1956,11 +2112,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Institute for Foundation Models",
-    "title": "Institute of Foundation Models - Inference Optimization Intern \u2013 Performance Modeling",
-    "url": "https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d",
+    "company": "Machina Labs",
+    "title": "Technical Project Manager, Intern",
+    "url": "https://jobs.lever.co/MachinaLabs/95d39682-8861-4b82-bb18-c985f280f415",
     "locations": [
-      "Sunnyvale, CA"
+      "Chatsworth, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -1980,11 +2136,35 @@
     "origin": "tracker"
   },
   {
-    "company": "Persona AI",
-    "title": "Robotics Data Pipeline Intern",
-    "url": "https://jobs.ashbyhq.com/persona.ai/c7981f54-698b-4617-a72a-ff251f3fa8a7",
+    "company": "Layup Parts",
+    "title": "Manufacturing Engineer Intern",
+    "url": "https://jobs.lever.co/layup/4522257e-bac4-4937-b0b0-88d7ebbb6583",
     "locations": [
-      "Pensacola, FL or Houst..."
+      "Huntington Beach, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Life.Church (YouVersion)",
+    "title": "Life.Church Campus Internship",
+    "url": "https://jobs.lever.co/life/2282f1ca-c456-46a2-9ba3-05524e4ce91b",
+    "locations": [
+      "United States"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Institute for Foundation Models",
+    "title": "Institute of Foundation Models - Inference Optimization Intern \u2013 Performance Modeling",
+    "url": "https://jobs.lever.co/ifm-us/1a09231e-44f2-4c82-a7a1-793bd159d68d",
+    "locations": [
+      "Sunnyvale, CA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -2009,6 +2189,18 @@
     "url": "https://jobs.ashbyhq.com/gritt/26af4e71-339d-4aa3-9f22-91574c1166b9",
     "locations": [
       "South San Francisco"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Persona AI",
+    "title": "Robotics Data Pipeline Intern",
+    "url": "https://jobs.ashbyhq.com/persona.ai/c7981f54-698b-4617-a72a-ff251f3fa8a7",
+    "locations": [
+      "Pensacola, FL or Houst..."
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -2064,18 +2256,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Rivian and Volkswagen Group Technologies",
-    "title": "Technical Art, 3D Intern - Fall 2026",
-    "url": "https://jobs.ashbyhq.com/rivianvw.tech/59eed606-85cf-4470-8abd-fdaaefeeaa31",
-    "locations": [
-      "Palo Alto, California"
-    ],
-    "date_posted": "2026-08-26",
-    "term": "Fall 2026",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Rilla",
     "title": "Generalist Intern, Fall 2026",
     "url": "https://jobs.ashbyhq.com/rilla/450c6d61-15d8-40b8-8f72-bfbe49935831",
@@ -2124,6 +2304,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Kognitos",
+    "title": "Forward Deployed Engineer Intern (Mountain View) @ Kognitos",
+    "url": "https://jobs.ashbyhq.com/kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148",
+    "locations": [
+      "Mountain View"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Human Computer Lab",
     "title": "Intern - Growth",
     "url": "https://jobs.ashbyhq.com/human-computer-lab/d00556eb-3be0-4b51-be43-4a4084e505a1",
@@ -2141,18 +2333,6 @@
     "url": "https://jobs.ashbyhq.com/human-computer-lab/3ceb956a-f231-4238-bb2e-365515b930a7",
     "locations": [
       "San Francisco"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Kognitos",
-    "title": "Forward Deployed Engineer Intern (Mountain View) @ Kognitos",
-    "url": "https://jobs.ashbyhq.com/kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148",
-    "locations": [
-      "Mountain View"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -2209,8 +2389,8 @@
   },
   {
     "company": "Crest Industries",
-    "title": "CIS/CS Internship",
-    "url": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488",
+    "title": "Internships - All Disciplines",
+    "url": "https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad",
     "locations": [
       "Pineville, Louisiana"
     ],
@@ -2221,8 +2401,8 @@
   },
   {
     "company": "Crest Industries",
-    "title": "Internships - All Disciplines",
-    "url": "https://jobs.lever.co/crestoperations/9afdac38-29ca-40be-8bd3-314869633cad",
+    "title": "CIS/CS Internship",
+    "url": "https://jobs.lever.co/crestoperations/234d5be4-a214-4568-a681-d60f15624488",
     "locations": [
       "Pineville, Louisiana"
     ],
@@ -2352,114 +2532,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Dexcom",
-    "title": "2027 US Summer Internship - Early Int...",
-    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/San-Diego-California/XMLNAME-2027-US-Summer-Internship---Early-Interest_JR116511",
-    "locations": [
-      "San Diego, California"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Crowe",
-    "title": "Data Consultant Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042",
-    "locations": [
-      "Chicago IL USA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Sustainability Engagement Coop",
-    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Sustainability-Engagement-Coop_R-093946",
-    "locations": [
-      "New Brunswick, New Jer..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Epic Games",
-    "title": "Gameplay Programmer Intern",
-    "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
-    "locations": [
-      "Cary,North Carolina,Un..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine - Foundry Engineering ...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Foundry-Engineering-Co-op_JR-050979",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine - Heat Treat Metallurg...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine---Heat-Treat-Metallurgical-Engineer-Co-op_JR-051013",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine: Credit Intern",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Credit-Intern_JR-051201",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Regal Rexnord",
-    "title": "Engineering Co-Op",
-    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216",
-    "locations": [
-      "Charlotte, North Carol..."
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Manhattan Associates",
-    "title": "CXO Co-Op - Summer (May 2027)",
-    "url": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/CXO-Co-Op---Summer--May-2027-_16873",
-    "locations": [
-      "Atlanta, GA"
-    ],
-    "date_posted": "2026-08-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Disney",
     "title": "Attractions Operations and Sustainmen...",
     "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Attractions-Operations-and-Sustainment-Intern--Spring-2027_10157953",
@@ -2496,11 +2568,59 @@
     "origin": "tracker"
   },
   {
-    "company": "BP",
-    "title": "Summer Intern \u2013 Supply, Trading, & Sh...",
-    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1",
+    "company": "Sony",
+    "title": "Intern, Legal",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Legal-Intern_JR-119374",
     "locations": [
-      "Illinois"
+      "New York"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Merucry Marine: Product Management In...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Merucry-Marine--Product-Management-Intern---Parts---Accessories_JR-051142",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Trade Compliance Intern",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Trade-Compliance-Intern_JR-051093",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Mercury Marine: Product Management In...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Manhattan Associates",
+    "title": "CXO Co-Op - Summer (May 2027)",
+    "url": "https://manh.wd5.myworkdayjobs.com/campus/job/Atlanta-GA/CXO-Co-Op---Summer--May-2027-_16873",
+    "locations": [
+      "Atlanta, GA"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -2544,11 +2664,275 @@
     "origin": "tracker"
   },
   {
+    "company": "CVS Health",
+    "title": "Pharmacy Intern - Grad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---Cape-Girardeau/Pharmacy-Intern---Grad_R1023378",
+    "locations": [
+      "Cape Girardeau, MO"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "CVS Health",
+    "title": "Pharmacy Intern - Grad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/MO---Poplar-Bluff/Pharmacy-Intern---Grad_R1023373",
+    "locations": [
+      "Poplar Bluff, MO"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "CVS Health",
+    "title": "Pharmacy Intern - Grad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/03783---Tennessee-CVS-Pharmacy-LLC/Pharmacy-Intern---Grad_R1023372",
+    "locations": [
+      "03783 - Tennessee CVS ..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Crowe",
+    "title": "Data Consultant Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Consultant-Intern_R-71042",
+    "locations": [
+      "Chicago IL USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Campbell Soup Company",
+    "title": "Sales Finance Co-op",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Sales-Finance-Co-op_Req-67677",
+    "locations": [
+      "NJ"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Campbell Soup Company",
+    "title": "Fall Co-Op",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---OH---Napoleon/Fall-Co-Op_Req-67518",
+    "locations": [
+      "OH"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Morgan Stanley",
+    "title": "Intern",
+    "url": "https://ms.wd5.myworkdayjobs.com/External/job/Seattle-Washington-United-States-of-America/Intern_JR042730",
+    "locations": [
+      "Seattle, Washington, U..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Johnson & Johnson",
+    "title": "Sustainability Engagement Coop",
+    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/New-Brunswick-New-Jersey-United-States-of-America/Sustainability-Engagement-Coop_R-093946",
+    "locations": [
+      "New Brunswick, New Jer..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "AeroVironment",
+    "title": "Business Development Intern",
+    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Germantown-MD/Business-Development-Intern_8539",
+    "locations": [
+      "Germantown, MD"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "BP",
+    "title": "Summer Intern \u2013 Supply, Trading, & Sh...",
+    "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ114738-1",
+    "locations": [
+      "Illinois"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Environmental Intern (Summer 2027)",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Micron Technology",
+    "title": "Intern - Process Development Engineer...",
+    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Micron Technology",
+    "title": "Intern - Metrology Process Developmen...",
+    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
+    "locations": [
+      "Boise, ID - Main Site"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "JLL",
+    "title": "Market Studies Intern Summer 2027 Int...",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Market-Studies-Intern-Summer-2027-Internship---Cedar-Springs---Dallas--TX_REQ530575",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "JLL",
+    "title": "JLL Real Estate Capital Asset Managem...",
+    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Pittsburgh-PA/JLL-Real-Estate-Capital-Asset-Management-Capital-Markets-Summer-2027-Internship---Pittsburgh--PA_REQ530211",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "ABB",
+    "title": "Electrification Sales FL Co-Op Summer...",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Florida-United-States-of-America/Electrification-Sales-Co-Op-Summer-Fall-2027_JR00043335",
+    "locations": [
+      "Remote, Florida, Unite..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "ABB",
+    "title": "Electrification GA Sales Co-Op - Summ...",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Atlanta-Georgia-United-States-of-America/Electrification-GA-Sales-Co-Op---Summer-Fall-2027_JR00043332",
+    "locations": [
+      "Atlanta, Georgia, Unit..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "ABB",
+    "title": "Electrification GA Sales Co-Op - Spri...",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Atlanta-Georgia-United-States-of-America/Electrification-GA-Sales-Co-Op---Spring-Summer2027_JR00043329",
+    "locations": [
+      "Atlanta, Georgia, Unit..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "PNC Financial Services",
+    "title": "Corporate & Institutional Banking Und...",
+    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Corporate---Institutional-Banking-Undergraduate-Intern---Treasury-Management_R230917-1",
+    "locations": [
+      "Pittsburgh, PA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Regal Rexnord",
+    "title": "Engineering Co-Op",
+    "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Charlotte-North-Carolina-United-States/Engineering-Co-Op_R26_04216",
+    "locations": [
+      "Charlotte, North Carol..."
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Steven's Capital Management",
     "title": "Software Engineer",
     "url": "https://grnh.se/abfli75k1us?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Radnor, PA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "AbbVie",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Irvine, CA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Epic Games",
+    "title": "Gameplay Programmer Intern",
+    "url": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Cary, NC"
     ],
     "date_posted": "2026-08-26",
     "term": null,
@@ -2842,6 +3226,78 @@
     "origin": "tracker"
   },
   {
+    "company": "Deepgram",
+    "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
+    "url": "https://www.builtinseattle.com/job/software-engineering-internship/10240509",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": "Fall 2026",
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "Golden Pet Brands",
+    "title": "Social Media/Community Management Intern (Reddit)",
+    "url": "https://www.builtinseattle.com/job/reddit-intern/10359992",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "JMI Equity",
+    "title": "Strategic Design Intern",
+    "url": "https://www.builtinseattle.com/job/strategic-design-intern/9937569",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "Metasys",
+    "title": "Tech Ops Internship",
+    "url": "https://www.builtinseattle.com/job/tech-ops-internship/10594449",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "Robas Research Pvt. Ltd.",
+    "title": "Lead Generation Internship",
+    "url": "https://www.builtinseattle.com/job/lead-generation-internship/10374668",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "Holiday Channel | My Holiday World",
+    "title": "AI Engineer Internship (UNPAID)",
+    "url": "https://www.builtinseattle.com/job/ai-engineer-internship-unpaid/9752470",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
     "company": "NVIDIA",
     "title": "ASIC Physical Design Intern - 2027",
     "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Hsinchu/ASIC-Physical-Design-Intern---2027_JR2024050",
@@ -2866,6 +3322,18 @@
     "origin": "company-direct"
   },
   {
+    "company": "Cisco",
+    "title": "Software Engineer \u2013 Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+    "locations": [
+      "Bangalore, India"
+    ],
+    "date_posted": "2026-08-26",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
     "company": "Google",
     "title": "Software Engineering Intern - PhD - Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054",
@@ -2875,18 +3343,6 @@
     "date_posted": "2026-08-25",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
-    "origin": "tracker"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Cybersecurity Intern (Summer 2027)",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
   {
@@ -2927,7 +3383,7 @@
   },
   {
     "company": "Verkada",
-    "title": "page_title",
+    "title": "Job Application for Security Software Engineering Intern 2027 at Verkada",
     "url": "https://job-boards.greenhouse.io/verkada/jobs/5213881007",
     "locations": [
       "San Mateo, CA United S..."
@@ -2962,11 +3418,71 @@
     "origin": "tracker"
   },
   {
+    "company": "Disney",
+    "title": "Glendale System Software Engineering ...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
+    "locations": [
+      "Glendale, CA, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "Disneyland Quality Engineering Intern...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
+    "locations": [
+      "Anaheim, CA, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "AMD",
     "title": "Login",
     "url": "https://campus-amd.icims.com/jobs/91475/login",
     "locations": [
       "Santa Clara, CA, Unite..."
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "The Hartford",
+    "title": "Tech & Data Program Summer 2027 - Sof...",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "date_posted": "2026-08-25",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Freddie Mac",
+    "title": "Multifamily Software Development Inte...",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+    "locations": [
+      "McLean, VA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Freddie Mac",
+    "title": "Single-Family Software Developer Inte...",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+    "locations": [
+      "McLean, VA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -2986,11 +3502,35 @@
     "origin": "tracker"
   },
   {
+    "company": "RTX",
+    "title": "Systems Engineering Test Equipment In...",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450",
+    "locations": [
+      "El Segundo, CA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Elanco",
     "title": "Quality Assurance Intern \u2013 Elwood, KS...",
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Quality-Assurance-Intern---Elwood--KS--Summer-2027-_R0026917",
     "locations": [
       "Elwood, KS"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GE Vernova",
+    "title": "GE Vernova GridOS  Software Test Engi...",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/GE-Vernova-GridOS--Software-Test-Engineer---Intern---Summer-2027_R5049907-2",
+    "locations": [
+      "Atlanta"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3058,54 +3598,6 @@
     "origin": "tracker"
   },
   {
-    "company": "The Hartford",
-    "title": "Tech & Data Program Summer 2027 - Sof...",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Disneyland Quality Engineering Intern...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Quality-Engineering-Intern--Fall-2026_10158416-2",
-    "locations": [
-      "Anaheim, CA, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Glendale System Software Engineering ...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Spring-2027_10158137",
-    "locations": [
-      "Glendale, CA, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "GE Vernova",
-    "title": "GE Vernova GridOS  Software Test Engi...",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Atlanta/GE-Vernova-GridOS--Software-Test-Engineer---Intern---Summer-2027_R5049907-2",
-    "locations": [
-      "Atlanta"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Booz Allen Hamilton",
     "title": "Software Engineer - Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Bremerton-WA/Software-Engineer---Intern_R0247218",
@@ -3118,11 +3610,11 @@
     "origin": "tracker"
   },
   {
-    "company": "RTX",
-    "title": "Systems Engineering Test Equipment In...",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/Systems-Engineering-Test-Equipment-Intern--Summer-2027-_01867450",
+    "company": "Philips",
+    "title": "Graduate Level Co-op \u2013 Data Scientist...",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
     "locations": [
-      "El Segundo, CA"
+      "Plymouth, Minnesota, U..."
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3130,11 +3622,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Freddie Mac",
-    "title": "Multifamily Software Development Inte...",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+    "company": "Disney",
+    "title": "Environmental Sustainability Data Ana...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341",
     "locations": [
-      "McLean, VA"
+      "Lake Buena Vista, FL, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3142,11 +3634,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Freddie Mac",
-    "title": "Single-Family Software Developer Inte...",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+    "company": "Disney",
+    "title": "Labor Systems Data Analytics & Integr...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
     "locations": [
-      "McLean, VA"
+      "Lake Buena Vista, FL, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3154,83 +3646,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Microsoft",
-    "title": "Software Engineering Intern - Azure Core",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971803",
+    "company": "Disney",
+    "title": "Walt Disney World Transportation Logi...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1",
     "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Polaris",
-    "title": "Digital & IT - Predictive Data Scienc...",
-    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Digital---IT---Predictive-Data-Science-Internship---Summer-2027_R30525",
-    "locations": [
-      "Medina, MN"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Motorola Solutions",
-    "title": "Supply Chain Data Analyst Internship ...",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Data-Analyst-Internship-2027_R67489",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Johnson & Johnson",
-    "title": "Data Operations & Analytics Fall Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
-    "locations": [
-      "Somerset, New Jersey, ..."
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Honeywell",
-    "title": "Honeywell",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
-    "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Honeywell",
-    "title": "Honeywell",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555",
-    "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Nokia",
-    "title": "Data Analytics & AI Co-op",
-    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743",
-    "locations": [
-      "United States"
+      "Lake Buena Vista, FL, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3286,11 +3706,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Disney",
-    "title": "Labor Systems Data Analytics & Integr...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Labor-Systems-Data-Analytics---Integration-Intern--Spring-2027_10157891-1",
+    "company": "Johnson & Johnson",
+    "title": "Data Operations & Analytics Fall Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/jj/job/Somerset-New-Jersey-United-States-of-America/Data-Operations---Analytics-Spring-Co-op_R-091978",
     "locations": [
-      "Lake Buena Vista, FL, USA"
+      "Somerset, New Jersey, ..."
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3298,11 +3718,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Disney",
-    "title": "Walt Disney World Transportation Logi...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Spring-2027_10158253-1",
+    "company": "Honeywell",
+    "title": "Honeywell",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155554",
     "locations": [
-      "Lake Buena Vista, FL, USA"
+      "United States"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3310,11 +3730,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Disney",
-    "title": "Environmental Sustainability Data Ana...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Environmental-Sustainability-Data-Analytics-Intern--Spring-2027_10156341",
+    "company": "Honeywell",
+    "title": "Honeywell",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/155555",
     "locations": [
-      "Lake Buena Vista, FL, USA"
+      "United States"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3322,11 +3742,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Philips",
-    "title": "Graduate Level Co-op \u2013 Data Scientist...",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
+    "company": "Nokia",
+    "title": "Data Analytics & AI Co-op",
+    "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743",
     "locations": [
-      "Plymouth, Minnesota, U..."
+      "United States"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3370,38 +3790,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Moog",
-    "title": "Intern, Hardware Engineering",
-    "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Engineering_R-26-19417",
+    "company": "Kodiak Robotics",
+    "title": "Job Application for Winter 2027 Intern, Electrical Engineering at Kodiak",
+    "url": "https://job-boards.greenhouse.io/kodiak/jobs/4382626009",
     "locations": [
-      "Mineral Wells, TX"
+      "Mountain View, CA"
     ],
     "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Cadence",
-    "title": "Product Engineering Internship, Elect...",
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/Burlington-MA/Product-Engineering-Internship--Electronics-Hardware-Design--Fall-2026-_R54158-2",
-    "locations": [
-      "Burlington, MA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "AeroVironment",
-    "title": "Mechanical Engineering Intern",
-    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Sunrise-FL/Mechanical-Engineering-Intern_8472",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
+    "term": "Winter 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -3411,6 +3807,42 @@
     "url": "https://job-boards.greenhouse.io/celonis/jobs/7974381003?gh_jid=7974381003",
     "locations": [
       "Remote, US, Massachusetts"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "Disneyland Manufacturing Intern, Spri...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Manufacturing-Intern--Fall-2026_10158414",
+    "locations": [
+      "Anaheim, CA, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "Disneyland Electrical Engineering Int...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423",
+    "locations": [
+      "Anaheim, CA, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "Disneyland Facilities Controls Electr...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296",
+    "locations": [
+      "Anaheim, CA, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3490,42 +3922,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Disney",
-    "title": "Disneyland Electrical Engineering Int...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Electrical-Engineering-Intern--Spring-2027_10158423",
-    "locations": [
-      "Anaheim, CA, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Disneyland Facilities Controls Electr...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Controls-Electrical-Engineering-Intern--Spring-2027_10158296",
-    "locations": [
-      "Anaheim, CA, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Disneyland Facilities Management Engi...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Facilities-Management-Engineering-Intern--Spring-2027_10158737",
-    "locations": [
-      "Anaheim, CA, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Intuitive",
     "title": "Computer Vision Engineering Intern - Fall 2026",
     "url": "https://jobs.smartrecruiters.com/Intuitive/744000145329669",
@@ -3562,47 +3958,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Microsoft",
-    "title": "IMDA-CLT Program: Solution Engineering INTERN",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556869379",
-    "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Copart",
-    "title": "Technology Product Analyst Intern",
-    "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Technology-Product-Analyst-Intern_JR110789",
-    "locations": [
-      "Dallas, TX - Headquarters"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Bosch Group",
     "title": "AI Security Research Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145507908",
     "locations": [
       "Pittsburgh, PA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Disneyland Design and Construction St...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291",
-    "locations": [
-      "Anaheim, CA, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3622,23 +3982,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Wex",
-    "title": "PhD Intern, AI/ML/NLP Engineer",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "company": "Disney",
+    "title": "Disneyland Design and Construction St...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Design-and-Construction-Strategic-Sourcing-Intern--Spring-2027_10158291",
     "locations": [
-      "Remote"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Cigna",
-    "title": "Legal Research Intern",
-    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Legal-Research-Intern_26009786",
-    "locations": [
-      "Bloomfield, CT"
+      "Anaheim, CA, USA"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3658,11 +4006,35 @@
     "origin": "tracker"
   },
   {
+    "company": "Wex",
+    "title": "PhD Intern, AI/ML/NLP Engineer",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
+    "locations": [
+      "Remote"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Intel",
     "title": "Process Integration and Yield Enginee...",
     "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Process-Integration-and-Yield-Engineer-PhD-Intern_JR0286268",
     "locations": [
       "US, Oregon, Hillsboro"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Cigna",
+    "title": "Legal Research Intern",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/Legal-Research-Intern_26009786",
+    "locations": [
+      "Bloomfield, CT"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3678,42 +4050,6 @@
     ],
     "date_posted": "2026-08-25",
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Polaris",
-    "title": "HR Internship - Summer 2027",
-    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/HR-Internship---Summer-2027_R30526",
-    "locations": [
-      "Medina, MN"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "American Fidelity",
-    "title": "IT Operations Intern (OKC Local Only)",
-    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Operations-Intern_JR1009-1",
-    "locations": [
-      "Oklahoma City, Oklahoma"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "PIMCO",
-    "title": "2027 Summer Intern - Alternatives Inv...",
-    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Alternatives-Investment-Operations-Intern_R106782",
-    "locations": [
-      "Newport Beach, CA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -3742,23 +4078,83 @@
     "origin": "tracker"
   },
   {
-    "company": "Zipline",
-    "title": "Marketing Intern (Spring 2027)",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7968519003",
+    "company": "Generac",
+    "title": "Corporate Accounting Intern",
+    "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Corporate-Accounting-Intern_JR15779",
     "locations": [
-      "South San Francisco, C..."
+      "Waukesha, WI - USA"
     ],
     "date_posted": "2026-08-25",
-    "term": "Spring 2027",
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
   {
-    "company": "Allison Transmission",
-    "title": "Fall Semester Global Strategic Market...",
-    "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Fall-Semester-Global-Strategic-Marketing-Intern_R008015",
+    "company": "Disney",
+    "title": "WDI Communications Intern, Orlando, S...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Communications-Intern--Orlando--Spring-2027_10159172",
     "locations": [
-      "Indianapolis, IN"
+      "Lake Buena Vista, FL, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "Marketing Strategy Intern, Walt Disne...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Marketing-Strategy-Intern--Walt-Disney-World-Resort--Spring-2027_10159113",
+    "locations": [
+      "Celebration, FL, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Disney",
+    "title": "WDI Business Planning and Strategy In...",
+    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2",
+    "locations": [
+      "Celebration, FL, USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Brunswick",
+    "title": "Mercury Marine: Human Resources Inter...",
+    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Human-Resources-Intern---Manufacturing-Operations_JR-051162",
+    "locations": [
+      "Fond du Lac, WI"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Freddie Mac",
+    "title": "Accounting and Finance Intern- Summer...",
+    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543",
+    "locations": [
+      "McLean, VA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "RTX",
+    "title": "Finance Intern \u2013 1st shift \u2013 On site ...",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Finance-Intern---1st-shift---On-site---Aeroestructuras_01868100",
+    "locations": [
+      "Bcn, MX"
     ],
     "date_posted": "2026-08-25",
     "term": null,
@@ -3778,6 +4174,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Allison Transmission",
+    "title": "Fall Semester Global Strategic Market...",
+    "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Fall-Semester-Global-Strategic-Marketing-Intern_R008015",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Johnson & Johnson",
     "title": "Summer 2027 Finance Internship \u2013 El P...",
     "url": "https://jj.wd5.myworkdayjobs.com/jj/job/El-Paso-Texas-United-States-of-America/Summer-2027-Finance-Internship---El-Paso--TX-Juarez--MX_R-095343",
@@ -3786,6 +4194,42 @@
     ],
     "date_posted": "2026-08-25",
     "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Polaris",
+    "title": "Finance Internship - Summer 2027",
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Finance-Internship---Summer-2027_R30415",
+    "locations": [
+      "Medina, MN"
+    ],
+    "date_posted": "2026-08-25",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Polaris",
+    "title": "Marketing Internship - Summer 2027",
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Marketing-Internship---Summer-2027_R30416",
+    "locations": [
+      "Plymouth, MN"
+    ],
+    "date_posted": "2026-08-25",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Zipline",
+    "title": "Marketing Intern (Spring 2027)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7968519003",
+    "locations": [
+      "South San Francisco, C..."
+    ],
+    "date_posted": "2026-08-25",
+    "term": "Spring 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -3834,330 +4278,6 @@
     ],
     "date_posted": "2026-08-25",
     "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Brunswick",
-    "title": "Mercury Marine: Human Resources Inter...",
-    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Human-Resources-Intern---Manufacturing-Operations_JR-051162",
-    "locations": [
-      "Fond du Lac, WI"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "WDI Business Planning and Strategy In...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/WDI-Business-Planning-and-Strategy-Intern--Orlando--Spring-2027_10158474-2",
-    "locations": [
-      "Celebration, FL, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "WDI Communications Intern, Orlando, S...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/WDI-Communications-Intern--Orlando--Spring-2027_10159172",
-    "locations": [
-      "Lake Buena Vista, FL, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Disney",
-    "title": "Marketing Strategy Intern, Walt Disne...",
-    "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Celebration-FL-USA/Marketing-Strategy-Intern--Walt-Disney-World-Resort--Spring-2027_10159113",
-    "locations": [
-      "Celebration, FL, USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Generac",
-    "title": "Corporate Accounting Intern",
-    "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Corporate-Accounting-Intern_JR15779",
-    "locations": [
-      "Waukesha, WI - USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Polaris",
-    "title": "Finance Internship - Summer 2027",
-    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Medina-MN-USA/Finance-Internship---Summer-2027_R30415",
-    "locations": [
-      "Medina, MN"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Polaris",
-    "title": "Marketing Internship - Summer 2027",
-    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Plymouth-MN-USA/Marketing-Internship---Summer-2027_R30416",
-    "locations": [
-      "Plymouth, MN"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "RTX",
-    "title": "Finance Intern \u2013 1st shift \u2013 On site ...",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Finance-Intern---1st-shift---On-site---Aeroestructuras_01868100",
-    "locations": [
-      "Bcn, MX"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Freddie Mac",
-    "title": "Accounting and Finance Intern- Summer...",
-    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Accounting-and-Finance-Intern--Summer-2027_JR17543",
-    "locations": [
-      "McLean, VA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Environmental Intern (Summer 2027)",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Environmental-Intern--Summer-2027-_JR-2604241",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "CVS Health",
-    "title": "Pharmacy Intern",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Gainesville/Pharmacy-Intern_R1022594",
-    "locations": [
-      "Gainesville, FL"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "CVS Health",
-    "title": "Pharmacy Intern",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---High-Springs/Pharmacy-Intern_R1022579",
-    "locations": [
-      "High Springs, FL"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "CVS Health",
-    "title": "Pharmacy Intern",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/FL---Lake-City/Pharmacy-Intern_R1022564",
-    "locations": [
-      "Lake City, FL"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Target",
-    "title": "Operation Manager Intern (Starting Su...",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/15450-Washington-St-ThorntonCO-80023-9719/Operation-Manager-Intern--Starting-Summer-2027--Food-Distribution-Center---Thornton--CO_R0000450440-1",
-    "locations": [
-      "Thornton, CO"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Target",
-    "title": "Operation Manager Intern (Starting Su...",
-    "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/34800-United-Ave-PuebloCO-81001-4882/Operation-Manager-Intern--Starting-Summer-2027--Regional-Distribution-Center---Pueblo--CO_R0000450392",
-    "locations": [
-      "Pueblo, CO"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Motorola Solutions",
-    "title": "Center of Excellence Presales -  (Fal...",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Michigan-US-Offsite/Center-of-Excellence-Presales-----Fall-2026-Co-Op-_R67752",
-    "locations": [
-      "Michigan, US Offsite"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Philips",
-    "title": "Co-op - Robotics Mechatronics, Surgic...",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
-    "locations": [
-      "Cambridge (US), Massac..."
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Philips",
-    "title": "Co-op - Robotics Mechatronics, Surgic...",
-    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905",
-    "locations": [
-      "Cambridge (US), Massac..."
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Sony",
-    "title": "Intern, Legal",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Legal-Intern_JR-119374",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Campbell Soup Company",
-    "title": "Fall Co-Op",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---OH---Napoleon/Fall-Co-Op_Req-67518",
-    "locations": [
-      "OH"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Campbell Soup Company",
-    "title": "Sales Finance Co-op",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Sales-Finance-Co-op_Req-67677",
-    "locations": [
-      "NJ"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "AeroVironment",
-    "title": "Business Development Intern",
-    "url": "https://avav.wd1.myworkdayjobs.com/AVAV/job/Germantown-MD/Business-Development-Intern_8539",
-    "locations": [
-      "Germantown, MD"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Eight Sleep",
-    "title": "Hardware Support & Test Intern",
-    "url": "https://jobs.ashbyhq.com/eightsleep/f8de63e3-605e-404a-98b4-5b58d9fe7bc5",
-    "locations": [
-      "San Francisco"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Micron Technology",
-    "title": "Intern - Process Development Engineer...",
-    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Process-Development-Engineer--3D-DRAM-CMP_JR107848",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Micron Technology",
-    "title": "Intern - Metrology Process Developmen...",
-    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Boise-ID---Main-Site/Intern---Metrology-Process-Development-Engineer_JR108851",
-    "locations": [
-      "Boise, ID - Main Site"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "JLL",
-    "title": "Market Studies Intern Summer 2027 Int...",
-    "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Dallas-TX/Market-Studies-Intern-Summer-2027-Internship---Cedar-Springs---Dallas--TX_REQ530575",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "ABB",
-    "title": "Electrification Sales FL Co-Op Summer...",
-    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Remote-Florida-United-States-of-America/Electrification-Sales-Co-Op-Summer-Fall-2027_JR00043335",
-    "locations": [
-      "Remote, Florida, Unite..."
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -4752,6 +4872,30 @@
     "origin": "builtin"
   },
   {
+    "company": "JMI Equity",
+    "title": "Marketing Intern",
+    "url": "https://www.builtinseattle.com/job/marketing-intern/9937364",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "JMI Equity",
+    "title": "People Operations Intern",
+    "url": "https://www.builtinseattle.com/job/people-operations-intern/9937349",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-25",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
     "company": "Metasys",
     "title": "Solution Architect Internship",
     "url": "https://www.builtinseattle.com/job/solution-architect-internship/10594446",
@@ -4824,90 +4968,6 @@
     "origin": "builtin"
   },
   {
-    "company": "Boston Scientific",
-    "title": "Manufacturing Engineer Intern",
-    "url": "https://www.builtinseattle.com/job/manufacturing-engineer-intern/10840796",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "FOLX Health",
-    "title": "Legal Intern - Summer 2026",
-    "url": "https://www.builtinseattle.com/job/legal-intern-summer-2026/9185448",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": "Summer 2026",
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "SOLO NETWORK",
-    "title": "Junior Developer Intern",
-    "url": "https://www.builtinseattle.com/job/junior-developer-intern/10811763",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "Molina Healthcare Inc.",
-    "title": "Intern",
-    "url": "https://www.builtinseattle.com/job/intern/10838320",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "Aconomy",
-    "title": "Marketing and Data Research Intern",
-    "url": "https://www.builtinseattle.com/job/marketing-and-data-research-intern/9937158",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "PROJXON",
-    "title": "UI/UX Intern",
-    "url": "https://www.builtinseattle.com/job/ui-ux-intern/10295527",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
-    "company": "PROJXON",
-    "title": "Graphic Designer Intern",
-    "url": "https://www.builtinseattle.com/job/graphic-designer-intern/10293085",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-25",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
     "company": "Cisco",
     "title": "Internet Measurement Research Intern - BGP Research Team",
     "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Internet-Measurement-Research-Intern---BGP-Research-Team_2023762",
@@ -4918,6 +4978,18 @@
     "term": null,
     "source": "Cisco (Workday)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Microsoft",
+    "title": "Software Engineering Intern - Azure Core",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556971803",
+    "locations": [
+      "United States"
+    ],
+    "date_posted": "2026-08-24",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
   },
   {
     "company": "WSP",
@@ -5211,6 +5283,30 @@
     "origin": "builtin"
   },
   {
+    "company": "Synvolv",
+    "title": "Founding GTM Intern \u2014 AI SaaS Research & Outbound",
+    "url": "https://www.builtinseattle.com/job/founding-gtm-intern-ai-saas-research-outbound/10236468",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-24",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
+    "company": "Allworth Financial",
+    "title": "Financial Services Intern",
+    "url": "https://www.builtinseattle.com/job/financial-services-intern/10807829",
+    "locations": [
+      "USA"
+    ],
+    "date_posted": "2026-08-24",
+    "term": null,
+    "source": "Built In Seattle",
+    "origin": "builtin"
+  },
+  {
     "company": "Point72",
     "title": "2027 Point72 Academy Investment Analyst Summer Internship Program - Japan (BCF)",
     "url": "https://boards.greenhouse.io/point72/jobs/8729717002?gh_jid=8729717002",
@@ -5221,30 +5317,6 @@
     "term": null,
     "source": "Point72 (Greenhouse)",
     "origin": "company-direct"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Advanced Manufacturing Engineering In...",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604593",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-08-23",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "GlobalFoundries",
-    "title": "Advanced Manufacturing Engineering In...",
-    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604594",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-08-23",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
   },
   {
     "company": "Hitachi",
@@ -5267,6 +5339,30 @@
     ],
     "date_posted": "2026-08-23",
     "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Engineering In...",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604593",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-08-23",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GlobalFoundries",
+    "title": "Advanced Manufacturing Engineering In...",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604594",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-08-23",
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -5312,30 +5408,6 @@
     "url": "https://careers-springswindowfashions.icims.com/jobs/12892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Long Island City, Queens, NY"
-    ],
-    "date_posted": "2026-08-23",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 TikTok",
-    "title": "AI Product Manager Intern - Product Social",
-    "url": "https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-23",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Product Manager Intern - Content and Service Ads \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
     ],
     "date_posted": "2026-08-23",
     "term": null,
@@ -5403,30 +5475,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Elanco",
-    "title": "Quality Assurance Intern \u2013 Clinton, I...",
-    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Quality-Assurance-Intern---Clinton--Indiana--Summer-2027-_R0026895",
-    "locations": [
-      "Clinton, IN"
-    ],
-    "date_posted": "2026-08-22",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "GE Vernova",
-    "title": "GE Vernova - Energy Optimization Soft...",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
-    "locations": [
-      "Bellevue"
-    ],
-    "date_posted": "2026-08-22",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "HP Inc",
     "title": "Enterprise Operations Software Intern...",
     "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
@@ -5451,35 +5499,35 @@
     "origin": "tracker"
   },
   {
+    "company": "Elanco",
+    "title": "Quality Assurance Intern \u2013 Clinton, I...",
+    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Quality-Assurance-Intern---Clinton--Indiana--Summer-2027-_R0026895",
+    "locations": [
+      "Clinton, IN"
+    ],
+    "date_posted": "2026-08-22",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GE Vernova",
+    "title": "GE Vernova - Energy Optimization Soft...",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Bellevue/GE-Vernova---Energy-Optimization-Software-Engineer-Intern---Summer-2027_R5050022-2",
+    "locations": [
+      "Bellevue"
+    ],
+    "date_posted": "2026-08-22",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Zipline",
     "title": "Software Engineer Intern (Summer 2027)",
     "url": "https://www.zipline.com/open-roles?gh_jid=7929236003",
     "locations": [
       "South San Francisco, C..."
-    ],
-    "date_posted": "2026-08-22",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "LLNL",
-    "title": "National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027",
-    "url": "https://jobs.smartrecruiters.com/llnl/3743990014731656",
-    "locations": [
-      "Livermore, CA"
-    ],
-    "date_posted": "2026-08-22",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "LLNL",
-    "title": "National Security Engineering Division (NSED) Graduate Intern - Summer 2027",
-    "url": "https://jobs.smartrecruiters.com/llnl/3743990014731646",
-    "locations": [
-      "Livermore, CA"
     ],
     "date_posted": "2026-08-22",
     "term": "Summer 2027",
@@ -5523,6 +5571,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Carrier Global",
+    "title": "Engineering Intern - JumpStart Program",
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Intern---JumpStart-Program_30213511-2",
+    "locations": [
+      "CAN01: Carrier-Syracus..."
+    ],
+    "date_posted": "2026-08-22",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Moog",
     "title": "Intern, Electrical Engineering",
     "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Electrical-Engineering_R-26-19569",
@@ -5536,25 +5596,13 @@
   },
   {
     "company": "General Matter",
-    "title": "page_title",
+    "title": "Job Application for Summer 2027 Internship - Mechanical Engineering at General Matter",
     "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377107008",
     "locations": [
       "South Bay, Los Angeles"
     ],
     "date_posted": "2026-08-22",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Carrier Global",
-    "title": "Engineering Intern - JumpStart Program",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Engineering-Intern---JumpStart-Program_30213511-2",
-    "locations": [
-      "CAN01: Carrier-Syracus..."
-    ],
-    "date_posted": "2026-08-22",
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -5567,18 +5615,6 @@
     ],
     "date_posted": "2026-08-22",
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "General Matter",
-    "title": "Job Application for Summer 2027 Internship - Electrical Engineering (Buildings)  at General Matter",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376639008",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-22",
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -5684,6 +5720,30 @@
       "Fishkill, NY",
       "Fort Collins, CO",
       "Boxborough, MA"
+    ],
+    "date_posted": "2026-08-22",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 TikTok",
+    "title": "AI Product Manager Intern - Product Social",
+    "url": "https://lifeattiktok.com/search/7675616554318596357?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-22",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Manager Intern - Content and Service Ads \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7676283436713593093?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
     ],
     "date_posted": "2026-08-22",
     "term": null,
@@ -6620,18 +6680,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Crowe",
-    "title": "Cybersecurity Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-71031",
-    "locations": [
-      "Chicago, IL"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Sony",
     "title": "Intern, Information Security Risk and...",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512",
@@ -6644,11 +6692,35 @@
     "origin": "tracker"
   },
   {
-    "company": "GDIT",
-    "title": "Summer 2027 Software Development Inte...",
-    "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237-1",
+    "company": "Crowe",
+    "title": "Cybersecurity Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Cybersecurity-Intern_R-71031",
     "locations": [
-      "USA VA Falls Church"
+      "Chicago, IL"
+    ],
+    "date_posted": "2026-08-21",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "LLNL",
+    "title": "National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/llnl/3743990014731656",
+    "locations": [
+      "Livermore, CA"
+    ],
+    "date_posted": "2026-08-21",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "LLNL",
+    "title": "National Security Engineering Division (NSED) Graduate Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/llnl/3743990014731646",
+    "locations": [
+      "Livermore, CA"
     ],
     "date_posted": "2026-08-21",
     "term": "Summer 2027",
@@ -6668,11 +6740,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Intel",
-    "title": "Software Engineer Graduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491",
+    "company": "Vanguard",
+    "title": "College to Corporate IT Internship - ...",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
     "locations": [
-      "US, Oregon, Hillsboro"
+      "Charlotte, NC"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -6680,11 +6752,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Intel",
-    "title": "Software Engineer Graduate Intern",
-    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489",
+    "company": "Vanguard",
+    "title": "College to Corporate IT Internship - ...",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
     "locations": [
-      "US, Arizona, Phoenix"
+      "Malvern, PA"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -6692,11 +6764,11 @@
     "origin": "tracker"
   },
   {
-    "company": "AbbVie",
-    "title": "2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)",
-    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+    "company": "Vanguard",
+    "title": "College to Corporate IT Internship - ...",
+    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
     "locations": [
-      "North Chicago, IL"
+      "Charlotte, NC"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -6717,8 +6789,8 @@
   },
   {
     "company": "Crowe",
-    "title": "Data Analytics Developer Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
+    "title": "AI Engineering Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782",
     "locations": [
       "Chicago IL USA"
     ],
@@ -6729,10 +6801,10 @@
   },
   {
     "company": "Crowe",
-    "title": "Machine Learning Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005",
+    "title": "Data Analytics Developer Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041",
     "locations": [
-      "Chicago, IL"
+      "Chicago IL USA"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -6776,42 +6848,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Vanguard",
-    "title": "College to Corporate IT Internship - ...",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Analyst--NC-_181767",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Vanguard",
-    "title": "College to Corporate IT Internship - ...",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Data-Science--PA-_181766",
-    "locations": [
-      "Malvern, PA"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Vanguard",
-    "title": "College to Corporate IT Internship - ...",
-    "url": "https://vanguard.wd5.myworkdayjobs.com/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Data-Science--NC-_181765",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Elanco",
     "title": "Engineering Intern \u2013 Elwood, Kansas (...",
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Engineering-Intern---Elwood--Kansas--Summer-2027-_R0026898",
@@ -6820,6 +6856,42 @@
     ],
     "date_posted": "2026-08-21",
     "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Amentum",
+    "title": "Engineering Intern Fall Semester 2026",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Engineering-Intern-Fall-Semester-2026_R0168401",
+    "locations": [
+      "Scoville, ID"
+    ],
+    "date_posted": "2026-08-21",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Eversource Energy",
+    "title": "Asset Management Technology: Engineer...",
+    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
+    "locations": [
+      "Hartford, CT"
+    ],
+    "date_posted": "2026-08-21",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "General Matter",
+    "title": "Job Application for Summer 2027 Internship - Electrical Engineering (Buildings)  at General Matter",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376639008",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "date_posted": "2026-08-21",
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -6908,30 +6980,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Eversource Energy",
-    "title": "Asset Management Technology: Engineer...",
-    "url": "https://eversource.wd1.myworkdayjobs.com/ExternalSite/job/Hartford-CT/Asset-Management-Technology--Engineering-Intern--Fall-2026-_R-031600",
-    "locations": [
-      "Hartford, CT"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Amentum",
-    "title": "Engineering Intern Fall Semester 2026",
-    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Engineering-Intern-Fall-Semester-2026_R0168401",
-    "locations": [
-      "Scoville, ID"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Zipline",
     "title": "Open Roles at Zipline",
     "url": "https://www.zipline.com/open-roles?gh_jid=7909945003",
@@ -6968,11 +7016,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Zipline",
-    "title": "Open Roles at Zipline",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+    "company": "Micron Technology",
+    "title": "Intern - HBM SoC RTL Design Engineer",
+    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
     "locations": [
-      "South San Francisco, C..."
+      "Folsom, CA"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -7040,11 +7088,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Micron Technology",
-    "title": "Intern - HBM SoC RTL Design Engineer",
-    "url": "https://micron.wd1.myworkdayjobs.com/external/job/Folsom-CA/Intern---HBM-SoC-RTL-Design-Engineer_JR109290",
+    "company": "Generac",
+    "title": "Finance Intern - Shared Services",
+    "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Finance-Intern---Shared-Services_JR16064",
     "locations": [
-      "Folsom, CA"
+      "Waukesha, WI - USA"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -7052,11 +7100,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Elanco",
-    "title": "Marketing Intern - US Pet Health (Sum...",
-    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Pet-Health--Summer-2027-_R0026896",
+    "company": "Cadence (University)",
+    "title": "AI & Strategic Marketing Intern",
+    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/AI---Strategic-Marketing-Intern_R56045",
     "locations": [
-      "Indianapolis, IN"
+      "AUSTIN"
+    ],
+    "date_posted": "2026-08-21",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Crowe",
+    "title": "Third Party Risk Intern",
+    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Third-Party-Risk-Intern_R-71033",
+    "locations": [
+      "Chicago, IL"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -7088,11 +7148,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Crowe",
-    "title": "Third Party Risk Intern",
-    "url": "https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Third-Party-Risk-Intern_R-71033",
+    "company": "KeyBank",
+    "title": "Summer 2027 KeyBank Procurement Inter...",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Procurement-Internship---Cleveland--OH_R-41723",
     "locations": [
-      "Chicago, IL"
+      "Brooklyn, OH"
+    ],
+    "date_posted": "2026-08-21",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Elanco",
+    "title": "Marketing Intern - US Pet Health (Sum...",
+    "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Pet-Health--Summer-2027-_R0026896",
+    "locations": [
+      "Indianapolis, IN"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -7100,9 +7172,9 @@
     "origin": "tracker"
   },
   {
-    "company": "Cadence (University)",
+    "company": "Cadence",
     "title": "AI & Strategic Marketing Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/Univ_Careers/job/AUSTIN/AI---Strategic-Marketing-Intern_R56045",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/AI---Strategic-Marketing-Intern_R56045-1",
     "locations": [
       "AUSTIN"
     ],
@@ -7148,42 +7220,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Generac",
-    "title": "Finance Intern - Shared Services",
-    "url": "https://generac.wd5.myworkdayjobs.com/External/job/Waukesha-WI---USA/Finance-Intern---Shared-Services_JR16064",
-    "locations": [
-      "Waukesha, WI - USA"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "KeyBank",
-    "title": "Summer 2027 KeyBank Procurement Inter...",
-    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/Summer-2027-KeyBank-Procurement-Internship---Cleveland--OH_R-41723",
-    "locations": [
-      "Brooklyn, OH"
-    ],
-    "date_posted": "2026-08-21",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Cadence",
-    "title": "AI & Strategic Marketing Intern",
-    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers/job/AUSTIN/AI---Strategic-Marketing-Intern_R56045-1",
-    "locations": [
-      "AUSTIN"
-    ],
-    "date_posted": "2026-08-21",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Bosch Group",
     "title": "Venture Capital Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000144612115",
@@ -7192,18 +7228,6 @@
     ],
     "date_posted": "2026-08-21",
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Zipline",
-    "title": "Accounting Intern (Summer 2027)",
-    "url": "https://www.zipline.com/open-roles?gh_jid=7894364003",
-    "locations": [
-      "South San Francisco, C..."
-    ],
-    "date_posted": "2026-08-21",
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -7275,6 +7299,18 @@
     "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/Miami/XMLNAME-2027-Blackstone-Software-Engineer-Summer-Analyst_45021?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Miami, FL"
+    ],
+    "date_posted": "2026-08-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "AbbVie",
+    "title": "Business Technology Solutions Intern - Data & Software Engineering - Undergraduate",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "North Chicago, IL"
     ],
     "date_posted": "2026-08-21",
     "term": null,
@@ -7630,30 +7666,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Freeform",
-    "title": "Software Engineer (New Grad Summer 2027)",
-    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
-    "locations": [
-      "Los Angeles, CA (On-site)"
-    ],
-    "date_posted": "2026-08-20",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "General Matter",
-    "title": "Job Application for Summer 2027 Internship - Software Engineering at General Matter",
-    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
-    "locations": [
-      "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-20",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "LiveRamp",
     "title": "Co-Op, DevOps Engineer",
     "url": "https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/San-Francisco/Co-Op--DevOps-Engineer_JR162095",
@@ -7674,6 +7686,30 @@
     ],
     "date_posted": "2026-08-20",
     "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Freeform",
+    "title": "Software Engineer (New Grad Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895902003",
+    "locations": [
+      "Los Angeles, CA (On-site)"
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "General Matter",
+    "title": "Job Application for Summer 2027 Internship - Software Engineering at General Matter",
+    "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+    "locations": [
+      "Los Angeles, CA"
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -7702,18 +7738,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Notion",
-    "title": "Data Science Intern (Winter 2027)",
-    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
-    "locations": [
-      "San Francisco, California"
-    ],
-    "date_posted": "2026-08-20",
-    "term": "Winter 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Copart",
     "title": "Data Engineering Intern",
     "url": "https://copart.wd12.myworkdayjobs.com/Copart/job/Dallas-TX---Headquarters/Data-Engineering-Intern_JR110617",
@@ -7722,6 +7746,18 @@
     ],
     "date_posted": "2026-08-20",
     "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Notion",
+    "title": "Data Science Intern (Winter 2027)",
+    "url": "https://jobs.ashbyhq.com/notion/a67d6f2b-7c13-41d0-b36b-b2f662c9873e",
+    "locations": [
+      "San Francisco, California"
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Winter 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -7750,6 +7786,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Motorola Solutions",
+    "title": "Electrical Engineer Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780",
+    "locations": [
+      "Plantation, FL"
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Elanco",
     "title": "Engineering Intern \u2013 Clinton, Indiana...",
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Engineering-Intern---Clinton--Indiana--Summer-2027-_R0026868",
@@ -7774,6 +7822,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Zipline",
+    "title": "Open Roles at Zipline",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7893955003",
+    "locations": [
+      "South San Francisco, C..."
+    ],
+    "date_posted": "2026-08-20",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Freeform",
     "title": "Job Application for Electrical Engineering Intern (Summer 2027) at Freeform",
     "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7895657003",
@@ -7791,18 +7851,6 @@
     "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376052008",
     "locations": [
       "Los Angeles, CA"
-    ],
-    "date_posted": "2026-08-20",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Motorola Solutions",
-    "title": "Electrical Engineer Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Electrical-Engineer-Intern---Summer-2027_R67780",
-    "locations": [
-      "Plantation, FL"
     ],
     "date_posted": "2026-08-20",
     "term": "Summer 2027",
@@ -7846,18 +7894,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Amazon.com Services LLC - A57",
-    "title": "Product Manager Technical (PMT) Intern - Summer 2027 - Job ID: 10509639",
-    "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-08-20",
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "MKS Instruments",
     "title": "Fall 2026 Technical Product Marketing...",
     "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Irvine-CA/Fall-2026-Technical-Product-Marketing-Undergraduate-Intern_R21428",
@@ -7866,6 +7902,18 @@
     ],
     "date_posted": "2026-08-20",
     "term": "Fall 2026",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Amazon.com Services LLC - A57",
+    "title": "Product Manager Technical (PMT) Intern - Summer 2027 - Job ID: 10509639",
+    "url": "https://www.amazon.jobs/en/jobs/10509639/product-manager-technical-pmt-intern-summer-2027",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -7887,18 +7935,6 @@
     "url": "https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Marketing-Intern---US-Farm-Animal--Summer-2027-_R0026873",
     "locations": [
       "Indianapolis, IN"
-    ],
-    "date_posted": "2026-08-20",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Eulerity",
-    "title": "Job Application for Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation at Eulerity",
-    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4706780006",
-    "locations": [
-      "New York, NY"
     ],
     "date_posted": "2026-08-20",
     "term": null,
@@ -7930,6 +7966,30 @@
     "origin": "tracker"
   },
   {
+    "company": "Zipline",
+    "title": "Accounting Intern (Summer 2027)",
+    "url": "https://www.zipline.com/open-roles?gh_jid=7894364003",
+    "locations": [
+      "South San Francisco, C..."
+    ],
+    "date_posted": "2026-08-20",
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Eulerity",
+    "title": "Job Application for Website Developer &amp; Technical Content Marketing Intern - AI &amp; Automation at Eulerity",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4706780006",
+    "locations": [
+      "New York, NY"
+    ],
+    "date_posted": "2026-08-20",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Walleye Capital",
     "title": "Job Application for Finance &amp; Accounting Intern (Summer 2027) at Walleye Capital Internships",
     "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4705726006",
@@ -7938,18 +7998,6 @@
     ],
     "date_posted": "2026-08-20",
     "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "GE Vernova",
-    "title": "Supply Chain Intern",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Parsippany/Supply-Chain-Intern_R5050338",
-    "locations": [
-      "Parsippany"
-    ],
-    "date_posted": "2026-08-20",
-    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -7976,6 +8024,30 @@
     "term": null,
     "source": "NVIDIA (Workday)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Goldman Sachs",
+    "title": "Summer Analyst Intern - Americas - AWM Product Management",
+    "url": "https://higher.gs.com/roles/182389?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-20",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AWM Product Management Analyst Intern",
+    "url": "https://higher.gs.com/roles/171513?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-20",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "Wells Fargo",
@@ -8729,18 +8801,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Golden Pet Brands",
-    "title": "Digital Acquisition Marketing Intern",
-    "url": "https://www.builtinseattle.com/job/digital-acquisition-marketing-intern/10376611",
-    "locations": [
-      "USA"
-    ],
-    "date_posted": "2026-08-19",
-    "term": null,
-    "source": "Built In Seattle",
-    "origin": "builtin"
-  },
-  {
     "company": "Veeda AI",
     "title": "Internship",
     "url": "https://www.builtinseattle.com/job/internship/10755642",
@@ -9434,23 +9494,11 @@
     "origin": "tracker"
   },
   {
-    "company": "KPMG",
-    "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
-    "url": "https://careers.kpmg.ca/jobs/33301?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "Goldman Sachs",
+    "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
+    "url": "https://higher.gs.com/roles/170935?type=students&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "date_posted": "2026-08-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
-    "url": "https://careers.kpmg.ca/jobs/33306?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Toronto, ON, Canada"
+      "London, UK"
     ],
     "date_posted": "2026-08-15",
     "term": null,
@@ -9487,6 +9535,18 @@
     "url": "https://lifeattiktok.com/search/7673559305519794437?utm_source=Simplify&ref=Simplify",
     "locations": [
       "San Jose, CA"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Goldman Sachs",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171535?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
     ],
     "date_posted": "2026-08-15",
     "term": null,
@@ -9555,12 +9615,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Analysis Group",
-    "title": "Research Professional Intern - Generalist",
-    "url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "company": "Goldman Sachs",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/175424?type=students&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Montreal, QC, Canada",
-      "Toronto, ON, Canada"
+      "London, UK"
     ],
     "date_posted": "2026-08-15",
     "term": null,
@@ -9568,11 +9627,71 @@
     "origin": "tracker"
   },
   {
-    "company": "KPMG",
-    "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation",
-    "url": "https://careers.kpmg.ca/jobs/33307?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/175423?type=students&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Toronto, ON, Canada"
+      "London, UK"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
+    "url": "https://higher.gs.com/roles/170675?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/171563?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/175427?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "West Palm Beach, FL"
     ],
     "date_posted": "2026-08-15",
     "term": null,
@@ -9616,6 +9735,30 @@
     "origin": "builtin"
   },
   {
+    "company": "KPMG",
+    "title": "Product Specialist Intern Co-op - Asset Management Digital Solutions",
+    "url": "https://careers.kpmg.ca/jobs/33301?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-08-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Developer Intern Co-op - Asset Management Digital Solutions - Software Developer",
+    "url": "https://careers.kpmg.ca/jobs/33306?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-08-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Motorola",
     "title": "Android Platform Software Engineer Intern - Summer 2027",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1?utm_source=Simplify&ref=Simplify",
@@ -9654,6 +9797,31 @@
     "origin": "tracker"
   },
   {
+    "company": "Analysis Group",
+    "title": "Research Professional Intern - Generalist",
+    "url": "https://analystcareers-analysisgroup.icims.com/jobs/3007/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Montreal, QC, Canada",
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-08-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "KPMG",
+    "title": "Technical Consultant Intern Co-op - Global Compliance and Transformation",
+    "url": "https://careers.kpmg.ca/jobs/33307?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-08-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "\u21b3",
     "title": "Operations Intern - Summer 2027",
     "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279223?utm_source=Simplify&ref=Simplify",
@@ -9669,18 +9837,6 @@
     "company": "\ud83d\udd25 TikTok",
     "title": "Data Science Intern - Advertisement Team \ud83c\udf93",
     "url": "https://lifeattiktok.com/search/7673226686054107445?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-14",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 ByteDance",
-    "title": "Self-Built Engineer Intern - CDN Platform",
-    "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail?utm_source=Simplify&ref=Simplify",
     "locations": [
       "San Jose, CA"
     ],
@@ -9753,18 +9909,6 @@
   },
   {
     "company": "RTX",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01866136?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Cedar Rapids, IA"
-    ],
-    "date_posted": "2026-08-14",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
     "title": "Electrical Computer-Aided Design Engineer Intern",
     "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M02--1151-E-Hermans-Rd--BLDG-M02/EAP-Engineering-ECAD-Intern--Summer-2027-_01866716-1?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -9932,6 +10076,18 @@
     "origin": "tracker"
   },
   {
+    "company": "\ud83d\udd25 ByteDance",
+    "title": "Self-Built Engineer Intern - CDN Platform",
+    "url": "https://jobs.bytedance.com/en/position/7670364362450733317/detail?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-13",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Wells Fargo",
     "title": "Quantitative Analytics Intern - Multiple Teams \ud83c\udf93",
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--PhD----Early-Careers_R-568279?utm_source=Simplify&ref=Simplify",
@@ -10057,18 +10213,6 @@
     "url": "https://jobs.bytedance.com/en/position/7672386983965100341/detail?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Seattle, WA"
-    ],
-    "date_posted": "2026-08-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - DV Commodities",
-    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
     ],
     "date_posted": "2026-08-12",
     "term": null,
@@ -10240,6 +10384,18 @@
     "term": null,
     "source": "Built In Seattle",
     "origin": "builtin"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - DV Commodities",
+    "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719125005?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "\ud83d\udd25 ByteDance",
@@ -10583,18 +10739,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Capula",
-    "title": "Trading and Research Intern",
-    "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-09",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "TikTok",
     "title": "Frontend Engineer Intern - Ads Interface - 2027 Summer",
     "url": "https://lifeattiktok.com/search/7671211313289398581",
@@ -10686,6 +10830,18 @@
     "url": "https://epicgames.com/careers/jobs/6138140004?gh_jid=6138140004&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Montreal, QC, Canada"
+    ],
+    "date_posted": "2026-08-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Capula",
+    "title": "Trading and Research Intern",
+    "url": "https://apply.workable.com/capula-investment-management-ltd/j/A15A62A8BE/apply?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
     ],
     "date_posted": "2026-08-08",
     "term": null,
@@ -10839,42 +10995,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 TikTok",
-    "title": "Product Operations Intern - TikTok Shop Apps and API - MBA \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-08-07",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Product Manager Intern - Product Infrastructure - Account",
-    "url": "https://lifeattiktok.com/search/7670009830602721589?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-07",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Strategy Product Manager Intern - Platform Responsibility",
-    "url": "https://lifeattiktok.com/search/7670420287191517493?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-07",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "\ud83d\udd25 ByteDance",
     "title": "Machine Learning Research Scientist Intern - Seed AI for Science - Atomistic AI \ud83c\udf93",
     "url": "https://jobs.bytedance.com/en/position/7670855041951795509/detail?utm_source=Simplify&ref=Simplify",
@@ -10890,18 +11010,6 @@
     "company": "\u21b3",
     "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
     "url": "https://jobs.bytedance.com/en/position/7670009669494704437/detail?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-07",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 TikTok",
-    "title": "LLM Post-training Engineer Intern - Research & Product",
-    "url": "https://lifeattiktok.com/search/7670285031018432773?utm_source=Simplify&ref=Simplify",
     "locations": [
       "San Jose, CA"
     ],
@@ -11079,6 +11187,42 @@
     "origin": "tracker"
   },
   {
+    "company": "\ud83d\udd25 TikTok",
+    "title": "Product Operations Intern - TikTok Shop Apps and API - MBA \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7668820702623467781?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": "2026-08-06",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Manager Intern - Product Infrastructure - Account",
+    "url": "https://lifeattiktok.com/search/7670009830602721589?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-06",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Strategy Product Manager Intern - Platform Responsibility",
+    "url": "https://lifeattiktok.com/search/7670420287191517493?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-06",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "American Express",
     "title": "Product Management Intern - Global Merchant & Network Services",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012152?utm_source=Simplify&ref=Simplify",
@@ -11092,10 +11236,10 @@
   },
   {
     "company": "\ud83d\udd25 TikTok",
-    "title": "Product Operations Intern - Apps and API \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7669927344569764101?utm_source=Simplify&ref=Simplify",
+    "title": "LLM Post-training Engineer Intern - Research & Product",
+    "url": "https://lifeattiktok.com/search/7670285031018432773?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Seattle, WA"
+      "San Jose, CA"
     ],
     "date_posted": "2026-08-06",
     "term": null,
@@ -11154,30 +11298,6 @@
     "company": "\u21b3",
     "title": "Data Engineer Intern - Ads Targeting",
     "url": "https://lifeattiktok.com/search/7668533140146817333?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-08-06",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7668415591670417717?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-08-06",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Science Intern - TikTok Product",
-    "url": "https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify",
     "locations": [
       "San Jose, CA"
     ],
@@ -11337,6 +11457,18 @@
     "origin": "tracker"
   },
   {
+    "company": "\ud83d\udd25 TikTok",
+    "title": "Product Operations Intern - Apps and API \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7669927344569764101?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": "2026-08-05",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Winland Foods",
     "title": "Product Development Intern",
     "url": "https://winlandfoods.wd1.myworkdayjobs.com/external/job/USA-IL-Oak-Brook/Product-Development-Intern_R28807?utm_source=Simplify&ref=Simplify",
@@ -11398,6 +11530,30 @@
   },
   {
     "company": "\ud83d\udd25 TikTok",
+    "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7668415591670417717?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": "2026-08-05",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Science Intern - TikTok Product",
+    "url": "https://lifeattiktok.com/search/7669683639101884725?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-05",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
     "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
     "url": "https://lifeattiktok.com/search/7669711968043092229?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -12908,30 +13064,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Two Sigma",
-    "title": "AI Research Scientist Intern - 2027 Summer",
-    "url": "https://twosigma.avature.net/careers/JobDetail/14096?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-03",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Two Sigma",
-    "title": "Quantitative Researcher Intern",
-    "url": "https://twosigma.avature.net/careers/JobDetail/13945?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "TikTok",
     "title": "Software Engineer Intern - ML Infra - 2027 Start - PhD",
     "url": "https://lifeattiktok.com/search/7668696895234197813",
@@ -12965,6 +13097,30 @@
     "date_posted": "2026-08-02",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Two Sigma",
+    "title": "AI Research Scientist Intern - 2027 Summer",
+    "url": "https://twosigma.avature.net/careers/JobDetail/14096?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-02",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Two Sigma",
+    "title": "Quantitative Researcher Intern",
+    "url": "https://twosigma.avature.net/careers/JobDetail/13945?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-02",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -13461,18 +13617,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Ardian",
-    "title": "Data Scientist Intern",
-    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Equifax",
     "title": "Data & Analytics Intern",
     "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
@@ -13497,11 +13641,47 @@
     "origin": "tracker"
   },
   {
-    "company": "KION Group",
-    "title": "AI Internships",
-    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1",
+    "company": "Ardian",
+    "title": "Data Scientist Intern",
+    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Data-Scientist-Intern_JR1001434",
     "locations": [
-      "Wauwatosa, WI, United ..."
+      "New York"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Campbell Soup Company",
+    "title": "Agentic AI Engineer Co-Op",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "locations": [
+      "Remote"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Campbell Soup Company",
+    "title": "Agentic AI Engineer Co-Op",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "locations": [
+      "Remote"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Campbell Soup Company",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "locations": [
+      "Remote"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13521,35 +13701,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Campbell Soup Company",
-    "title": "Data Engineer, DA&AI Co-Op",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---NJ---Camden/Data-Engineer--DA-AI-Co-Op_Req-65837",
+    "company": "KION Group",
+    "title": "AI Internships",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/kiongroup/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855-1",
     "locations": [
-      "NJ"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Campbell Soup Company",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
-    "locations": [
-      "Remote"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Campbell Soup Company",
-    "title": "Agentic AI Engineer Co-Op",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-    "locations": [
-      "Remote"
+      "Wauwatosa, WI, United ..."
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13593,11 +13749,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Nidec",
-    "title": "Co-Op Custom Design Marketing",
-    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Co-Op-Custom-Design-Marketing_R0012409",
+    "company": "Microchip Technology",
+    "title": "Intern-Engineering (MEMS Design)",
+    "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26",
     "locations": [
-      "North America/USA/Miss..."
+      "Detroit Sales, MI"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13605,11 +13761,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Nissan",
-    "title": "Autonomous Driving Applications Resea...",
-    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Pro...",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "locations": [
-      "Santa Clara, Californi..."
+      "New York"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13617,11 +13773,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Marvell",
-    "title": "Analog Design Intern - Master's Degre...",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1",
+    "company": "Expedia Group",
+    "title": "2023 PhD Intern - Machine Learning Sc...",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833",
     "locations": [
-      "Westlake Village, CA"
+      "Austin Domain 11 HomeAway"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13629,47 +13785,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Marvell",
-    "title": "Applied Machine Learning Scientist In...",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
+    "company": "Menasha Corporation",
+    "title": "Custom Packaging Design Engineer Co-O...",
+    "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Piedmont-South-Carolina/Custom-Packaging-Design-Engineer-Co-Op--Summer-Fall-2026-_R13995",
     "locations": [
-      "Santa Clara, CA"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Marvell",
-    "title": "Design/DSP/Verification Intern - PhD ...",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1",
-    "locations": [
-      "Santa Clara, CA"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "locations": [
-      "Remote, CA"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "locations": [
-      "Remote, CA"
+      "Piedmont, South Carolina"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13701,59 +13821,95 @@
     "origin": "tracker"
   },
   {
-    "company": "Menasha Corporation",
-    "title": "Custom Packaging Design Engineer Co-O...",
-    "url": "https://menasha.wd12.myworkdayjobs.com/menashacorp/job/Northwood-Ohio/Custom-Packaging-Design-Engineer-Co-Op--Fall-2027-_R12874",
-    "locations": [
-      "Northwood, Ohio"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Expedia Group",
-    "title": "2023 PhD Intern - Machine Learning Sc...",
-    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/XMLNAME-2023-PhD-Intern---Machine-Learning-Science_R-76833",
-    "locations": [
-      "Austin Domain 11 HomeAway"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Microchip Technology",
-    "title": "Intern-Engineering (MEMS Design)",
-    "url": "https://microchiphr.wd5.myworkdayjobs.com/External/job/MI---Detroit-Sales-Office/Intern-Engineering--MEMS-Design-_R3208-26",
-    "locations": [
-      "Detroit Sales, MI"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Sony",
-    "title": "Research Intern on Generative and Pro...",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/sonyglobalcareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-07-27",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "NXP",
     "title": "Digital Physical Design (P&R) Intern",
     "url": "https://nxp.wd3.myworkdayjobs.com/Careers/job/Chandler-Office/Digital-Physical-Design--P-R--Intern_R-10064673",
     "locations": [
       "Chandler"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Nidec",
+    "title": "Co-Op Custom Design Marketing",
+    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Co-Op-Custom-Design-Marketing_R0012409",
+    "locations": [
+      "North America/USA/Miss..."
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "locations": [
+      "Remote, CA"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "url": "https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "locations": [
+      "Remote, CA"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Nissan",
+    "title": "Autonomous Driving Applications Resea...",
+    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Santa-Clara-California---United-States-of-America/Autonomous-Driving-Applications-Research-Intern_R00209383",
+    "locations": [
+      "Santa Clara, Californi..."
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Marvell",
+    "title": "Applied Machine Learning Scientist In...",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Marvell",
+    "title": "Design/DSP/Verification Intern - PhD ...",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Design-DSP-Verification-Intern---PhD-Degree_2502786-1",
+    "locations": [
+      "Santa Clara, CA"
+    ],
+    "date_posted": "2026-07-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Marvell",
+    "title": "Analog Design Intern - Master's Degre...",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Westlake-Village-CA/Analog-Design-Intern---Master-s-Degree--Quarter-Schools---Fall-2026-Start-Dates-_2502475-1",
+    "locations": [
+      "Westlake Village, CA"
     ],
     "date_posted": "2026-07-27",
     "term": null,
@@ -13834,13 +13990,13 @@
   },
   {
     "company": "IMC Trading",
-    "title": "page_title",
+    "title": "Job Application for Quantitative Research Intern (PhD) - Summer 2027 at IMC",
     "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4907400101",
     "locations": [
       "Chicago, United States"
     ],
     "date_posted": "2026-07-27",
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -16608,6 +16764,18 @@
     "origin": "company-direct"
   },
   {
+    "company": "Neuralink",
+    "title": "Job Application for Analog and Mixed-Signal IC Design Engineer Intern  at Neuralink",
+    "url": "https://boards.greenhouse.io/neuralink/jobs/7565469003?gh_jid=7565469003",
+    "locations": [
+      "South San Francisco, C..."
+    ],
+    "date_posted": "2026-02-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Point72",
     "title": "2026\u00a0Warsaw MI Data \u2013 Web Scraping Internship",
     "url": "https://boards.greenhouse.io/point72/jobs/8423978002?gh_jid=8423978002",
@@ -17244,11 +17412,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Conagra Brands",
-    "title": "Software Development Internship - Sum...",
-    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
+    "company": "GE Aerospace",
+    "title": "Engines Engineering Intern \u2013 Computer...",
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Evendale/Engines-Engineering-Intern---Computer-or-Software-Engineering---US---Summer-2027_R5029622-1",
     "locations": [
-      "Omaha, Nebraska"
+      "Evendale"
     ],
     "date_posted": null,
     "term": null,
@@ -17280,11 +17448,11 @@
     "origin": "tracker"
   },
   {
-    "company": "GE Aerospace",
-    "title": "Systems Engineering Co-op - Electrica...",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Dayton/Systems-Engineering-Co-op---Electrical-Engineering---Computer-Engineering-Science--Electric-Power----US---Fall-2027_R5030143-1",
+    "company": "Uline",
+    "title": "Systems Administrator Internship - Su...",
+    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R265691",
     "locations": [
-      "Dayton"
+      "Pleasant Prairie, WI"
     ],
     "date_posted": null,
     "term": null,
@@ -17292,11 +17460,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Uline",
-    "title": "Systems Administrator Internship - Su...",
-    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R265691",
+    "company": "KeyBank",
+    "title": "2027 Summer Key Technology & Services...",
+    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
     "locations": [
-      "Pleasant Prairie, WI"
+      "Brooklyn, OH"
+    ],
+    "date_posted": null,
+    "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Conagra Brands",
+    "title": "Software Development Internship - Sum...",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
+    "locations": [
+      "Omaha, Nebraska"
     ],
     "date_posted": null,
     "term": null,
@@ -17316,11 +17496,11 @@
     "origin": "tracker"
   },
   {
-    "company": "LPL Financial",
-    "title": "Intern 2027 - Data Engineer",
-    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
+    "company": "Uline",
+    "title": "Financial Data Analyst Internship - S...",
+    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665",
     "locations": [
-      "Fort MillCharlotte"
+      "Pleasant Prairie, WI"
     ],
     "date_posted": null,
     "term": null,
@@ -17328,11 +17508,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Uline",
-    "title": "Financial Data Analyst Internship - S...",
-    "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Financial-Data-Analyst-Internship---Summer-2027_R265665",
+    "company": "LPL Financial",
+    "title": "Intern 2027 - Data Engineer",
+    "url": "https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027---Data_R-052914",
     "locations": [
-      "Pleasant Prairie, WI"
+      "Fort MillCharlotte"
     ],
     "date_posted": null,
     "term": null,
@@ -17352,14 +17532,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Conagra Brands",
-    "title": "Analytics Internship - Summer 2027",
-    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Analytics-Internship---Summer-2027_Req-039790",
+    "company": "American Fidelity",
+    "title": "Agentic AI Internship (OKC Local Only)",
+    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016",
     "locations": [
-      "Omaha, Nebraska"
+      "Oklahoma City, Oklahoma"
     ],
     "date_posted": null,
-    "term": "Summer 2027",
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -17376,14 +17556,14 @@
     "origin": "tracker"
   },
   {
-    "company": "American Fidelity",
-    "title": "Agentic AI Internship (OKC Local Only)",
-    "url": "https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/IT-Intern-1_JR1016",
+    "company": "Conagra Brands",
+    "title": "Analytics Internship - Summer 2027",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Analytics-Internship---Summer-2027_Req-039790",
     "locations": [
-      "Oklahoma City, Oklahoma"
+      "Omaha, Nebraska"
     ],
     "date_posted": null,
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -17393,6 +17573,18 @@
     "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Data-Analyst-Intern_2026-21105",
     "locations": [
       "Pullman"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Wells Fargo",
+    "title": "Workday",
+    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Capital-Markets--Masters----Early-Careers_R-568270",
+    "locations": [
+      "CHARLOTTE, NC"
     ],
     "date_posted": null,
     "term": null,
@@ -17412,14 +17604,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Wells Fargo",
-    "title": "Workday",
-    "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Quantitative-Analytics-Summer-Internship-Risk-Analytics-and-Decision-Sciences--Masters----Early-Careers_R-568259",
+    "company": "Capital One",
+    "title": "Business Analyst Intern - Summer 2027",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1",
     "locations": [
-      "CHARLOTTE, NC"
+      "McLean, VA"
     ],
     "date_posted": null,
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -17448,11 +17640,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Capital One",
-    "title": "Business Analyst Intern - Summer 2027",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Business-Analyst-Intern---Summer-2027_R244322-1",
+    "company": "Boeing",
+    "title": "Boeing Summer 2027 Internship Program...",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
     "locations": [
-      "McLean, VA"
+      "Everett, WA"
     ],
     "date_posted": null,
     "term": "Summer 2027",
@@ -17468,18 +17660,6 @@
     ],
     "date_posted": null,
     "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Boeing",
-    "title": "Boeing Summer 2027 Internship Program...",
-    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Data-Analytics-Intern_JR2026520976-1",
-    "locations": [
-      "Everett, WA"
-    ],
-    "date_posted": null,
-    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -17556,66 +17736,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Nidec",
-    "title": "Mechanical Engineer Co-Op (Acoustics ...",
-    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190",
-    "locations": [
-      "North America/USA/Miss..."
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Nidec",
-    "title": "Electrical Engineering Co-op",
-    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331",
-    "locations": [
-      "North America/USA/Arka..."
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Amentum",
-    "title": "Mechanical Engineering Intern",
-    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1",
-    "locations": [
-      "Scoville, ID"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Vertiv",
-    "title": "Vertiv",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133",
-    "locations": [
-      "Pelzer, SC, United States"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "BorgWarner",
-    "title": "Validation Intern (Year-Round)",
-    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
-    "locations": [
-      "Kokomo Technical"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "GE Aerospace",
     "title": "Unison Engineering Intern - Fall 2027",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/GE_ExternalSite/job/Jacksonville/Unison-Engineering-Intern---Fall-2027_R5037092-1",
@@ -17652,6 +17772,30 @@
     "origin": "tracker"
   },
   {
+    "company": "Amentum",
+    "title": "Mechanical Engineering Intern",
+    "url": "https://pae.wd1.myworkdayjobs.com/amentum_careers/job/US-ID-Scoville/Mechanical-Engineering-Intern_R0168396-1",
+    "locations": [
+      "Scoville, ID"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "BorgWarner",
+    "title": "Validation Intern (Year-Round)",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Kokomo-Technical-Center---Indiana---USA/Validation-Intern--Year-Round-_R2026-1960",
+    "locations": [
+      "Kokomo Technical"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Marmon Holdings",
     "title": "Engineering Intern",
     "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Chicago-IL/Engineering-Intern_JR0000045242-3",
@@ -17665,13 +17809,49 @@
   },
   {
     "company": "Nidec",
-    "title": "Product Marketing Co-Op",
-    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPA-MO/Product-Marketing-Co-Op_R0017008",
+    "title": "Mechanical Engineer Co-Op (Acoustics ...",
+    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Mechanical-Engineer-Co-Op--Acoustics---Vibration-Lab-_R0017190",
     "locations": [
       "North America/USA/Miss..."
     ],
     "date_posted": null,
     "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Nidec",
+    "title": "Electrical Engineering Co-op",
+    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAArkansasFt-Smith-AR/Electrical-Engineering-Co-op_R0017331",
+    "locations": [
+      "North America/USA/Arka..."
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Vertiv",
+    "title": "Vertiv",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279133",
+    "locations": [
+      "Pelzer, SC, United States"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Polaris",
+    "title": "Engineering Intern - Summer 2027",
+    "url": "https://polaris.wd5.myworkdayjobs.com/PolarisJobs/job/Wyoming-MN-USA/Engineering-Intern---Summer-2027_R30718",
+    "locations": [
+      "Wyoming, MN"
+    ],
+    "date_posted": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -17693,6 +17873,18 @@
     "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Kansas-City-MO/XMLNAME-2027-New-Grad-Design-Professional-I--For-Current---Recent-HNTB-Interns-Only-_R-31236-1",
     "locations": [
       "Kansas City, MO"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Nidec",
+    "title": "Product Marketing Co-Op",
+    "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPA-MO/Product-Marketing-Co-Op_R0017008",
+    "locations": [
+      "North America/USA/Miss..."
     ],
     "date_posted": null,
     "term": null,
@@ -17892,18 +18084,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Salesforce",
-    "title": "Associate Product Manager (starting s...",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Associate-Product-Manager--starting-summer-2027-_JR351508-1",
-    "locations": [
-      "San Francisco"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Uline",
     "title": "Product Marketing Internship - Summer...",
     "url": "https://uline.wd1.myworkdayjobs.com/Uline_Careers/job/Pleasant-Prairie-WI/Product-Marketing-Internship---Summer-2027_R265897",
@@ -17988,11 +18168,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Baxter International",
-    "title": "Financial Analyst Intern",
-    "url": "https://baxter.wd1.myworkdayjobs.com/baxter/job/Deerfield-Illinois/Financial-Analyst-Intern_JR-207988-1",
+    "company": "GE Vernova",
+    "title": "Supply Chain Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Parsippany/Supply-Chain-Intern_R5050338",
     "locations": [
-      "Deerfield, Illinois"
+      "Parsippany"
     ],
     "date_posted": null,
     "term": null,
@@ -18000,26 +18180,14 @@
     "origin": "tracker"
   },
   {
-    "company": "Conagra Brands",
-    "title": "Supply Chain Finance Internship - Sum...",
-    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Supply-Chain-Finance-Internship---Summer-2026_Req-039798",
+    "company": "Capital One",
+    "title": "Strategy Consulting Intern - Summer 2027",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1",
     "locations": [
-      "Omaha, Nebraska"
+      "McLean, VA"
     ],
     "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
-    "company": "Conagra Brands",
-    "title": "Human Resources Master's Internship -...",
-    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Human-Resources-Master-s-Internship---Summer-2027_Req-039783-1",
-    "locations": [
-      "Omaha, Nebraska"
-    ],
-    "date_posted": null,
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -18060,11 +18228,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Live Nation",
-    "title": "Insomniac - Paid Fall Public Relation...",
-    "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1",
+    "company": "Carrier Global",
+    "title": "Operations Intern - Fall",
+    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN82-AL-N-Carolina-CLT-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Operations-Intern---Fall_30215486",
     "locations": [
-      "Calabasas, CA, USA"
+      "CAN82: AL N Carolina (..."
     ],
     "date_posted": null,
     "term": null,
@@ -18072,14 +18240,26 @@
     "origin": "tracker"
   },
   {
-    "company": "Capital One",
-    "title": "Strategy Consulting Intern - Summer 2027",
-    "url": "https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/McLean-VA/Strategy-Consulting-Intern---Summer-2027_R244315-1",
+    "company": "Conagra Brands",
+    "title": "Supply Chain Finance Internship - Sum...",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Supply-Chain-Finance-Internship---Summer-2026_Req-039798",
     "locations": [
-      "McLean, VA"
+      "Omaha, Nebraska"
     ],
     "date_posted": null,
-    "term": "Summer 2027",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Conagra Brands",
+    "title": "Human Resources Master's Internship -...",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Human-Resources-Master-s-Internship---Summer-2027_Req-039783-1",
+    "locations": [
+      "Omaha, Nebraska"
+    ],
+    "date_posted": null,
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -18096,11 +18276,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Carrier Global",
-    "title": "Operations Intern - Fall",
-    "url": "https://carrier.wd5.myworkdayjobs.com/jobs/job/CAN82-AL-N-Carolina-CLT-5900-Northwoods-Business-Parkway-Charlotte-NC-28269-USA/Operations-Intern---Fall_30215486",
+    "company": "Live Nation",
+    "title": "Insomniac - Paid Fall Public Relation...",
+    "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Public-Relations-Intern_JR-92533-1",
     "locations": [
-      "CAN82: AL N Carolina (..."
+      "Calabasas, CA, USA"
     ],
     "date_posted": null,
     "term": null,
@@ -18192,18 +18372,6 @@
     "origin": "tracker"
   },
   {
-    "company": "FLIR Systems",
-    "title": "Cost Accounting Intern",
-    "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Chestnut-Ridge-NY/Cost-Accounting-Intern_REQ35565",
-    "locations": [
-      "Chestnut Ridge, NY"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Wells Fargo",
     "title": "Workday",
     "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Human-Resources-Internship---Early-Careers_R-555463-1",
@@ -18252,18 +18420,6 @@
     "origin": "tracker"
   },
   {
-    "company": "KeyBank",
-    "title": "2027 KeyBank Finance/Accounting Summe...",
-    "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Cleveland-OH/XMLNAME-2027-KeyBank-Finance-Accounting-Summer-Internship---Cleveland--OH_R-39972",
-    "locations": [
-      "Cleveland, OH"
-    ],
-    "date_posted": null,
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Boeing",
     "title": "Boeing Summer 2027 Internship Program...",
     "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Summer-2027-Internship-Program--Paid----Supply-Chain_JR2026519410-1",
@@ -18272,6 +18428,18 @@
     ],
     "date_posted": null,
     "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Boeing",
+    "title": "Boeing Business Internship Program (P...",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1",
+    "locations": [
+      "Everett, WA"
+    ],
+    "date_posted": null,
+    "term": null,
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -18288,11 +18456,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Boeing",
-    "title": "Boeing Business Internship Program (P...",
-    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Everett-WA/Boeing-Business-Internship-Program--Paid--Summer-2027---Human-Resources_JR2026520801-1",
+    "company": "PNC Financial Services",
+    "title": "Human Resources Undergraduate Intern",
+    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Human-Resources-Undergraduate-Intern_R231530-1",
     "locations": [
-      "Everett, WA"
+      "Pittsburgh, PA"
     ],
     "date_posted": null,
     "term": null,
@@ -18312,14 +18480,14 @@
     "origin": "tracker"
   },
   {
-    "company": "PNC Financial Services",
-    "title": "Human Resources Undergraduate Intern",
-    "url": "https://pnc.wd5.myworkdayjobs.com/External/job/PA---Pittsburgh-15222/Human-Resources-Undergraduate-Intern_R231530-1",
+    "company": "Boeing",
+    "title": "Boeing Summer 2027 Internship Program...",
+    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
     "locations": [
-      "Pittsburgh, PA"
+      "Arlington, VA"
     ],
     "date_posted": null,
-    "term": null,
+    "term": "Summer 2027",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
@@ -18348,18 +18516,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Boeing",
-    "title": "Boeing Summer 2027 Internship Program...",
-    "url": "https://boeing.wd1.myworkdayjobs.com/EXTERNAL_CAREERS/job/USA---Arlington-VA/Boeing-Summer-2027-Internship-Program--Paid----Communications-Intern_JR2026518829",
-    "locations": [
-      "Arlington, VA"
-    ],
-    "date_posted": null,
-    "term": "Summer 2027",
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Relay",
     "title": "Job Application for Product &amp; Strategy Intern (Summer 2027 Opportunity) at Relay",
     "url": "https://job-boards.greenhouse.io/relaypro/jobs/8096572",
@@ -18368,6 +18524,42 @@
     ],
     "date_posted": null,
     "term": "Summer 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "GE Vernova",
+    "title": "GE Vernova Nuclear - Manufacturing / ...",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/Vernova_ExternalSite/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-3",
+    "locations": [
+      "Wilmington NC USA"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Live Nation",
+    "title": "Insomniac - Paid Fall Street Marketin...",
+    "url": "https://livenation.wd503.myworkdayjobs.com/LNExternalSite/job/Calabasas-CA-USA/Insomniac---Paid-Fall-Street-Marketing-Internship_JR-92052-1",
+    "locations": [
+      "Calabasas, CA, USA"
+    ],
+    "date_posted": null,
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Relay",
+    "title": "Job Application for Product &amp; Strategy Intern (Fall 2026 &amp; Spring 2027 Opportunity) at Relay",
+    "url": "https://job-boards.greenhouse.io/relaypro/jobs/8093012",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "date_posted": null,
+    "term": "Fall 2026",
     "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   }
