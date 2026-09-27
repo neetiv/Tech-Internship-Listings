@@ -144,6 +144,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Zipline",
+    "title": "Field Systems Engineer Intern (Spring 2027)",
+    "url": "https://zapply.jobs/l/d/greenhouse-flyzipline-8004729003?s=gh-internships-2027",
+    "locations": [
+      "South San Francisco,..."
+    ],
+    "date_posted": "2026-09-27",
+    "term": "Spring 2027",
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Disney",
     "title": "Data Analyst Intern, Global Security Control Center, Spring 2027027",
     "url": "https://zapply.jobs/l/d/workday-disney-disneycareer-10160010?s=gh-internships-2027",
@@ -984,15 +996,15 @@
     "origin": "tracker"
   },
   {
-    "company": "Flint",
-    "title": "Engineering Intern - Summer 2027",
-    "url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "company": "Bosch Group",
+    "title": "HR Service Intern (Year Round)",
+    "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000151857044?s=gh-internships-2027",
     "locations": [
-      "SF"
+      "Farmington Hills, MI"
     ],
     "date_posted": "2026-09-27",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
   {
@@ -1005,18 +1017,6 @@
     "date_posted": "2026-09-26",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
-    "origin": "tracker"
-  },
-  {
-    "company": "Zipline",
-    "title": "Field Systems Engineer Intern (Spring 2027)",
-    "url": "https://zapply.jobs/l/d/greenhouse-flyzipline-8004729003?s=gh-internships-2027",
-    "locations": [
-      "South San Francisco,..."
-    ],
-    "date_posted": "2026-09-26",
-    "term": "Spring 2027",
-    "source": "zapplyjobs/Internships-2027",
     "origin": "tracker"
   },
   {
@@ -2448,18 +2448,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Bosch Group",
-    "title": "HR Service Intern (Year Round)",
-    "url": "https://zapply.jobs/l/d/sr-BoschGroup-744000151857044?s=gh-internships-2027",
-    "locations": [
-      "Farmington Hills, MI"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Microsoft",
     "title": "Applied Sciences INTERN",
     "url": "https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027",
@@ -3120,6 +3108,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Flint",
+    "title": "Engineering Intern - Summer 2027",
+    "url": "https://jobs.ashbyhq.com/flint/39f9e665-7037-4dff-b77a-ff7039df2bfc/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "SF"
+    ],
+    "date_posted": "2026-09-26",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "\ud83d\udd25 Waymo",
     "title": "Software Engineer Intern - Driver Refinement Foundations",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8224900&utm_source=Simplify&ref=Simplify",
@@ -3450,30 +3450,6 @@
     "term": null,
     "source": "Built In Seattle",
     "origin": "builtin"
-  },
-  {
-    "company": "Salesforce",
-    "title": "Sales Intern (North)",
-    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Sales-Intern--North-_JR335815",
-    "locations": [
-      "Germany - Munich"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "Salesforce (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Palo Alto Networks",
-    "title": "Senior Program Specialist - Intern & Keep Warm Programs",
-    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-Program-Specialist---Intern---Keep-Warm-Programs_JR-022876",
-    "locations": [
-      "Office - USA - CA - Headquarters"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "Palo Alto Networks (Workday)",
-    "origin": "company-direct"
   },
   {
     "company": "DoorDash",
@@ -4574,18 +4550,6 @@
   },
   {
     "company": "Boston Scientific",
-    "title": "Software Engineer Intern - R&D",
-    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813542900?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Arden Hills, MN"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
     "title": "Software Development Engineer Intern",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813567960?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -4793,18 +4757,6 @@
   },
   {
     "company": "Zurn Elkay Water Solutions",
-    "title": "Embedded Hardware Intern",
-    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Milwaukee, WI"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
     "title": "Embedded Firmware Intern - Summer 2027",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -4936,87 +4888,27 @@
     "origin": "builtin"
   },
   {
-    "company": "Cisco",
-    "title": "AI Operations Engineer I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
+    "company": "Salesforce",
+    "title": "Sales Intern (North)",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/Germany---Munich/Sales-Intern--North-_JR335815",
     "locations": [
-      "4 Locations"
+      "Germany - Munich"
     ],
     "date_posted": "2026-09-25",
     "term": null,
-    "source": "Cisco (Workday)",
+    "source": "Salesforce (Workday)",
     "origin": "company-direct"
   },
   {
-    "company": "Cisco",
-    "title": "Machine Learning Engineer I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+    "company": "Palo Alto Networks",
+    "title": "Senior Program Specialist - Intern & Keep Warm Programs",
+    "url": "https://paloaltonetworks.wd5.myworkdayjobs.com/panwexternalcareers/job/Office---USA---CA---Headquarters/Senior-Program-Specialist---Intern---Keep-Warm-Programs_JR-022876",
     "locations": [
-      "4 Locations"
+      "Office - USA - CA - Headquarters"
     ],
     "date_posted": "2026-09-25",
     "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Machine Learning Engineer II (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer Embedded Systems II (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "Cisco (Workday)",
+    "source": "Palo Alto Networks (Workday)",
     "origin": "company-direct"
   },
   {
@@ -6696,16 +6588,88 @@
     "origin": "tracker"
   },
   {
-    "company": "Astranis",
-    "title": "Reliability Test Intern",
-    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006?utm_source=Simplify&ref=Simplify",
+    "company": "Cisco",
+    "title": "AI Operations Engineer I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/AI-Operations-Engineer-I--Intern----United-States_2026804",
     "locations": [
-      "SF"
+      "4 Locations"
     ],
     "date_posted": "2026-09-24",
     "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Machine Learning Engineer I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-I--Intern----United-States_2026803",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Engineering Product Management Specialist II (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-II--Intern----United-States_2026801",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Machine Learning Engineer II (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Machine-Learning-Engineer-II--Intern----United-States_2026802",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Software Engineer Full Stack / Backend II (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-II--Intern----United-States_2026800",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Software Engineer Data & AI II (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Software Engineer Embedded Systems II (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-II--Intern----United-States_2026805",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
   },
   {
     "company": "DoorDash",
@@ -7999,6 +7963,18 @@
   },
   {
     "company": "Astranis",
+    "title": "Reliability Test Intern",
+    "url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "SF"
+    ],
+    "date_posted": "2026-09-23",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
     "title": "Flight Software Intern - Summer 2027",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4704598006?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -8119,18 +8095,6 @@
     "term": null,
     "source": "Built In Seattle",
     "origin": "builtin"
-  },
-  {
-    "company": "Cisco",
-    "title": "Hardware Engineer II Intern - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-23",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
   },
   {
     "company": "Stripe",
@@ -8361,18 +8325,6 @@
     "origin": "tracker"
   },
   {
-    "company": "AutoZone",
-    "title": "Information Technology Intern",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "ONE Finance",
     "title": "Product Intern",
     "url": "https://jobs.ashbyhq.com/oneapp/901eab26-08e3-4e6c-ad3d-c4acef4662c8/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -8426,18 +8378,6 @@
     "url": "https://careers.zimmerbiomet.com/us/en/job/12745?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Remote in USA"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "AutoZone",
-    "title": "Ecommerce Intern",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Memphis, TN"
     ],
     "date_posted": "2026-09-22",
     "term": null,
@@ -8821,18 +8761,6 @@
     "origin": "tracker"
   },
   {
-    "company": "AutoZone",
-    "title": "Data Science Intern",
-    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Memphis, TN"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Viking Global",
     "title": "Data Science Intern \ud83c\udf93",
     "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004?utm_source=Simplify&ref=Simplify",
@@ -8980,44 +8908,8 @@
   },
   {
     "company": "Cisco",
-    "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer Full Stack / Backend I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-22",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+    "title": "Hardware Engineer II Intern - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Hardware-Engineer-II-Intern---United-States_2024757",
     "locations": [
       "4 Locations"
     ],
@@ -9084,6 +8976,18 @@
     "date_posted": "2026-09-21",
     "term": null,
     "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "AutoZone",
+    "title": "Information Technology Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155451?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -9239,6 +9143,18 @@
     "origin": "tracker"
   },
   {
+    "company": "AutoZone",
+    "title": "Ecommerce Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155427?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Memphis, TN"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Mastercard",
     "title": "Product Management Intern",
     "url": "https://mastercard.wd1.myworkdayjobs.com/Campus/job/Purchase-New-York/Product-Management-Intern--Summer-2027---United-States_R-287624?utm_source=Simplify&ref=Simplify",
@@ -9258,6 +9174,18 @@
     "locations": [
       "Harrison, NY",
       "Arlington County, Arlington, VA"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "AutoZone",
+    "title": "Data Science Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Memphis, TN"
     ],
     "date_posted": "2026-09-21",
     "term": null,
@@ -9495,20 +9423,6 @@
   },
   {
     "company": "Marvell",
-    "title": "Test Engineering Intern",
-    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Irvine, CA",
-      "Santa Clara, CA",
-      "Westlake Village, CA"
-    ],
-    "date_posted": "2026-09-21",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
     "title": "Test Engineering Intern - BS",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -9637,6 +9551,54 @@
     "origin": "builtin"
   },
   {
+    "company": "Cisco",
+    "title": "Software Engineer Data & AI I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Data---AI-I--Intern----United-States_2026306",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Software Engineer Full Stack / Backend I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Intern----United-States_2025924",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Engineering Product Management Specialist I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Engineering-Product-Management-Specialist-I--Intern----United-States_2026308",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Software Engineer Embedded Systems I (Intern) \u2013 United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Intern----United-States_2025926",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
     "company": "Amazon",
     "title": "Software Development Engineer Intern - Amazon Leo - Summer 2027 - USA",
     "url": "https://www.amazon.jobs/jobs/10559762/apply",
@@ -9756,30 +9718,6 @@
     "term": null,
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 Tesla",
-    "title": "Internship - Software Engineering - People Products - Summer 2027",
-    "url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "date_posted": "2026-09-19",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Software Engineer",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
-    "locations": [
-      "7 Locations"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
   },
   {
     "company": "Publicis Groupe",
@@ -9903,18 +9841,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Adobe",
-    "title": "2027 Intern - Machine Learning Engineer",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
-    "locations": [
-      "6 Locations"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
     "company": "Eaton",
     "title": "R&D Engineer Intern - Research & Development Engineering",
     "url": "https://eaton.eightfold.ai/careers/job/687239185039?utm_source=Simplify&ref=Simplify",
@@ -9985,126 +9911,6 @@
     "term": null,
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Solutions Consulting Analyst",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Enterprise Architecture Analyst",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Sales Velocity Analyst",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Sales-Velocity-Analyst_R171869",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Adobe Sales Academy BDR",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977",
-    "locations": [
-      "4 Locations"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Adobe",
-    "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
-    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828",
-    "locations": [
-      "New York"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Adobe (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Splunk Solutions Engineer Intern",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Splunk-Solutions-Engineer-Intern_2025977",
-    "locations": [
-      "London, United Kingdom"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Business Analyst I (Intern) United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
-    "locations": [
-      "RTP, North Carolina, US"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Sales Legal Intern",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milan-Italy/Sales-Legal-Intern_2026224",
-    "locations": [
-      "Milan, Italy"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Legal Rising 3L  (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Legal-Rising-3L-JD--Intern----United-States_2025449",
-    "locations": [
-      "5 Locations"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "Cisco",
-    "title": "Legal Summer Intern Rising 2L  (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Legal-Summer-Intern-Rising-2L---Intern----United-States_2025447",
-    "locations": [
-      "5 Locations"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "Cisco (Workday)",
-    "origin": "company-direct"
   },
   {
     "company": "Point72",
@@ -10261,6 +10067,18 @@
     "term": "Summer 2027",
     "source": "Together AI (Greenhouse)",
     "origin": "company-direct"
+  },
+  {
+    "company": "\ud83d\udd25 Tesla",
+    "title": "Internship - Software Engineering - People Products - Summer 2027",
+    "url": "https://www.tesla.com/careers/search/job/284004?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": "2026-09-18",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "TRC Companies",
@@ -10444,16 +10262,16 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 Waymo",
-    "title": "Software Engineering Intern - Maneuvering Tech",
-    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200&utm_source=Simplify&ref=Simplify",
+    "company": "Adobe",
+    "title": "2027 Intern - Software Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Software-Engineer_R171666",
     "locations": [
-      "SF"
+      "7 Locations"
     ],
     "date_posted": "2026-09-18",
     "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
   },
   {
     "company": "USAA",
@@ -10661,16 +10479,16 @@
     "origin": "tracker"
   },
   {
-    "company": "Howmet Aerospace",
-    "title": "Artificial Intelligence Intern - AI",
-    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494?utm_source=Simplify&ref=Simplify",
+    "company": "Adobe",
+    "title": "2027 Intern - Machine Learning Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
     "locations": [
-      "Pittsburgh, PA"
+      "6 Locations"
     ],
     "date_posted": "2026-09-18",
     "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
   },
   {
     "company": "Bank of Montreal",
@@ -10863,16 +10681,136 @@
     "origin": "builtin"
   },
   {
-    "company": "Cisco",
-    "title": "Data Analyst I (Intern) - United States",
-    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1",
+    "company": "Adobe",
+    "title": "2027 Intern - Solutions Consulting Analyst",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Solutions-Consulting-Analyst_R171696",
     "locations": [
-      "3 Locations"
+      "New York"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Adobe",
+    "title": "2027 Intern - Enterprise Architecture Analyst",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Enterprise-Architecture-Analyst_R171856",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Adobe",
+    "title": "2027 Intern - Sales Velocity Analyst",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Sales-Velocity-Analyst_R171869",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Adobe",
+    "title": "2027 Intern - Adobe Sales Academy BDR",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Adobe-Sales-Academy-BDR_R170977",
+    "locations": [
+      "4 Locations"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Adobe",
+    "title": "2027 Intern - Digital Strategy Analyst, Strategic Advisory",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/XMLNAME-2027-Intern---Digital-Strategy-Analyst_R171828",
+    "locations": [
+      "New York"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Adobe (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Splunk Solutions Engineer Intern",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/London-United-Kingdom/Splunk-Solutions-Engineer-Intern_2025977",
+    "locations": [
+      "London, United Kingdom"
     ],
     "date_posted": "2026-09-18",
     "term": null,
     "source": "Cisco (Workday)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Business Analyst I (Intern) United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Business-Analyst-I--Intern--United-States_2026181",
+    "locations": [
+      "RTP, North Carolina, US"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Sales Legal Intern",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Milan-Italy/Sales-Legal-Intern_2026224",
+    "locations": [
+      "Milan, Italy"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Legal Rising 3L  (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Legal-Rising-3L-JD--Intern----United-States_2025449",
+    "locations": [
+      "5 Locations"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "Cisco",
+    "title": "Legal Summer Intern Rising 2L  (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/RTP-North-Carolina-US/Legal-Summer-Intern-Rising-2L---Intern----United-States_2025447",
+    "locations": [
+      "5 Locations"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "Cisco (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "\ud83d\udd25 Waymo",
+    "title": "Software Engineering Intern - Maneuvering Tech",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "SF"
+    ],
+    "date_posted": "2026-09-17",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "Vanguard",
@@ -11188,18 +11126,6 @@
       "North Kingstown, RI",
       "North Stonington, CT",
       "Groton, CT"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "RAVE Aerospace",
-    "title": "Software Engineer Intern",
-    "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Laramie, WY"
     ],
     "date_posted": "2026-09-17",
     "term": null,
@@ -11733,18 +11659,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Antares Nuclear",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Torrance, CA"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "PAE Consulting Engineers Inc.",
     "title": "Mechanical Engineer Internship Summer 2027 - Seattle, WA",
     "url": "https://www.builtinseattle.com/job/mechanical-engineer-internship-summer-2027-seattle-wa/11221534",
@@ -11769,27 +11683,15 @@
     "origin": "builtin"
   },
   {
-    "company": "NVIDIA",
-    "title": "Custom SOC Intern - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-Intern---2027_JR2024692",
+    "company": "Cisco",
+    "title": "Data Analyst I (Intern) - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/San-Jose-California-US/Data-Analyst-I--Intern----United-States_2024561-1",
     "locations": [
-      "China, Shanghai"
+      "3 Locations"
     ],
     "date_posted": "2026-09-17",
     "term": null,
-    "source": "NVIDIA (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
-    "locations": [
-      "Germany, Munich"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "NVIDIA (Workday)",
+    "source": "Cisco (Workday)",
     "origin": "company-direct"
   },
   {
@@ -11814,6 +11716,18 @@
     "date_posted": "2026-09-16",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "RAVE Aerospace",
+    "title": "Software Engineer Intern",
+    "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Laramie, WY"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -12393,11 +12307,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Tighe & Bond",
-    "title": "GIS Intern - Geographic Information Systems",
-    "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "company": "Five Rings Capital",
+    "title": "Trading Operations Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Worcester, MA"
+      "NYC"
     ],
     "date_posted": "2026-09-16",
     "term": null,
@@ -12405,11 +12319,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Five Rings Capital",
-    "title": "Trading Operations Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008?utm_source=Simplify&ref=Simplify",
+    "company": "Antares Nuclear",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "NYC"
+      "Torrance, CA"
     ],
     "date_posted": "2026-09-16",
     "term": null,
@@ -12644,13 +12558,25 @@
   },
   {
     "company": "NVIDIA",
-    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
+    "title": "Custom SOC Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Custom-SOC-Intern---2027_JR2024692",
     "locations": [
-      "US, CA, Santa Clara"
+      "China, Shanghai"
     ],
     "date_posted": "2026-09-16",
-    "term": "Summer 2027",
+    "term": null,
+    "source": "NVIDIA (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Software Engineering Intern \u2014 Replay Tooling and Test Automation - Autonomous Driving",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---Replay-Tooling---Test-Automation--Autonomous-Driving_JR2022086",
+    "locations": [
+      "Germany, Munich"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
     "source": "NVIDIA (Workday)",
     "origin": "company-direct"
   },
@@ -13365,6 +13291,18 @@
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Burgess Hill, UK"
+    ],
+    "date_posted": "2026-09-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Tighe & Bond",
+    "title": "GIS Intern - Geographic Information Systems",
+    "url": "https://careers-tighebond.icims.com/jobs/1892/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Worcester, MA"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -14379,13 +14317,13 @@
   },
   {
     "company": "NVIDIA",
-    "title": "Linux for Edge System Software Engineer (RDSS intern)",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
+    "title": "NVIDIA 2027 Summer Internships: Ph.D. Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Summer-Internships--PhD-Engineering_JR2023856",
     "locations": [
-      "Taiwan, Taipei"
+      "US, CA, Santa Clara"
     ],
     "date_posted": "2026-09-15",
-    "term": null,
+    "term": "Summer 2027",
     "source": "NVIDIA (Workday)",
     "origin": "company-direct"
   },
@@ -15103,18 +15041,6 @@
   },
   {
     "company": "\u21b3",
-    "title": "Business Intelligence Co-op",
-    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Irving-Texas-United-States-of-America/Business-Intelligence-Co-Op_R-097003-1?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Irving, TX"
-    ],
-    "date_posted": "2026-09-14",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
     "title": "Technology and Digital Quality Intern",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/TDQ-Intern_R-098463?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -15369,6 +15295,18 @@
     "origin": "builtin"
   },
   {
+    "company": "NVIDIA",
+    "title": "Linux for Edge System Software Engineer (RDSS intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
+    "locations": [
+      "Taiwan, Taipei"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "NVIDIA (Workday)",
+    "origin": "company-direct"
+  },
+  {
     "company": "Microsoft",
     "title": "Software Engineering Intern - CTJ - TS",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
@@ -15429,18 +15367,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Constellation Energy",
-    "title": "Information Technology Software Development Intern",
-    "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Baltimore, MD"
-    ],
-    "date_posted": "2026-09-13",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "TD Bank",
     "title": "Data Analyst Intern - Global Technology & Solutions",
     "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Analyst_R_1510800?utm_source=Simplify&ref=Simplify",
@@ -15465,25 +15391,13 @@
     "origin": "tracker"
   },
   {
-    "company": "Energy Transfer Partners",
-    "title": "Power Optimization Intern",
-    "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Houston, TX"
-    ],
-    "date_posted": "2026-09-13",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Constellation Energy",
-    "title": "IT Data Engineering Intern",
-    "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1&utm_source=Simplify&ref=Simplify",
+    "title": "Information Technology Software Development Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Baltimore, MD"
     ],
-    "date_posted": "2026-09-13",
+    "date_posted": "2026-09-12",
     "term": null,
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
@@ -15659,11 +15573,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Wellmark",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793?utm_source=Simplify&ref=Simplify",
+    "company": "Veeam Software",
+    "title": "Services Portfolio Management Intern",
+    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Des Moines, IA"
+      "San Jose, CA"
     ],
     "date_posted": "2026-09-12",
     "term": null,
@@ -15671,11 +15585,23 @@
     "origin": "tracker"
   },
   {
-    "company": "Veeam Software",
-    "title": "Services Portfolio Management Intern",
-    "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify",
+    "company": "Energy Transfer Partners",
+    "title": "Power Optimization Intern",
+    "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "San Jose, CA"
+      "Houston, TX"
+    ],
+    "date_posted": "2026-09-12",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Constellation Energy",
+    "title": "IT Data Engineering Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Baltimore, MD"
     ],
     "date_posted": "2026-09-12",
     "term": null,
@@ -15943,18 +15869,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Wellmark",
-    "title": "Data Analytics & Governance Internship",
-    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Energy Transfer Partners",
     "title": "Commodity Trading Analyst Intern",
     "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520&utm_source=Simplify&ref=Simplify",
@@ -16083,18 +15997,6 @@
     "url": "https://jobs.smartrecruiters.com/WesternDigital/744000149106240?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Rochester, MN"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Garmin",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.garmin.com/jobs/20135?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Tulsa, OK"
     ],
     "date_posted": "2026-09-12",
     "term": null,
@@ -16279,6 +16181,18 @@
     "date_posted": "2026-09-11",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Wellmark",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -16552,6 +16466,18 @@
     "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Lincoln, NE"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Wellmark",
+    "title": "Data Analytics & Governance Internship",
+    "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148917718?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Des Moines, IA"
     ],
     "date_posted": "2026-09-11",
     "term": null,
@@ -16972,11 +16898,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Constellation Energy",
-    "title": "Business Performance & Analytics Intern",
-    "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "Geneva Trading",
+    "title": "Quantitative Trading Intern",
+    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Houston, TX"
+      "Chicago, IL"
     ],
     "date_posted": "2026-09-11",
     "term": null,
@@ -16984,11 +16910,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Geneva Trading",
-    "title": "Quantitative Trading Intern",
-    "url": "https://job-boards.greenhouse.io/genevatrading/jobs/5232641007?utm_source=Simplify&ref=Simplify",
+    "company": "Garmin",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.garmin.com/jobs/20135?icims=1&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Chicago, IL"
+      "Tulsa, OK"
     ],
     "date_posted": "2026-09-11",
     "term": null,
@@ -17191,6 +17117,20 @@
     "url": "https://wellington.wd5.myworkdayjobs.com/Campus/job/Boston-MA-United-States/Technology-Undergraduate-Summer-Internship_R94778?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Boston, MA"
+    ],
+    "date_posted": "2026-09-10",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Walmart",
+    "title": "Software Engineer 2 Intern",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Bentonville, AR",
+      "Bellevue, WA",
+      "Sunnyvale, CA"
     ],
     "date_posted": "2026-09-10",
     "term": null,
@@ -17505,18 +17445,6 @@
     "origin": "tracker"
   },
   {
-    "company": "K2 Space",
-    "title": "Simulation Software Engineering Intern",
-    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "LA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "ITT",
     "title": "Product Management Co-op - Spring/Summer 2027",
     "url": "https://careersenus-itt-inc.icims.com/jobs/17451/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
@@ -17558,6 +17486,18 @@
     "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Vienna, VA"
+    ],
+    "date_posted": "2026-09-10",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Constellation Energy",
+    "title": "Business Performance & Analytics Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/138770?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Houston, TX"
     ],
     "date_posted": "2026-09-10",
     "term": null,
@@ -18353,6 +18293,18 @@
     "origin": "tracker"
   },
   {
+    "company": "K2 Space",
+    "title": "Simulation Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "LA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Gallup",
     "title": "Software Engineer Intern - Summer 2027",
     "url": "https://job-boards.greenhouse.io/gallup/jobs/4395897009?utm_source=Simplify&ref=Simplify",
@@ -18861,18 +18813,6 @@
     "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Mountain View, CA"
-    ],
-    "date_posted": "2026-09-09",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "BNY",
-    "title": "Product Management Intern - Product Management",
-    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -19997,6 +19937,18 @@
     "company": "incident.io",
     "title": "Product Engineer Intern",
     "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "BNY",
+    "title": "Product Management Intern - Product Management",
+    "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81922?utm_source=Simplify&ref=Simplify",
     "locations": [
       "London, UK"
     ],
@@ -21242,18 +21194,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Primer",
-    "title": "Software Engineer Intern - Full Stack",
-    "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "SF"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Ernst & Young",
     "title": "Product Manager Intern - Tax - Other Tax",
     "url": "https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
@@ -21582,6 +21522,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Primer",
+    "title": "Software Engineer Intern - Full Stack",
+    "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "SF"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "\ud83d\udd25 Amazon",
     "title": "Software Development Engineer Intern - Robotics",
     "url": "https://amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027?utm_source=Simplify&ref=Simplify",
@@ -21905,18 +21857,6 @@
     "company": "\u21b3",
     "title": "Generative AI Intern",
     "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Generative-AI-Internship_100231?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-04",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Analytic Consulting Advisor Intern",
-    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Ohio---Columbus-Metro/Summer-2027-Analytic-Consulting-Advisor-Internship_100235?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Columbus, OH"
     ],
@@ -22880,42 +22820,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 ByteDance",
-    "title": "Research Intern - AI-Native Databases \ud83c\udf93",
-    "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Research Intern - AI-Native Databases \ud83c\udf93",
-    "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Mission Systems Engineering Intern",
-    "url": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "\ud83d\udd25 TikTok",
     "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
     "url": "https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify",
@@ -22945,18 +22849,6 @@
     "url": "https://careersus-shure.icims.com/jobs/5024/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Niles, IL"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 Atlassian",
-    "title": "Product Management Intern",
-    "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "SF"
     ],
     "date_posted": "2026-09-03",
     "term": null,
@@ -23184,18 +23076,6 @@
       "Pittsburgh, PA",
       "Mossville, IL",
       "Irving, TX"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 TikTok",
-    "title": "Ecosystem Analyst Intern - TikTok LIVE",
-    "url": "https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "LA"
     ],
     "date_posted": "2026-09-03",
     "term": null,
@@ -23525,6 +23405,42 @@
     "term": null,
     "source": "Perplexity AI (Ashby)",
     "origin": "company-direct"
+  },
+  {
+    "company": "\ud83d\udd25 ByteDance",
+    "title": "Research Intern - AI-Native Databases \ud83c\udf93",
+    "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-09-02",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Research Intern - AI-Native Databases \ud83c\udf93",
+    "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
+    ],
+    "date_posted": "2026-09-02",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Mission Systems Engineering Intern",
+    "url": "https://careers.jhuapl.edu/jobs/59883?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "date_posted": "2026-09-02",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "\ud83d\udd25 Tesla",
@@ -23898,198 +23814,11 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 AMD",
-    "title": "Graphics Software Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "\ud83d\udd25 Atlassian",
+    "title": "Product Management Intern",
+    "url": "https://careers-americas.icims.com/jobs/26274/product-management-intern%2c-2027-summer-u.s./job?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "AGS Libraries Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Graphics Software Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Textron",
-    "title": "Software Engineer Intern",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Waterboro, ME"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Electronic Systems",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Hunt Valley, Cockeysville, MD"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Crewed Land",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Slidell, LA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Co-op - Uncrewed Land & Air",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Hunt Valley, Cockeysville, MD"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "John Deere",
-    "title": "Information Technology Intern - Technology",
-    "url": "https://johndeere.eightfold.ai/careers/job/137482633322?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Moline, IL"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Maven Securities",
-    "title": "Software Developer Intern",
-    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Edison International",
-    "title": "Computer Science Intern",
-    "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Santa Ana, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Computer Science Intern",
-    "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Alhambra, CA",
-      "Pomona, CA",
-      "Rosemead, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "WhatNot",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "4 locationsSeattle, WA",
-      "SF",
-      "LA",
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Sierra",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "SF",
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "JP Morgan Chase",
-    "title": "Software Engineer Intern - Summer Internship",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK",
-      "Glasgow, UK"
+      "SF"
     ],
     "date_posted": "2026-09-02",
     "term": null,
@@ -24133,119 +23862,11 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 AMD",
-    "title": "Product Management Intern/Co-op - Multiple Teams",
-    "url": "https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "\ud83d\udd25 TikTok",
+    "title": "Ecosystem Analyst Intern - TikTok LIVE",
+    "url": "https://lifeattiktok.com/search/7678985103851407669?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Calgary, AB, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "American Express",
-    "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Digital Product Management Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Product Development Intern - 2027 Product Development - US Consumer Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
+      "LA"
     ],
     "date_posted": "2026-09-02",
     "term": null,
@@ -24783,352 +24404,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 AMD",
-    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Edison International",
-    "title": "Software/Data Engineering Intern",
-    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Chino, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Data Science/Applied Math",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pomona, CA",
-      "Rosemead, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Data Science - Applied Math",
-    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pomona, CA",
-      "Rosemead, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Internship - Data Analytics/Science/Applied Math",
-    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "4 locationsSanta Ana, CA",
-      "Fullerton, CA",
-      "Irvine, CA",
-      "Westminster, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Intern - Multiple Teams",
-    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "4 locationsSanta Ana, CA",
-      "Fullerton, CA",
-      "Irvine, CA",
-      "Westminster, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Trane Technologies",
-    "title": "AI Intern - AI Product Management - AI Controls Integration",
-    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Montreal, QC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "AI & Analytics Intern",
-    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Minneapolis, MN",
-      "Davidson, NC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "American Express",
-    "title": "Data Analytics Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Sunrise, FL"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Management Intern - Global Merchant & Network Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Science Intern - Finance",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Science Intern - Finance \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - US Consumer Services \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analytics Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Palo Alto, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "JP Morgan Chase",
-    "title": "Data & AI Intern - Data & AI Program",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK",
-      "Glasgow, UK"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Royal Bank of Canada",
     "title": "Quantitative Analyst Summer Associate - Quantitative Technology Services",
     "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729?utm_source=Simplify&ref=Simplify",
@@ -25265,234 +24540,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 AMD",
-    "title": "Hardware Design Verification Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Firmware Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Analog and Mixed Signal Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Firmware Engineer Intern/Co-op - Long Term",
-    "url": "https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Hardware Design Engineer Intern/Co-op - Long Term",
-    "url": "https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Firmware Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Hardware Design Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Firmware Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Hardware Design Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Diagnostics Design Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Hardware Design Verification Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vancouver, BC, Canada"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Textron",
-    "title": "Integration Test Engineer Intern - Marine",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "New Orleans, LA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Sea Systems",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Hunt Valley, Cockeysville, MD"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Firmware Engineer Intern - Weapons",
-    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Hunt Valley, Cockeysville, MD"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "K2 Space",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "LA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Electrical Engineer Intern - Summer 2027",
-    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "LA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Eaton",
-    "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
-    "url": "https://eaton.eightfold.ai/careers/job/687238596754?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Moon Twp, PA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Electrical Engineer Intern/Co-op - Research & Development Engineering",
-    "url": "https://eaton.eightfold.ai/careers/job/687238596674?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Moon Twp, PA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Emerson Electric",
-    "title": "Software Engineer Co-op - January 2027 - May 2027",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Shakopee, MN"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "VelocityEHS",
     "title": "Customer Experience Intern (Spring 2027)",
     "url": "https://www.builtinseattle.com/job/customer-experience-intern-spring-2027/10991546",
@@ -25574,6 +24621,205 @@
     "date_posted": "2026-09-01",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 AMD",
+    "title": "Graphics Software Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90305?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AGS Libraries Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90427?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Calgary, AB, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91367?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Graphics Software Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91359?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91368?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Textron",
+    "title": "Software Engineer Intern",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Waterboro, ME"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Electronic Systems",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342688&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Hunt Valley, Cockeysville, MD"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Crewed Land",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342915&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Slidell, LA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Co-op - Uncrewed Land & Air",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Hunt Valley, Cockeysville, MD"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "John Deere",
+    "title": "Information Technology Intern - Technology",
+    "url": "https://johndeere.eightfold.ai/careers/job/137482633322?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Moline, IL"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Maven Securities",
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Edison International",
+    "title": "Computer Science Intern",
+    "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Santa Ana, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Computer Science Intern",
+    "url": "https://apply.edisoncareers.com/job/Alhambra-2027-Summer-Internship-Computer-Science-(AlhambraRosemeadPomona)-CA-91803-0000/1425151100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Alhambra, CA",
+      "Pomona, CA",
+      "Rosemead, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "WhatNot",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/whatnot/928ffdca-b316-40ce-b82b-94b570919bcd/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsSeattle, WA",
+      "SF",
+      "LA",
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Sierra",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "SF",
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "JP Morgan Chase",
+    "title": "Software Engineer Intern - Summer Internship",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774716?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK",
+      "Glasgow, UK"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -25987,11 +25233,119 @@
     "origin": "tracker"
   },
   {
-    "company": "Qorvo",
-    "title": "Full-Stack Web Developer Intern",
-    "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "company": "\ud83d\udd25 AMD",
+    "title": "Product Management Intern/Co-op - Multiple Teams",
+    "url": "https://careers.amd.com/jobs/90411?icims=1&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Richardson, TX"
+      "Calgary, AB, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "American Express",
+    "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Management Intern - Global Merchant & Network Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Digital Product Management Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011627?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Development Intern - 2027 Product Development - US Consumer Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011605?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
     ],
     "date_posted": "2026-09-01",
     "term": null,
@@ -26047,11 +25401,128 @@
     "origin": "tracker"
   },
   {
+    "company": "\ud83d\udd25 AMD",
+    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91363?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90383?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Edison International",
+    "title": "Software/Data Engineering Intern",
+    "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Chino, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Data Science/Applied Math",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pomona, CA",
+      "Rosemead, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Data Science - Applied Math",
+    "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pomona, CA",
+      "Rosemead, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Internship - Data Analytics/Science/Applied Math",
+    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsSanta Ana, CA",
+      "Fullerton, CA",
+      "Irvine, CA",
+      "Westminster, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Intern - Multiple Teams",
+    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsSanta Ana, CA",
+      "Fullerton, CA",
+      "Irvine, CA",
+      "Westminster, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Trane Technologies",
+    "title": "AI Intern - AI Product Management - AI Controls Integration",
+    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7608?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Montreal, QC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AI & Analytics Intern",
+    "url": "https://careers.tranetechnologies.com/global/en/job/JR-7591?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Minneapolis, MN",
+      "Davidson, NC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "American Express",
-    "title": "Product Development Intern - Global Commercial Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890?utm_source=Simplify&ref=Simplify",
+    "title": "Data Analytics Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Atlanta, GA"
+      "Phoenix, AZ"
     ],
     "date_posted": "2026-09-01",
     "term": null,
@@ -26060,8 +25531,104 @@
   },
   {
     "company": "\u21b3",
-    "title": "Product Development Intern - Global Commercial Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091?utm_source=Simplify&ref=Simplify",
+    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012782?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012781?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012784?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Sunrise, FL"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012729?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Management Intern - Global Merchant & Network Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012668?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011807?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012783?utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
     ],
@@ -26072,10 +25639,107 @@
   },
   {
     "company": "\u21b3",
-    "title": "Product Management Intern - Global Commercial Services",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558?utm_source=Simplify&ref=Simplify",
+    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012764?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Science Intern - Finance",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190?utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012339?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Science Intern - Finance \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - US Consumer Services \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011607?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011813?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analytics Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011818?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Palo Alto, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011828?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "JP Morgan Chase",
+    "title": "Data & AI Intern - Data & AI Program",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774745?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK",
+      "Glasgow, UK"
     ],
     "date_posted": "2026-09-01",
     "term": null,
@@ -26597,30 +26261,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 TikTok",
-    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7676652813409552645?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "San Jose, CA"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
-    "url": "https://lifeattiktok.com/search/7676650607912601861?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "PIMCO",
     "title": "Quantitative Research Analyst Intern - Client Solutions & Analytics \ud83c\udf93",
     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804?utm_source=Simplify&ref=Simplify",
@@ -26674,6 +26314,234 @@
     "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Newport Beach, CA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 AMD",
+    "title": "Hardware Design Verification Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90379?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Firmware Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91320?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Analog and Mixed Signal Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91369?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Firmware Engineer Intern/Co-op - Long Term",
+    "url": "https://careers.amd.com/jobs/90297?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Hardware Design Engineer Intern/Co-op - Long Term",
+    "url": "https://careers.amd.com/jobs/90367?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Firmware Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91313?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Hardware Design Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91360?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Firmware Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90301?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Hardware Design Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90372?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Diagnostics Design Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/90435?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Hardware Design Verification Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91362?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vancouver, BC, Canada"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Textron",
+    "title": "Integration Test Engineer Intern - Marine",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342674&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "New Orleans, LA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Sea Systems",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342935&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Hunt Valley, Cockeysville, MD"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Firmware Engineer Intern - Weapons",
+    "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342606&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Hunt Valley, Cockeysville, MD"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "K2 Space",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "LA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Electrical Engineer Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411918008?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "LA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Eaton",
+    "title": "Firmware Engineer Intern/Co-op - Research & Development Engineering",
+    "url": "https://eaton.eightfold.ai/careers/job/687238596754?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Moon Twp, PA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Electrical Engineer Intern/Co-op - Research & Development Engineering",
+    "url": "https://eaton.eightfold.ai/careers/job/687238596674?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Moon Twp, PA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Emerson Electric",
+    "title": "Software Engineer Co-op - January 2027 - May 2027",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009454?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Shakopee, MN"
     ],
     "date_posted": "2026-09-01",
     "term": null,
@@ -26836,30 +26704,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Stryten",
-    "title": "Electrical Engineer Intern",
-    "url": "https://jobs.stryten.com/jobs/5800?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Alpharetta, GA"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Industrial or Mechanical Engineering Intern",
-    "url": "https://jobs.stryten.com/jobs/5809?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Salina, KS"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Clearwater Analytics (CWAN)",
     "title": "Gen AI Intern",
     "url": "https://www.builtinseattle.com/job/gen-ai-intern/10969781",
@@ -26932,30 +26776,6 @@
     "origin": "builtin"
   },
   {
-    "company": "NVIDIA",
-    "title": "Software Engineering Intern, Test Development - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652",
-    "locations": [
-      "China, Shanghai"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "NVIDIA (Workday)",
-    "origin": "company-direct"
-  },
-  {
-    "company": "NVIDIA",
-    "title": "Software Engineering Intern, Test Development - 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648",
-    "locations": [
-      "China, Shanghai"
-    ],
-    "date_posted": "2026-09-01",
-    "term": null,
-    "source": "NVIDIA (Workday)",
-    "origin": "company-direct"
-  },
-  {
     "company": "Stripe",
     "title": "Software Engineer, Intern (Summer or Winter)",
     "url": "https://stripe.com/jobs/search?gh_jid=8130805",
@@ -27002,6 +26822,18 @@
     "term": null,
     "source": "Stripe (Greenhouse)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Qorvo",
+    "title": "Full-Stack Web Developer Intern",
+    "url": "https://careers.qorvo.com/job/Richardson-Full-Stack-Web-Developer-Intern-TX-75080/1424716200/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Richardson, TX"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "The Home Depot",
@@ -27174,6 +27006,42 @@
     "origin": "tracker"
   },
   {
+    "company": "American Express",
+    "title": "Product Development Intern - Global Commercial Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012890?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Atlanta, GA"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Development Intern - Global Commercial Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013091?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Management Intern - Global Commercial Services",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012558?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "The Home Depot",
     "title": "Product Management Intern",
     "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Product-Management_Req191931?utm_source=Simplify&ref=Simplify",
@@ -27203,6 +27071,30 @@
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Appleton, WI"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 TikTok",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7676652813409552645?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "San Jose, CA"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Machine Learning Engineer Intern - E-Commerce Knowledge Graph \ud83c\udf93",
+    "url": "https://lifeattiktok.com/search/7676650607912601861?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
     ],
     "date_posted": "2026-08-31",
     "term": null,
@@ -27415,6 +27307,30 @@
     "origin": "tracker"
   },
   {
+    "company": "Stryten",
+    "title": "Electrical Engineer Intern",
+    "url": "https://jobs.stryten.com/jobs/5800?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Alpharetta, GA"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Industrial or Mechanical Engineering Intern",
+    "url": "https://jobs.stryten.com/jobs/5809?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Salina, KS"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Vermeer",
     "title": "Test Engineer Intern",
     "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Shop-48/Test-Engineering-Internship-Summer-2027_REQ-22120?utm_source=Simplify&ref=Simplify",
@@ -27474,6 +27390,30 @@
     "term": null,
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Software Engineering Intern, Test Development - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023652",
+    "locations": [
+      "China, Shanghai"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "NVIDIA (Workday)",
+    "origin": "company-direct"
+  },
+  {
+    "company": "NVIDIA",
+    "title": "Software Engineering Intern, Test Development - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineering-Intern--Test-Development---2027_JR2023648",
+    "locations": [
+      "China, Shanghai"
+    ],
+    "date_posted": "2026-08-31",
+    "term": null,
+    "source": "NVIDIA (Workday)",
+    "origin": "company-direct"
   },
   {
     "company": "GE Vernova",
@@ -28562,78 +28502,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Goldman Sachs",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - Americas - Engineering",
-    "url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Birmingham, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - Engineering",
-    "url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Seattle, WA"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "\ud83d\udd25 Notion",
     "title": "Software Engineer Intern - Summer 2027",
     "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -28671,7 +28539,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
+    "company": "\ud83d\udd25 ByteDance",
     "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform \ud83c\udf93",
     "url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -28857,7 +28725,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
+    "company": "\ud83d\udd25 ByteDance",
     "title": "AI Network Automation Engineer Intern - Global Physical Network Infrastructure",
     "url": "https://jobs.bytedance.com/en/position/7670690923748870405/detail?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -29648,7 +29516,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
+    "company": "American Express",
     "title": "Digital Product Analyst Intern",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011918?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -30699,18 +30567,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Goldman Sachs",
-    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/171535?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "WEC Energy Group",
     "title": "Renewables Data Analytics Intern",
     "url": "https://careers.wecenergygroup.com/We_Energies/job/Milwaukee-Intern-Renewables-Data-Analytics-WI-53203/1419740100/?ats=successfactors&utm_source=Simplify&ref=Simplify",
@@ -31196,7 +31052,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 TikTok",
+    "company": "\u21b3",
     "title": "Machine Learning Engineer Intern - Data-Global E-Commerce-Search \ud83c\udf93",
     "url": "https://lifeattiktok.com/search/7668415591670417717?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -31220,7 +31076,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
+    "company": "\ud83d\udd25 TikTok",
     "title": "Machine Learning Engineer Intern - Commerce Ads - Summer 2027",
     "url": "https://lifeattiktok.com/search/7669711968043092229?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -31995,202 +31851,10 @@
   },
   {
     "company": "Goldman Sachs",
-    "title": "Quantitative Strategist Intern - Investment Banking",
-    "url": "https://higher.gs.com/roles/175428?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "url": "https://higher.gs.com/roles/175421?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Multiple Teams",
-    "url": "https://higher.gs.com/roles/175424?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/175423?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern",
-    "url": "https://higher.gs.com/roles/171550?type=students&utm_source=Simplify&ref=Simplify",
+    "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-    "url": "https://higher.gs.com/roles/171548?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Associate Intern \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/171552?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171533?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Americas",
-    "url": "https://higher.gs.com/roles/171532?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171534?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171551?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Multiple Teams",
-    "url": "https://higher.gs.com/roles/171563?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/175427?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-    "url": "https://higher.gs.com/roles/171549?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Salt Lake City, UT"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Associate Intern - The Core Quantitative Strats \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/171546?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - The Core Quantitative Strats",
-    "url": "https://higher.gs.com/roles/175426?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-08-28",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-    "url": "https://higher.gs.com/roles/181628?type=students&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "West Palm Beach, FL"
     ],
     "date_posted": "2026-08-28",
     "term": null,
