@@ -1008,6 +1008,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Microsoft",
+    "title": "Applied Sciences INTERN",
+    "url": "https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027",
+    "locations": [
+      "United States"
+    ],
+    "date_posted": "2026-09-27",
+    "term": null,
+    "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
     "company": "Amazon",
     "title": "Software Development Engineer Intern - Summer 2027 - USA - Amazon Dedicated Cloud - ADC",
     "url": "https://www.amazon.jobs/jobs/10559746/apply",
@@ -2448,18 +2460,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Microsoft",
-    "title": "Applied Sciences INTERN",
-    "url": "https://zapply.jobs/l/d/microsoft-200055606?s=gh-internships-2027",
-    "locations": [
-      "United States"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "zapplyjobs/Internships-2027",
-    "origin": "tracker"
-  },
-  {
     "company": "Emerson Electric",
     "title": "Business Operations/Sales Analyst Intern",
     "url": "https://zapply.jobs/l/d/oracle-emerson-electric-26010448?s=gh-internships-2027",
@@ -3192,18 +3192,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Lutron Electronics",
-    "title": "Software Engineering Co-op",
-    "url": "https://careers.lutron.com/jobs/5616?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "\ud83d\udd25 Waymo",
     "title": "Perception Intern - Multiple Teams \ud83c\udf93",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8227411&utm_source=Simplify&ref=Simplify",
@@ -3409,18 +3397,6 @@
     "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/2506606?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Nampa, ID"
-    ],
-    "date_posted": "2026-09-26",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Space Exploration Software Engineer Intern - Embedded Applications",
-    "url": "https://careers.jhuapl.edu/jobs/60223?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Laurel, MD"
     ],
     "date_posted": "2026-09-26",
     "term": null,
@@ -4352,6 +4328,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Lutron Electronics",
+    "title": "Software Engineering Co-op",
+    "url": "https://careers.lutron.com/jobs/5616?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "date_posted": "2026-09-25",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Electronic Arts",
     "title": "Gameplay Engineer Intern",
     "url": "https://jobs.ea.com/en_US/careers/JobDetail/Gameplay-Engineer-Intern/216245?utm_source=Simplify&ref=Simplify",
@@ -4597,18 +4585,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Arconic",
-    "title": "Software Developer Intern",
-    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Davenport, IA"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Tradeweb",
     "title": "Market Data Product Management Intern",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301932?utm_source=Simplify&ref=Simplify",
@@ -4732,18 +4708,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Enterprise Holdings",
-    "title": "Data Engineer Intern - IT",
-    "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "date_posted": "2026-09-25",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Tradeweb",
     "title": "Quantitative Intern",
     "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301931?utm_source=Simplify&ref=Simplify",
@@ -4756,7 +4720,31 @@
     "origin": "tracker"
   },
   {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Space Exploration Software Engineer Intern - Embedded Applications",
+    "url": "https://careers.jhuapl.edu/jobs/60223?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "date_posted": "2026-09-25",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Zurn Elkay Water Solutions",
+    "title": "Embedded Hardware Intern",
+    "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Milwaukee, WI"
+    ],
+    "date_posted": "2026-09-25",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
     "title": "Embedded Firmware Intern - Summer 2027",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -5908,6 +5896,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Arconic",
+    "title": "Software Developer Intern",
+    "url": "https://hdnn.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/114233?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Davenport, IA"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Radiance Technologies",
     "title": "Software Engineer Intern",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102442?utm_source=Simplify&ref=Simplify",
@@ -6139,18 +6139,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Ralliant",
-    "title": "Research and Development Co-op",
-    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Fairport, NY"
-    ],
-    "date_posted": "2026-09-24",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Manulife Financial",
     "title": "Product Management & Risk Technology Co-op",
     "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Management---Risk-Technology_JR26080874?utm_source=Simplify&ref=Simplify",
@@ -6192,6 +6180,18 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557004836?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Mountain View, CA"
+    ],
+    "date_posted": "2026-09-24",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Enterprise Holdings",
+    "title": "Data Engineer Intern - IT",
+    "url": "https://us-erac.icims.com/jobs/567651/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "St. Louis, MO"
     ],
     "date_posted": "2026-09-24",
     "term": null,
@@ -6315,30 +6315,6 @@
     "locations": [
       "Madison, WI",
       "West Bend, WI"
-    ],
-    "date_posted": "2026-09-24",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Zipline",
-    "title": "Autonomy Intern \ud83c\udf93",
-    "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "South SF"
-    ],
-    "date_posted": "2026-09-24",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Bedrock Robotics",
-    "title": "Evaluation Engineer Intern - Metric Prototyping",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "SF"
     ],
     "date_posted": "2026-09-24",
     "term": null,
@@ -7368,6 +7344,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Ralliant",
+    "title": "Research and Development Co-op",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10637?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Fairport, NY"
+    ],
+    "date_posted": "2026-09-23",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Astranis",
     "title": "Backend Software Engineer Intern - Summer 2027",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4705214006?utm_source=Simplify&ref=Simplify",
@@ -7586,12 +7574,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Udig",
-    "title": "Software Engineer Intern",
-    "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003&utm_source=Simplify&ref=Simplify",
+    "company": "Zipline",
+    "title": "Autonomy Intern \ud83c\udf93",
+    "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Nashville, TN",
-      "Richmond, VA"
+      "South SF"
     ],
     "date_posted": "2026-09-23",
     "term": null,
@@ -7599,17 +7586,14 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 Google",
-    "title": "Product Manager Intern - Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814?utm_source=Simplify&ref=Simplify",
+    "company": "Bedrock Robotics",
+    "title": "Evaluation Engineer Intern - Metric Prototyping",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "4 locationsSF",
-      "San Bruno, CA",
-      "NYC",
-      "Mountain View, CA"
+      "SF"
     ],
     "date_posted": "2026-09-23",
-    "term": "Summer 2027",
+    "term": null,
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
@@ -7950,18 +7934,6 @@
     "origin": "tracker"
   },
   {
-    "company": "JP Morgan Chase",
-    "title": "Quantitative Research Summer Analyst Internship - Asset Management",
-    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-23",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Astranis",
     "title": "Reliability Test Intern",
     "url": "https://job-boards.greenhouse.io/astranis/jobs/4705629006?utm_source=Simplify&ref=Simplify",
@@ -8042,18 +8014,6 @@
     "url": "https://twosigma.avature.net/careers/JobDetail/14289?utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
-    ],
-    "date_posted": "2026-09-23",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
-    "url": "https://careers.jhuapl.edu/jobs/60123?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Laurel, MD"
     ],
     "date_posted": "2026-09-23",
     "term": null,
@@ -8154,6 +8114,19 @@
     "date_posted": "2026-09-22",
     "term": null,
     "source": "zapplyjobs/Internships-2027",
+    "origin": "tracker"
+  },
+  {
+    "company": "Udig",
+    "title": "Software Engineer Intern",
+    "url": "https://udig.com/careers/job-listing/?gh_jid=7999436003&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Nashville, TN",
+      "Richmond, VA"
+    ],
+    "date_posted": "2026-09-22",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -8291,6 +8264,20 @@
   {
     "company": "Tyler Technologies",
     "title": "Software Development Intern - Summer 2027",
+    "url": "https://jobs.jobvite.com/tylertech/job/oxAPAfwg?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Yarmouth, ME",
+      "Orono, ME",
+      "Falmouth, ME"
+    ],
+    "date_posted": "2026-09-22",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Development Intern - Summer 2027",
     "url": "https://jobs.jobvite.com/tylertech/job/oMAPAfwv?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Plano, TX"
@@ -8321,6 +8308,21 @@
     ],
     "date_posted": "2026-09-22",
     "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 Google",
+    "title": "Product Manager Intern - Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsSF",
+      "San Bruno, CA",
+      "NYC",
+      "Mountain View, CA"
+    ],
+    "date_posted": "2026-09-22",
+    "term": "Summer 2027",
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
@@ -8749,11 +8751,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Lazard",
-    "title": "Data Engineer Intern",
-    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605?utm_source=Simplify&ref=Simplify",
+    "company": "JP Morgan Chase",
+    "title": "Quantitative Research Summer Analyst Internship - Asset Management",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210792010?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "NYC"
+      "London, UK"
     ],
     "date_posted": "2026-09-22",
     "term": null,
@@ -8785,11 +8787,11 @@
     "origin": "tracker"
   },
   {
-    "company": "First Citizens BancShares",
-    "title": "Quantitative Analysis Intern - Quantitative Analysis",
-    "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Electrical/Computer Engineering Intern - Space Science Electronics",
+    "url": "https://careers.jhuapl.edu/jobs/60123?icims=1&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Raleigh, NC"
+      "Laurel, MD"
     ],
     "date_posted": "2026-09-22",
     "term": null,
@@ -9181,6 +9183,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Lazard",
+    "title": "Data Engineer Intern",
+    "url": "https://icbpjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/LazardProfessionalCareers/job/6605?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "AutoZone",
     "title": "Data Science Intern",
     "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461?utm_source=Simplify&ref=Simplify",
@@ -9349,6 +9363,18 @@
     "origin": "tracker"
   },
   {
+    "company": "First Citizens BancShares",
+    "title": "Quantitative Analysis Intern - Quantitative Analysis",
+    "url": "https://firstcitizens.jibeapply.com/jobs/35602?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Raleigh, NC"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Fidelity Investments",
     "title": "Quantitative Research Intern - Multi-Asset Research Team",
     "url": "https://fmr.wd1.myworkdayjobs.com/targeted/job/Boston-MA/Quantitative-Research-Intern--Multi-Asset-Research-Team_2135361?utm_source=Simplify&ref=Simplify",
@@ -9423,6 +9449,20 @@
   },
   {
     "company": "Marvell",
+    "title": "Test Engineering Intern",
+    "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Irvine, CA",
+      "Santa Clara, CA",
+      "Westlake Village, CA"
+    ],
+    "date_posted": "2026-09-21",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
     "title": "Test Engineering Intern - BS",
     "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Test-Engineering-Intern--BS---Summer-2027_2604537-1?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -9696,30 +9736,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Tyler Technologies",
-    "title": "Software Development Intern",
-    "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Lawrenceville, GA"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Cogna",
-    "title": "Software Engineer Intern \ud83c\udf93",
-    "url": "https://apply.workable.com/cogna/j/45A6283F88/apply?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Publicis Groupe",
     "title": "Product Manager Intern - Class of 2028",
     "url": "https://careers.publicisgroupe.com/jobs/172574?icims=1&utm_source=Simplify&ref=Simplify",
@@ -9901,18 +9917,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Corning",
-    "title": "Imaging Sciences Engineer Intern",
-    "url": "https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Keene, NH"
-    ],
-    "date_posted": "2026-09-19",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Point72",
     "title": "2027 Investment Services Internship",
     "url": "https://boards.greenhouse.io/point72/jobs/8811167002?gh_jid=8811167002",
@@ -10067,6 +10071,30 @@
     "term": "Summer 2027",
     "source": "Together AI (Greenhouse)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Tyler Technologies",
+    "title": "Software Development Intern",
+    "url": "https://jobs.jobvite.com/tylertech/job/oAVOAfwD?nl=1&nl=1&fr=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Lawrenceville, GA"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Cogna",
+    "title": "Software Engineer Intern \ud83c\udf93",
+    "url": "https://apply.workable.com/cogna/j/45A6283F88/apply?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-18",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "\ud83d\udd25 Tesla",
@@ -10467,18 +10495,6 @@
     "origin": "tracker"
   },
   {
-    "company": "American Express",
-    "title": "Marketing Analyst Intern - Undergraduate ICS",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-18",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Adobe",
     "title": "2027 Intern - Machine Learning Engineer",
     "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519",
@@ -10503,11 +10519,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Rothesay",
-    "title": "Quantitative Strategist Intern",
-    "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002?utm_source=Simplify&ref=Simplify",
+    "company": "Corning",
+    "title": "Imaging Sciences Engineer Intern",
+    "url": "https://corningjobs.corning.com/job/Keene-Imaging-Sciences-Engineering-Intern-Summer-2027-NH-03431/1431391900/?ats=successfactors&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "London, UK"
+      "Keene, NH"
     ],
     "date_posted": "2026-09-18",
     "term": null,
@@ -11069,70 +11085,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Enterprise Holdings",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "St. Louis, MO"
-    ],
-    "date_posted": "2026-09-17",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Bedrock Robotics",
-    "title": "Software Engineer Intern - Fleet Platform",
-    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Gecko Robotics",
-    "title": "Full Stack Software Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Talos",
-    "title": "Software Engineer Intern - Trading",
-    "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "General Dynamics",
-    "title": "Information Technology Intern - Software Engineering - Computer Science",
-    "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "5 locationsNewport, RI",
-      "New London, CT",
-      "North Kingstown, RI",
-      "North Stonington, CT",
-      "Groton, CT"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Zurn Elkay Water Solutions",
     "title": "Product Management Intern",
     "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109?utm_source=Simplify&ref=Simplify",
@@ -11248,6 +11200,18 @@
       "Milwaukee, WI",
       "Jacksonville, FL",
       "Atlanta, GA"
+    ],
+    "date_posted": "2026-09-17",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "American Express",
+    "title": "Marketing Analyst Intern - Undergraduate ICS",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013825?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
     ],
     "date_posted": "2026-09-17",
     "term": null,
@@ -11514,35 +11478,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Gecko Robotics",
-    "title": "AI/Machine Learning Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "company": "Rothesay",
+    "title": "Quantitative Strategist Intern",
+    "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "V2X",
-    "title": "Artificial Intelligence Intern",
-    "url": "https://careers.gov2x.com/jobs/62843?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Indianapolis, IN"
-    ],
-    "date_posted": "2026-09-17",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Wabash Valley Power Alliance",
-    "title": "Energy Efficiency & Demand Response Intern",
-    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Indianapolis, IN"
+      "London, UK"
     ],
     "date_posted": "2026-09-17",
     "term": null,
@@ -11716,6 +11656,70 @@
     "date_posted": "2026-09-16",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Enterprise Holdings",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://us-erac.icims.com/jobs/566721/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "date_posted": "2026-09-16",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Bedrock Robotics",
+    "title": "Software Engineer Intern - Fleet Platform",
+    "url": "https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Gecko Robotics",
+    "title": "Full Stack Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Talos",
+    "title": "Software Engineer Intern - Trading",
+    "url": "https://jobs.ashbyhq.com/Talos-Trading/42cad756-c312-4142-a9b7-18ed76f61c5d/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "General Dynamics",
+    "title": "Information Technology Intern - Software Engineering - Computer Science",
+    "url": "https://careers-gdeb.icims.com/jobs/20341/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "5 locationsNewport, RI",
+      "New London, CT",
+      "North Kingstown, RI",
+      "North Stonington, CT",
+      "Groton, CT"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -12014,18 +12018,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Huntington Ingalls Industries",
-    "title": "Computer Engineering Intern",
-    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pascagoula, MS"
-    ],
-    "date_posted": "2026-09-16",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Nasdaq",
     "title": "Product Owner Intern",
     "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Product-Owner-Intern---2027-Summer-Internship_R0026976?utm_source=Simplify&ref=Simplify",
@@ -12080,6 +12072,42 @@
     "url": "https://careers.itw.com/global/en/job/JR10105?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Troy, OH"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Gecko Robotics",
+    "title": "AI/Machine Learning Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "V2X",
+    "title": "Artificial Intelligence Intern",
+    "url": "https://careers.gov2x.com/jobs/62843?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Indianapolis, IN"
+    ],
+    "date_posted": "2026-09-16",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Wabash Valley Power Alliance",
+    "title": "Energy Efficiency & Demand Response Intern",
+    "url": "https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149873771?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Indianapolis, IN"
     ],
     "date_posted": "2026-09-16",
     "term": null,
@@ -12276,42 +12304,6 @@
     "url": "https://job-boards.greenhouse.io/testnisc/jobs/8204161?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Lake St Louis, MO"
-    ],
-    "date_posted": "2026-09-16",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "HF Sinclair",
-    "title": "Reporting & Analytics Intern",
-    "url": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-09-16",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "IT Data Analytics Intern",
-    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Dallas, TX"
-    ],
-    "date_posted": "2026-09-16",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Five Rings Capital",
-    "title": "Trading Operations Engineer Intern",
-    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
     ],
     "date_posted": "2026-09-16",
     "term": null,
@@ -12591,6 +12583,18 @@
     "term": "Summer 2027",
     "source": "Robinhood (Greenhouse)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Huntington Ingalls Industries",
+    "title": "Computer Engineering Intern",
+    "url": "https://careers.huntingtoningalls.com/job/Pascagoula-2027-COLLEGE-SUMMER-INTERN-COMPUTER-ENGINEERING-Miss/1430053700/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pascagoula, MS"
+    ],
+    "date_posted": "2026-09-15",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "\ud83d\udd25 DoorDash",
@@ -13038,179 +13042,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Principal Financial Group",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://careers.principal.com/jobs/52512?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 Robinhood",
-    "title": "Software Engineer Intern - iOS - Summer 2027",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC"
-    ],
-    "date_posted": "2026-09-15",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Developer Intern",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Backend",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC",
-      "Bellevue, WA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Web",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "iOS Software Developer Intern",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Android - Summer 2027",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Menlo Park, CA",
-      "NYC"
-    ],
-    "date_posted": "2026-09-15",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Developer Intern",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Toronto, ON, Canada"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "SEP",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Westfield, IN"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "URBN",
-    "title": "Software Engineer Intern",
-    "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Philadelphia, PA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "American Express",
-    "title": "Software Engineer Intern - Undergraduate",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Burgess Hill, UK"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Software Engineer Intern - Undergraduate",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "AI Engineer Intern \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "AI Engineer Intern - Undergraduate \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Burgess Hill, UK"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Huntington Bancshares",
     "title": "Business Innovation & AI Products Intern",
     "url": "https://huntington.wd12.myworkdayjobs.com/HNBcareers/job/Austin-TX/Summer-2027-Business-Innovation---AI-Products-Intern_R0075876?utm_source=Simplify&ref=Simplify",
@@ -13274,11 +13105,11 @@
     "origin": "tracker"
   },
   {
-    "company": "American Express",
-    "title": "Product Manager Intern - Undergraduate",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766?utm_source=Simplify&ref=Simplify",
+    "company": "HF Sinclair",
+    "title": "Reporting & Analytics Intern",
+    "url": "https://careers.hfsinclair.com/job/Dallas-Reporting-&-Analytics-Intern-TX-75219/1430067400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "London, UK"
+      "Dallas, TX"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -13287,10 +13118,10 @@
   },
   {
     "company": "\u21b3",
-    "title": "Product Manager Intern - Undergraduate",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764?utm_source=Simplify&ref=Simplify",
+    "title": "IT Data Analytics Intern",
+    "url": "https://careers.hfsinclair.com/job/Dallas-IT-Data-Analytics-Intern-TX-75219/1430072400/?ats=successfactors&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Burgess Hill, UK"
+      "Dallas, TX"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -13831,50 +13662,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Principal Financial Group",
-    "title": "Data and Analytics Intern - Multiple Teams",
-    "url": "https://careers.principal.com/jobs/52574?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "Five Rings Capital",
+    "title": "Trading Operations Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "4 locationsDes Moines, IA",
-      "Remote in USA",
-      "Raleigh, NC",
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern",
-    "url": "https://careers.principal.com/jobs/52561?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Des Moines, IA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 Robinhood",
-    "title": "People Insights & Analytics Intern - Summer 2027 \ud83c\udf93",
-    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Menlo Park, CA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "URBN",
-    "title": "Data Science Intern",
-    "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Philadelphia, PA"
+      "NYC"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -14043,18 +13835,6 @@
     "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605?utm_source=Simplify&ref=Simplify",
     "locations": [
       "El Segundo, CA"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 NVIDIA",
-    "title": "Physical Design and Timing Engineer Intern \ud83c\udf93",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Physical-Design-and-Timing-Engineer-Intern---Summer-2027_JR2025511?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Santa Clara, CA"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -14250,19 +14030,6 @@
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4501330?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Bohemia, NY"
-    ],
-    "date_posted": "2026-09-15",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Dell Technologies",
-    "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
-    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Round Rock, TX",
-      "Hopkinton, MA"
     ],
     "date_posted": "2026-09-15",
     "term": null,
@@ -14628,6 +14395,179 @@
     "origin": "company-direct"
   },
   {
+    "company": "Principal Financial Group",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://careers.principal.com/jobs/52512?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 Robinhood",
+    "title": "Software Engineer Intern - iOS - Summer 2027",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142959?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "date_posted": "2026-09-14",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Developer Intern",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142930?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Backend",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC",
+      "Bellevue, WA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Web",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142963?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "iOS Software Developer Intern",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199729?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Android - Summer 2027",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Menlo Park, CA",
+      "NYC"
+    ],
+    "date_posted": "2026-09-14",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Developer Intern",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8199744?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Toronto, ON, Canada"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "SEP",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178/apply?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Westfield, IN"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "URBN",
+    "title": "Software Engineer Intern",
+    "url": "https://homeoffice-na-urbn.icims.com/jobs/30602/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Philadelphia, PA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "American Express",
+    "title": "Software Engineer Intern - Undergraduate",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Burgess Hill, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Software Engineer Intern - Undergraduate",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AI Engineer Intern \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013758?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AI Engineer Intern - Undergraduate \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Burgess Hill, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Wells Fargo",
     "title": "Software Engineer Intern - Early Careers - Software Engineering",
     "url": "https://wd1.myworkdaysite.com/recruiting/wf/WellsFargoJobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285?utm_source=Simplify&ref=Simplify",
@@ -14820,6 +14760,30 @@
     "origin": "tracker"
   },
   {
+    "company": "American Express",
+    "title": "Product Manager Intern - Undergraduate",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013766?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Product Manager Intern - Undergraduate",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013764?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Burgess Hill, UK"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Xcel Energy",
     "title": "Residential Energy Product Strategy Intern",
     "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Minneapolis-MN-55401/Residential-Energy-Product-Strategy-Intern---MN_JR115811?utm_source=Simplify&ref=Simplify",
@@ -14874,6 +14838,57 @@
     "url": "https://guardianlife.wd5.myworkdayjobs.com/guardian-life-careers/job/New-York/XMLNAME-2027-Guardian-Summer-Intern--Life-Product-Development_R000110125?utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Principal Financial Group",
+    "title": "Data and Analytics Intern - Multiple Teams",
+    "url": "https://careers.principal.com/jobs/52574?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsDes Moines, IA",
+      "Remote in USA",
+      "Raleigh, NC",
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern",
+    "url": "https://careers.principal.com/jobs/52561?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Des Moines, IA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 Robinhood",
+    "title": "People Insights & Analytics Intern - Summer 2027 \ud83c\udf93",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/8198255?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Menlo Park, CA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "URBN",
+    "title": "Data Science Intern",
+    "url": "https://homeoffice-na-urbn.icims.com/jobs/30444/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Philadelphia, PA"
     ],
     "date_posted": "2026-09-14",
     "term": null,
@@ -15223,6 +15238,19 @@
     "origin": "tracker"
   },
   {
+    "company": "Dell Technologies",
+    "title": "Hardware Engineering Intern - Infrastructure Solutions Group",
+    "url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/297770?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Round Rock, TX",
+      "Hopkinton, MA"
+    ],
+    "date_posted": "2026-09-14",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Oshkosh",
     "title": "Electronics & Controls Intern",
     "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/New-Hudson-Michigan-United-States/Electronics---Controls-Intern---Summer-2027_R50319?utm_source=Simplify&ref=Simplify",
@@ -15547,32 +15575,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Johns Hopkins Applied Physics Laboratory",
-    "title": "Decision Science Intern - Software Engineer",
-    "url": "https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Laurel, MD"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Citizens Financial Group",
-    "title": "Software Engineer Intern",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Plano, TX",
-      "Johnston, RI",
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Veeam Software",
     "title": "Services Portfolio Management Intern",
     "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955307101?utm_source=Simplify&ref=Simplify",
@@ -15724,144 +15726,6 @@
     "url": "https://external-careers-friedkin.icims.com/jobs/6759/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
     "locations": [
       "Houston, TX"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Westinghouse Electric Company",
-    "title": "Finance Analyst Intern",
-    "url": "https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Madison, PA"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Citizens Financial Group",
-    "title": "Data Science Intern - Multiple Teams",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Management Intern - Multiple Teams",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Management Intern - Enterprise Data and Analytics \ud83c\udf93",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern - Enterprise Technology & Security",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Plano, TX",
-      "Johnston, RI",
-      "Phoenix, AZ"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analyst Intern - Multiple Teams \ud83c\udf93",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Insights Intern - Multiple Teams \ud83c\udf93",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Insights Intern - Multiple Teams",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Analyst Intern - Multiple Teams",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
-    ],
-    "date_posted": "2026-09-12",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Science Intern - Multiple Teams \ud83c\udf93",
-    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boston, MA",
-      "Johnston, RI",
-      "Columbus, OH"
     ],
     "date_posted": "2026-09-12",
     "term": null,
@@ -16184,6 +16048,32 @@
     "origin": "tracker"
   },
   {
+    "company": "Johns Hopkins Applied Physics Laboratory",
+    "title": "Decision Science Intern - Software Engineer",
+    "url": "https://careers.jhuapl.edu/jobs/60040?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Laurel, MD"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Citizens Financial Group",
+    "title": "Software Engineer Intern",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Plano, TX",
+      "Johnston, RI",
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Wellmark",
     "title": "Software Engineer Intern",
     "url": "https://jobs.smartrecruiters.com/WellmarkInc/744000148915793?utm_source=Simplify&ref=Simplify",
@@ -16389,30 +16279,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Demco Products",
-    "title": "IT Intern",
-    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Boyden, IA"
-    ],
-    "date_posted": "2026-09-11",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Planview",
-    "title": "Software Engineer Intern",
-    "url": "https://careers.planview.com/jobs/5128?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Austin, TX"
-    ],
-    "date_posted": "2026-09-11",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "USAA",
     "title": "Product Management Analyst Intern - Property and Casualty",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/P-C-Product-Management-Analyst-Intern_R0120949?utm_source=Simplify&ref=Simplify",
@@ -16461,11 +16327,137 @@
     "origin": "tracker"
   },
   {
-    "company": "Hudl",
-    "title": "Product Management Intern",
-    "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103?utm_source=Simplify&ref=Simplify",
+    "company": "Westinghouse Electric Company",
+    "title": "Finance Analyst Intern",
+    "url": "https://careers.westinghousenuclear.com/job/Madison-Summer-Intern-Finance-Analyst-PA-15663/1427820800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Lincoln, NE"
+      "Madison, PA"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Citizens Financial Group",
+    "title": "Data Science Intern - Multiple Teams",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Management Intern - Multiple Teams",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49277?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Management Intern - Enterprise Data and Analytics \ud83c\udf93",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49281?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern - Enterprise Technology & Security",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49285?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Plano, TX",
+      "Johnston, RI",
+      "Phoenix, AZ"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analyst Intern - Multiple Teams \ud83c\udf93",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49282?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Insights Intern - Multiple Teams \ud83c\udf93",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49283?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Insights Intern - Multiple Teams",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49279?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Analyst Intern - Multiple Teams",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49278?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
+    ],
+    "date_posted": "2026-09-11",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Science Intern - Multiple Teams \ud83c\udf93",
+    "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49280?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boston, MA",
+      "Johnston, RI",
+      "Columbus, OH"
     ],
     "date_posted": "2026-09-11",
     "term": null,
@@ -17088,6 +17080,30 @@
     "origin": "tracker"
   },
   {
+    "company": "Demco Products",
+    "title": "IT Intern",
+    "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4492652?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Boyden, IA"
+    ],
+    "date_posted": "2026-09-10",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Planview",
+    "title": "Software Engineer Intern",
+    "url": "https://careers.planview.com/jobs/5128?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Austin, TX"
+    ],
+    "date_posted": "2026-09-10",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Epic Games",
     "title": "Backend Services Programmer Intern - Epic Games Services",
     "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004&utm_source=Simplify&ref=Simplify",
@@ -17393,51 +17409,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Navy Federal",
-    "title": "Payments AI Engineer Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400?utm_source=Simplify&ref=Simplify",
+    "company": "Hudl",
+    "title": "Product Management Intern",
+    "url": "https://job-boards.greenhouse.io/hudl/jobs/8155103?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Security Workflow Engineer Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Mobile Developer Intern - Summer Associate",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "4 locationsWinchester, VA",
-      "Pensacola, FL",
-      "Vienna, VA",
-      "San Diego, CA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "AI Engineer Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
+      "Lincoln, NE"
     ],
     "date_posted": "2026-09-10",
     "term": null,
@@ -17462,30 +17438,6 @@
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148575999?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Farmington Hills, MI"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Navy Federal",
-    "title": "Product Strategist Intern - Student Loans",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Product Strategist Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
     ],
     "date_posted": "2026-09-10",
     "term": null,
@@ -17839,258 +17791,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Peraton",
-    "title": "Data Science Intern",
-    "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Blacksburg, VA",
-      "Herndon, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Navy Federal",
-    "title": "Data Scientist Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Associate Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32354?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Fraud Analyst Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Scientist Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Associate Data Engineer Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32351?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern - Consumer Lending",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Engineer Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Systems Analyst Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Summer Associate Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Scientist Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Scientist Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Winchester, VA",
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Winchester, VA",
-      "Pensacola, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Data Scientist Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Summer Associate Internship - Fraud Data Governance \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Business Intelligence Analyst Intern \ud83c\udf93",
-    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "5 locationsWinchester, VA",
-      "Virginia Beach, VA",
-      "Pensacola, FL",
-      "Jacksonville, FL",
-      "Vienna, VA"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Repsol",
     "title": "Middle Office Risk and Valuation Intern \ud83c\udf93",
     "url": "https://repsol.wd3.myworkdayjobs.com/Repsol/job/Houston/Middle-Office--Risk-and-Valuation-Intern_83841?utm_source=Simplify&ref=Simplify",
@@ -18108,18 +17808,6 @@
     "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Execution-Research--New-York_JR101595?utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
-    ],
-    "date_posted": "2026-09-10",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Zions Bank",
-    "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics",
-    "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "United States"
     ],
     "date_posted": "2026-09-10",
     "term": null,
@@ -18290,6 +17978,58 @@
     "date_posted": "2026-09-09",
     "term": null,
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Navy Federal",
+    "title": "Payments AI Engineer Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32400?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Security Workflow Engineer Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32382?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Mobile Developer Intern - Summer Associate",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32368?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsWinchester, VA",
+      "Pensacola, FL",
+      "Vienna, VA",
+      "San Diego, CA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "AI Engineer Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32261?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -18700,11 +18440,11 @@
     "origin": "tracker"
   },
   {
-    "company": "BJC HealthCare",
-    "title": "RPA Automation Intern",
-    "url": "https://jobs.bjc.org/jobs/116509?icims=1&utm_source=Simplify&ref=Simplify",
+    "company": "Navy Federal",
+    "title": "Product Strategist Intern - Student Loans",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32361?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "St. Louis, MO"
+      "Vienna, VA"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -18712,11 +18452,11 @@
     "origin": "tracker"
   },
   {
-    "company": "United Launch Alliance",
-    "title": "Software Engineer Intern",
-    "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "company": "\u21b3",
+    "title": "Product Strategist Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32309?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Centennial, CO"
+      "Vienna, VA"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -18796,11 +18536,24 @@
     "origin": "tracker"
   },
   {
-    "company": "ID.me",
-    "title": "Product Intern",
-    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003?utm_source=Simplify&ref=Simplify",
+    "company": "Peraton",
+    "title": "Data Science Intern",
+    "url": "https://careers-peraton.icims.com/jobs/170320/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Mountain View, CA"
+      "Blacksburg, VA",
+      "Herndon, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Navy Federal",
+    "title": "Data Scientist Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32079?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -18809,10 +18562,225 @@
   },
   {
     "company": "\u21b3",
-    "title": "Associate Product Manager New Grad",
-    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify",
+    "title": "Business Intelligence Analyst Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32290?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Mountain View, CA"
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Associate Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32324?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32354?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Fraud Analyst Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32293?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Scientist Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32288?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Associate Data Engineer Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32292?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32351?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Intern - Consumer Lending",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32321?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Engineer Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32265?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Systems Analyst Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32314?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Summer Associate Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32330?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Scientist Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32337?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Scientist Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32081?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Winchester, VA",
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Associate Intern - Business Intelligence & Data Analytics",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32107?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Winchester, VA",
+      "Pensacola, FL",
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Data Scientist Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32291?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Associate Internship - Fraud Data Governance \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32310?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32080?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Vienna, VA"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Business Intelligence Analyst Intern \ud83c\udf93",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/32031?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "5 locationsWinchester, VA",
+      "Virginia Beach, VA",
+      "Pensacola, FL",
+      "Jacksonville, FL",
+      "Vienna, VA"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -19114,6 +19082,18 @@
     "origin": "tracker"
   },
   {
+    "company": "Zions Bank",
+    "title": "Quantitative Modeling Analyst Intern - Corporate Quantitative Analytics",
+    "url": "https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071620&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "United States"
+    ],
+    "date_posted": "2026-09-09",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "USAA",
     "title": "Quantitative Risk Analyst Intern",
     "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Quantitative-Risk-Analyst-Intern_R0120753?utm_source=Simplify&ref=Simplify",
@@ -19300,61 +19280,6 @@
     "locations": [
       "SF",
       "LA"
-    ],
-    "date_posted": "2026-09-09",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Vertiv",
-    "title": "Design Engineer Intern - Graduate-Level - Summer 2027",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Delaware, OH",
-      "Fort Lauderdale, FL",
-      "Huntsville, AL"
-    ],
-    "date_posted": "2026-09-09",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Design Engineering Intern",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Delaware, OH",
-      "Fort Lauderdale, FL"
-    ],
-    "date_posted": "2026-09-09",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Design Engineering Intern - Summer 2027",
-    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Delaware, OH",
-      "Fort Lauderdale, FL",
-      "Huntsville, AL"
-    ],
-    "date_posted": "2026-09-09",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\ud83d\udd25 Apple",
-    "title": "GPU Intern - Multiple Teams",
-    "url": "https://jobs.apple.com/en-us/details/200682357?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "London, UK",
-      "Cambridge, UK",
-      "St Albans, UK"
     ],
     "date_posted": "2026-09-09",
     "term": null,
@@ -19706,6 +19631,30 @@
     "origin": "company-direct"
   },
   {
+    "company": "BJC HealthCare",
+    "title": "RPA Automation Intern",
+    "url": "https://jobs.bjc.org/jobs/116509?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "St. Louis, MO"
+    ],
+    "date_posted": "2026-09-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "United Launch Alliance",
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ulalaunch.com/job/Centennial-Software-Engineering-Internship-Summer-2027-CO-80112/1427398300/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Centennial, CO"
+    ],
+    "date_posted": "2026-09-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Trimble",
     "title": "Software Engineer Intern",
     "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676?utm_source=Simplify&ref=Simplify",
@@ -19934,11 +19883,23 @@
     "origin": "tracker"
   },
   {
-    "company": "incident.io",
-    "title": "Product Engineer Intern",
-    "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "company": "ID.me",
+    "title": "Product Intern",
+    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986695003?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "London, UK"
+      "Mountain View, CA"
+    ],
+    "date_posted": "2026-09-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Associate Product Manager New Grad",
+    "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7986694003?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Mountain View, CA"
     ],
     "date_posted": "2026-09-08",
     "term": null,
@@ -20386,22 +20347,11 @@
     "origin": "tracker"
   },
   {
-    "company": "Ernst & Young",
-    "title": "Data and Intelligence Delivery Intern - Assurance",
-    "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
+    "company": "U.S. Bank",
+    "title": "Quantitative Modeling Intern \ud83c\udf93",
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "12 locationsSalt Lake City, UT",
-      "Indianapolis, IN",
-      "Houston, TX",
-      "Des Moines, IA",
-      "Detroit, MI",
-      "Tampa, FL",
-      "Dallas, TX",
-      "Greenville, SC",
-      "St. Louis, MO",
-      "Alpharetta, GA",
-      "Phoenix, AZ",
-      "Grandview Heights, OH"
+      "Charlotte, NC"
     ],
     "date_posted": "2026-09-08",
     "term": null,
@@ -20409,11 +20359,54 @@
     "origin": "tracker"
   },
   {
-    "company": "U.S. Bank",
-    "title": "Quantitative Modeling Intern \ud83c\udf93",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558?utm_source=Simplify&ref=Simplify",
+    "company": "Vertiv",
+    "title": "Design Engineer Intern - Graduate-Level - Summer 2027",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279217?utm_source=Simplify&ref=Simplify",
     "locations": [
-      "Charlotte, NC"
+      "Delaware, OH",
+      "Fort Lauderdale, FL",
+      "Huntsville, AL"
+    ],
+    "date_posted": "2026-09-08",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Design Engineering Intern",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279250?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Delaware, OH",
+      "Fort Lauderdale, FL"
+    ],
+    "date_posted": "2026-09-08",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Design Engineering Intern - Summer 2027",
+    "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20279211?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Delaware, OH",
+      "Fort Lauderdale, FL",
+      "Huntsville, AL"
+    ],
+    "date_posted": "2026-09-08",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\ud83d\udd25 Apple",
+    "title": "GPU Intern - Multiple Teams",
+    "url": "https://jobs.apple.com/en-us/details/200682357?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK",
+      "Cambridge, UK",
+      "St Albans, UK"
     ],
     "date_posted": "2026-09-08",
     "term": null,
@@ -20566,6 +20559,18 @@
     "origin": "company-direct"
   },
   {
+    "company": "incident.io",
+    "title": "Product Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/incident/35461290-c0fe-449a-bed4-5ee873f868fd/application?embed=true&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-09-07",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "Xcel Energy",
     "title": "AI Solutions Development Intern",
     "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI-Solutions-Development-Intern-CO--MN_JR116329-1?utm_source=Simplify&ref=Simplify",
@@ -20608,6 +20613,29 @@
     "url": "https://blackstone.wd1.myworkdayjobs.com/zh-CN/Blackstone_Campus_Careers/job/London/XMLNAME-2027-Blackstone-Technology---Innovations---Software-Engineer-Summer-Analyst_45358?utm_source=Simplify&ref=Simplify",
     "locations": [
       "London, UK"
+    ],
+    "date_posted": "2026-09-07",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Ernst & Young",
+    "title": "Data and Intelligence Delivery Intern - Assurance",
+    "url": "https://eyglobal.yello.co/jobs/Ps6DR65DB3hhb_XrmIxQjA?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "12 locationsSalt Lake City, UT",
+      "Indianapolis, IN",
+      "Houston, TX",
+      "Des Moines, IA",
+      "Detroit, MI",
+      "Tampa, FL",
+      "Dallas, TX",
+      "Greenville, SC",
+      "St. Louis, MO",
+      "Alpharetta, GA",
+      "Phoenix, AZ",
+      "Grandview Heights, OH"
     ],
     "date_posted": "2026-09-07",
     "term": null,
@@ -21158,42 +21186,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Westinghouse Electric Company",
-    "title": "Application Development Intern",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Cranberry Township, PA"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Enovia PLM Developer Intern - Enovia PLM",
-    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Cranberry Township, PA"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Principal Financial Group",
-    "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://careers.principal.com/jobs/52513?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Charlotte, NC"
-    ],
-    "date_posted": "2026-09-05",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Ernst & Young",
     "title": "Product Manager Intern - Tax - Other Tax",
     "url": "https://eyglobal.yello.co/jobs/ScWvvhAQZFvHMXityc1Mgw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
@@ -21296,45 +21288,6 @@
     "url": "https://apply.workable.com/perryhomes/j/555769E26B/apply?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Houston, TX"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Ragle Inc",
-    "title": "Data Analytics Intern",
-    "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "North Richland Hills, TX"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "CSX",
-    "title": "Sales & Marketing Analytics Intern - Paid",
-    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "date_posted": "2026-09-05",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Ernst & Young",
-    "title": "Data and Technology Intern - Multiple Teams",
-    "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "4 locationsMiami, FL",
-      "Dallas, TX",
-      "Chicago, IL",
-      "NYC"
     ],
     "date_posted": "2026-09-05",
     "term": null,
@@ -21519,6 +21472,42 @@
     "date_posted": "2026-09-04",
     "term": null,
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Westinghouse Electric Company",
+    "title": "Application Development Intern",
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Application-Development-NC/1426859800/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Enovia PLM Developer Intern - Enovia PLM",
+    "url": "https://careers.westinghousenuclear.com/job/Cranberry-Township-Summer-Intern-Enovia-PLM-NC/1426858600/?ats=successfactors&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Cranberry Township, PA"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Principal Financial Group",
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://careers.principal.com/jobs/52513?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Charlotte, NC"
+    ],
+    "date_posted": "2026-09-04",
+    "term": "Summer 2027",
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -21775,6 +21764,45 @@
     "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4476288?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Chattanooga, TN"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Ragle Inc",
+    "title": "Data Analytics Intern",
+    "url": "https://ragleinc.applytojob.com/apply/H0xLKtFZlq/Data-Analytics-Intern-Summer-2027?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "North Richland Hills, TX"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "CSX",
+    "title": "Sales & Marketing Analytics Intern - Paid",
+    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "date_posted": "2026-09-04",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Ernst & Young",
+    "title": "Data and Technology Intern - Multiple Teams",
+    "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "4 locationsMiami, FL",
+      "Dallas, TX",
+      "Chicago, IL",
+      "NYC"
     ],
     "date_posted": "2026-09-04",
     "term": null,
@@ -22320,30 +22348,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\ud83d\udd25 AMD",
-    "title": "Diagnostics Design Engineering Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-04",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "\u21b3",
-    "title": "Hardware Design Verification Engineer Intern/Co-op",
-    "url": "https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Markham, ON, Canada"
-    ],
-    "date_posted": "2026-09-04",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Grant Thornton LLP (US)",
     "title": "Enterprise Assurance Services Intern - Summer 2027",
     "url": "https://www.builtinseattle.com/job/enterprise-assurance-services-intern-summer-2027/11028833",
@@ -22808,18 +22812,6 @@
     "origin": "tracker"
   },
   {
-    "company": "Universal Health Services",
-    "title": "Software Engineer Intern - Data Analytics",
-    "url": "https://jobs.uhsinc.com/jobs/367247?icims=1&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "King of Prussia, PA"
-    ],
-    "date_posted": "2026-09-03",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "\ud83d\udd25 TikTok",
     "title": "AI Governance Strategy Product Manager Intern - Platform Trust and Ecosystem",
     "url": "https://lifeattiktok.com/search/7677493272788683013?utm_source=Simplify&ref=Simplify",
@@ -23155,6 +23147,30 @@
     "origin": "tracker"
   },
   {
+    "company": "\ud83d\udd25 AMD",
+    "title": "Diagnostics Design Engineering Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91308?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-03",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Hardware Design Verification Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91361?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Markham, ON, Canada"
+    ],
+    "date_posted": "2026-09-03",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
     "company": "General Matter",
     "title": "Embedded Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377131008?utm_source=Simplify&ref=Simplify",
@@ -23405,6 +23421,18 @@
     "term": null,
     "source": "Perplexity AI (Ashby)",
     "origin": "company-direct"
+  },
+  {
+    "company": "Universal Health Services",
+    "title": "Software Engineer Intern - Data Analytics",
+    "url": "https://jobs.uhsinc.com/jobs/367247?icims=1&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "King of Prussia, PA"
+    ],
+    "date_posted": "2026-09-02",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
   },
   {
     "company": "\ud83d\udd25 ByteDance",
@@ -23783,30 +23811,6 @@
     "locations": [
       "San Jose, CA",
       "Santa Clara, CA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Stoke Space",
-    "title": "Software Intern",
-    "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Kent, WA"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Western & Southern Financial Group",
-    "title": "Software Engineer Intern",
-    "url": "https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Cincinnati, OH"
     ],
     "date_posted": "2026-09-02",
     "term": null,
@@ -24380,30 +24384,6 @@
     "origin": "tracker"
   },
   {
-    "company": "American Express",
-    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93",
-    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "NYC"
-    ],
-    "date_posted": "2026-09-02",
-    "term": null,
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
-    "company": "Western & Southern Financial Group",
-    "title": "Actuarial Intern - Summer 2027",
-    "url": "https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Cincinnati, OH"
-    ],
-    "date_posted": "2026-09-02",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Royal Bank of Canada",
     "title": "Quantitative Analyst Summer Associate - Quantitative Technology Services",
     "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/New-York-New-York-United-States-of-America/XMLNAME-2027-Capital-Markets--Quants-Summer-Associate--Quantitative-Technology-Services_R-0000186729?utm_source=Simplify&ref=Simplify",
@@ -24621,6 +24601,30 @@
     "date_posted": "2026-09-01",
     "term": "Summer 2027",
     "source": "speedyapply/2027-SWE-College-Jobs",
+    "origin": "tracker"
+  },
+  {
+    "company": "Stoke Space",
+    "title": "Software Intern",
+    "url": "https://stokespace.com/careers/current-openings?gh_jid=6176786004&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Kent, WA"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Western & Southern Financial Group",
+    "title": "Software Engineer Intern",
+    "url": "https://careers-westernsouthern.icims.com/jobs/25222/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
   {
@@ -25397,6 +25401,30 @@
     ],
     "date_posted": "2026-09-01",
     "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "American Express",
+    "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk \ud83c\udf93",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013266?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-09-01",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Western & Southern Financial Group",
+    "title": "Actuarial Intern - Summer 2027",
+    "url": "https://careers-westernsouthern.icims.com/jobs/25106/job?mobile=true&needsRedirect=false&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Cincinnati, OH"
+    ],
+    "date_posted": "2026-09-01",
+    "term": "Summer 2027",
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
@@ -27574,18 +27602,6 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
-    "title": "Intermodal Intern - Summer 2027 - Paid",
-    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
-    "locations": [
-      "Jacksonville, FL"
-    ],
-    "date_posted": "2026-08-29",
-    "term": "Summer 2027",
-    "source": "SimplifyJobs/Summer2027-Internships",
-    "origin": "tracker"
-  },
-  {
     "company": "Northwood Space",
     "title": "Embedded Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/NorthwoodSpace/d0cca9dd-ea90-4c3b-94b4-17761932d11c/application?embed=true&utm_source=Simplify&ref=Simplify",
@@ -28495,6 +28511,78 @@
     "url": "https://deezee.wd108.myworkdayjobs.com/DeeZee_Careers/job/Des-Moines/Software-Development-Intern_REQ00368?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Des Moines, IA"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Goldman Sachs",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/171553?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Americas - Engineering",
+    "url": "https://higher.gs.com/roles/171565?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Americas - Engineering",
+    "url": "https://higher.gs.com/roles/171564?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/170637?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Birmingham, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/170644?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Engineering",
+    "url": "https://higher.gs.com/roles/177808?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Seattle, WA"
     ],
     "date_posted": "2026-08-28",
     "term": null,
@@ -29492,7 +29580,7 @@
     "origin": "tracker"
   },
   {
-    "company": "\u21b3",
+    "company": "American Express",
     "title": "Product Innovation Intern - Credit & Fraud Risk",
     "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011994?utm_source=Simplify&ref=Simplify",
     "locations": [
@@ -29585,6 +29673,18 @@
     ],
     "date_posted": "2026-08-28",
     "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "CSX",
+    "title": "Intermodal Intern - Summer 2027 - Paid",
+    "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54817?utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Jacksonville, FL"
+    ],
+    "date_posted": "2026-08-28",
+    "term": "Summer 2027",
     "source": "SimplifyJobs/Summer2027-Internships",
     "origin": "tracker"
   },
@@ -30560,6 +30660,18 @@
     "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Data-Track-Internship--Cleveland_R-41385?utm_source=Simplify&ref=Simplify",
     "locations": [
       "Brooklyn, OH"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "Goldman Sachs",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171535?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
     ],
     "date_posted": "2026-08-28",
     "term": null,
@@ -31851,10 +31963,214 @@
   },
   {
     "company": "Goldman Sachs",
-    "title": "Summer Associate Intern - Multiple Teams \ud83c\udf93",
-    "url": "https://higher.gs.com/roles/171566?type=students&utm_source=Simplify&ref=Simplify",
+    "title": "Quantitative Strategist Intern - Investment Banking",
+    "url": "https://higher.gs.com/roles/175428?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "url": "https://higher.gs.com/roles/175421?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/175424?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/175423?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern",
+    "url": "https://higher.gs.com/roles/171550?type=students&utm_source=Simplify&ref=Simplify",
     "locations": [
       "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
+    "url": "https://higher.gs.com/roles/171548?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Associate Intern \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171552?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171547?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171533?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Americas",
+    "url": "https://higher.gs.com/roles/171532?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171534?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171551?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/171563?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "NYC"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/175427?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171549?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Salt Lake City, UT"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Associate Intern - The Core Quantitative Strats \ud83c\udf93",
+    "url": "https://higher.gs.com/roles/171546?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "Dallas, TX"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/175426?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "London, UK"
+    ],
+    "date_posted": "2026-08-28",
+    "term": null,
+    "source": "SimplifyJobs/Summer2027-Internships",
+    "origin": "tracker"
+  },
+  {
+    "company": "\u21b3",
+    "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
+    "url": "https://higher.gs.com/roles/181628?type=students&utm_source=Simplify&ref=Simplify",
+    "locations": [
+      "West Palm Beach, FL"
     ],
     "date_posted": "2026-08-28",
     "term": null,
